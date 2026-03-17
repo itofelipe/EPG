@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channels>
+    <channel site="vivoplay.com.br" lang="pt" xmltv_id="Adultswim.br" site_id="lch128">Adult Swim</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#a-e-hd">A&amp;E HD</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#amc-hd">AMC HD</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#animal-planet-hd">Animal Planet HD</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#axn-hd">AXN HD</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#band-hd">Band HD</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#bandnews-hd">Bandnews HD</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#bandsports-hd">BandSports HD</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#cartoon-network-brazil-hd">Cartoon Network Brazil HD</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="CartoonitoLatinAmerica.us@Brazil" site_id="br#boomerang">Cartoonito</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#cinemax-1">Cinemax</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#cnn-brasil-1">CNN Brasil</channel>
+    <channel site="vivoplay.com.br" lang="pt" xmltv_id="Combate.br" site_id="lch1211">Combate</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#comedy-central-hd">Comedy Central HD</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#cultura-hd">Cultura HD</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#discovery-hd">Discovery HD</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#discovery-home-health-hd">Discovery Home &amp; Health HD</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#discovery-kids-hd">Discovery Kids HD</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#discovery-science-hd">Discovery Science HD</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#discovery-turbo-hd">Discovery Turbo HD</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="DiscoveryWorld.br" site_id="br#discovery-world-hd">Discovery World</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="DiscoveryTheater.br" site_id="br#discovery-theater-hd">Discovery Theater</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="InvestigationDiscovery.br" site_id="br#investigacao-discovery">Investigação Discovery</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="ESPN.br" site_id="br#espn">ESPN Brasil</channel>
+    <channel site="vivoplay.com.br" lang="pt" xmltv_id="ESPN2.br" site_id="lch464">ESPN 2</channel>
+    <channel site="vivoplay.com.br" lang="pt" xmltv_id="ESPN3.br" site_id="lch49">ESPN 3</channel>
+    <channel site="vivoplay.com.br" lang="pt" xmltv_id="ESPN4.br" site_id="lch144">ESPN 4</channel>
+    <channel site="vivoplay.com.br" lang="pt" xmltv_id="ESPN5.br" site_id="lch855">ESPN 5</channel>
+    <channel site="vivoplay.com.br" lang="pt" xmltv_id="ESPN6.br" site_id="lch3545">ESPN 6</channel>
+    <channel site="epgshare01.online" lang="en" xmltv_id="FIFA+.br" site_id="PLEX1#plex.tv.FIFA+.plex">FIFA+</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="FoodNetwork.br" site_id="br#food-network">Food Network</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#fox-sports-2-hd">FOX Sports 2 HD</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#futura-hd">Futura HD</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="InterTVGrandeMinas.br" site_id="br#intertv-grande-minas-hd">InterTV Grande Minas HD</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#globo-recife">Globo Recife</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#globo-rio-hd">Globo Rio HD</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#globo-s-o-paulo-hd">Globo São Paulo HD</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#globo-news-hd">Globo News HD</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#gloob-hd">Gloob HD</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#gnt-hd">GNT HD</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="History.br" site_id="br#history-channel">History Channel</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="History2.br" site_id="br#h2">History 2</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#hbo-hd">HBO HD</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#max-prime">HBO Xtreme</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#hbo-2">HBO 2</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="HBOPlus.br" site_id="br#hbo-plus-brasil-hd">HBO Plus HD</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#hbo-signature-1">HBO Signature</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="HBOPop.br" site_id="br#max-up">HBO Pop</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="HBOFamily.br" site_id="br#hbo-family-hd">HBO Family HD</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="HBOMundi.br" site_id="br#max-1">HBO Mundi</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="Lifetime.br" site_id="br#lifetime-brazil">Lifetime Brazil</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="Megapix.br" site_id="br#megapix">Megapix</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="Multishow.br" site_id="br#multishow">Multishow</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="NationalGeographic.br" site_id="br#national-geographic">National Geographic</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#premiere-clubes-hd">Premiere Clubes HD</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#premiere-2">Premiere 2</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#premiere-3">Premiere 3</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#premiere-4">Premiere 4</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#premiere-5-brazil">Premiere 5 Brazil</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#premiere-6">Premiere 6</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#premiere-7">Premiere 7</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#premiere-8">Premiere 8</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="Record.br" site_id="br#record">Record TV</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#record-news-hd">Record News HD</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="RedeTV.br" site_id="br#rede-tv">RedeTV!</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="SBTNacional.br" site_id="br#sbt">SBT</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="SonyChannel.br" site_id="br#sony">Sony</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="Space.br" site_id="br#space">Space</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="br#sportv2" site_id="br#sportv2">SporTV2</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="br#sportv3" site_id="br#sportv3">SporTV3</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="br#sportv" site_id="br#sportv">SporTV</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="StudioUniversal.br" site_id="br#studio-universal">Studio Universal</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="Syfy.br" site_id="br#syfy">Syfy</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="TBS.br" site_id="br#tbs">TBS</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="TelecineAction.br" site_id="br#telecine-action">Telecine Action</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="TelecineCult.br" site_id="br#telecine-cult">Telecine Cult</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="TelecineFun.br" site_id="br#telecine-fun">Telecine Fun</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="TelecinePipoca.br" site_id="br#telecine-pipoca">Telecine Pipoca</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="TelecinePremium.br" site_id="br#telecine-premium">Telecine Premium</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="TelecineTouch.br" site_id="br#telecine-touch">Telecine Touch</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="TLC.br" site_id="br#tlc">TLC</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="TNT.br" site_id="br#tnt">TNT</channel>
+    <channel site="vivoplay.com.br" lang="pt" xmltv_id="TNTNovelas.br" site_id="lch653">TNT Novelas</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="TNTSeries.br" site_id="br#tnt-series-hd">TNT Series HD</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="TVAparecida.br" site_id="br#tv-aparecida">TV Aparecida</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="TVBrasil.br" site_id="br#tv-brasil-hd">TV Brasil HD</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="TVCamara.br" site_id="br#tv-camara">TV Câmara</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#cultura">Cultura</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="UniversalTV.br" site_id="br#universal">Universal</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="WarnerChannel.br" site_id="br#warner-channel">Warner Channel</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="CanalViva.br" site_id="br#viva">VIVA</channel>
+    <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#off-hd">Off HD</channel>
+ 
+    <channel site="nostv.pt" lang="pt" xmltv_id="SportTV1.pt" site_id="137">SPORT TV1 HD</channel>
+    <channel site="nostv.pt" lang="pt" xmltv_id="SportTV2.pt" site_id="187">SPORT TV2 HD</channel>
+    <channel site="nostv.pt" lang="pt" xmltv_id="SportTV3.pt" site_id="188">SPORT TV3 HD</channel>
+    <channel site="nostv.pt" lang="pt" xmltv_id="SportTV4.pt" site_id="247">SPORT TV4 HD</channel>
+    <channel site="nostv.pt" lang="pt" xmltv_id="SportTV5.pt" site_id="180">SPORT TV5 HD</channel>
+    <channel site="nostv.pt" lang="pt" xmltv_id="SportTV6.pt" site_id="610">Sport TV 6 HD</channel>
+    <channel site="nostv.pt" lang="pt" xmltv_id="DAZN1.pt" site_id="518">DAZN 1</channel>
+    <channel site="nostv.pt" lang="pt" xmltv_id="DAZN2.pt" site_id="519">DAZN 2</channel>
+    <channel site="nostv.pt" lang="pt" xmltv_id="DAZN3.pt" site_id="513">DAZN 3</channel>
+    <channel site="nostv.pt" lang="pt" xmltv_id="Canal11.pt" site_id="565">Canal 11 HD</channel>
+    <channel site="nostv.pt" lang="pt" xmltv_id="AXNMovies.pt" site_id="194">AXN Movies HD</channel>
+    <channel site="nostv.pt" lang="pt" xmltv_id="PortoCanal.pt" site_id="423">Porto Canal HD</channel>
+    <channel site="nostv.pt" lang="pt" xmltv_id="RTP1.pt" site_id="139">RTP 1 HD</channel>
+    <channel site="nostv.pt" lang="pt" xmltv_id="RTP2.pt" site_id="554">RTP 2 HD</channel>
+    <channel site="nostv.pt" lang="pt" xmltv_id="RTP3.pt" site_id="556">RTP 3 HD</channel>
+    <channel site="nostv.pt" lang="pt" xmltv_id="SportingTV.pt" site_id="352">Sporting TV HD</channel>
+    <channel site="nostv.pt" lang="pt" xmltv_id="TVI.pt" site_id="555">TVI HD</channel>
+    <channel site="nostv.pt" lang="pt" xmltv_id="VPlusTVI.pt" site_id="574">V+TVI HD</channel>
+    <channel site="nostv.pt" lang="pt" xmltv_id="TVIReality.pt" site_id="567">TVI Reality HD</channel>  
+</channels> 
+
+<!-- 
+<channels>
+    
+    
+</channels>
+-->

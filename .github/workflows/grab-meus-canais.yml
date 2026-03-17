@@ -1,0 +1,46 @@
+name: 📺 Grab EPG - Meus Canais
+
+on:
+  # Permite rodar manualmente pelo painel do GitHub Actions
+  workflow_dispatch:
+  # Roda automaticamente a cada 2 dias às 04:00 UTC (01:00 Brasília)
+  schedule:
+    - cron: '0 4 */2 * *'
+
+jobs:
+  grab:
+    runs-on: ubuntu-latest
+    # Permissão para fazer commit e push no proprio repositório
+    permissions:
+      contents: write
+
+    steps:
+      - name: 📥 Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: ⚙️ Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: 'npm'
+
+      - name: 🛠️ Instalar datefudge
+        run: sudo apt-get install -y datefudge
+
+      - name: 📦 Instalar dependências Node.js
+        run: npm install
+
+      - name: 📡 Buscar dados EPG (a partir de ontem, 8 dias)
+        run: datefudge "yesterday" npm run grab -- --channels=meus_canais.channels.xml --output=guide.xml --days=8 --maxConnections=12
+
+      - name: 🔄 Converter guide.xml para guide.json
+        run: python3 xml_para_json.py
+
+      - name: 💾 Commit e push dos resultados
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add guide.xml guide.json
+          # Só faz commit se houver mudanças reais
+          git diff --staged --quiet || git commit -m "chore: atualizar EPG [$(date -u '+%Y-%m-%d')]"
+          git push
