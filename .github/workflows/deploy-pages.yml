@@ -1,22 +1,20 @@
 name: 🌐 Publicar guide.json no GitHub Pages
 
 on:
-  # Dispara após o workflow de grab terminar com sucesso
   workflow_run:
     workflows: ["📺 Grab EPG - Meus Canais"]
     types:
       - completed
-  # Permite rodar manualmente
   workflow_dispatch:
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    # Só roda se o workflow de grab teve sucesso
     if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' }}
     permissions:
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
       contents: read
       pages: write
       id-token: write
@@ -29,7 +27,6 @@ jobs:
       - name: 📥 Checkout do repositório
         uses: actions/checkout@v4
         with:
-          # Garante que pega o commit mais recente (incluindo o guide.json gerado)
           ref: ${{ github.ref }}
 
       - name: 📂 Preparar pasta para Pages
@@ -37,26 +34,7 @@ jobs:
           mkdir -p _site
           cp guide.json _site/guide.json
           cp guide.xml _site/guide.xml
-          # Cria um index.html simples com as URLs de consumo
-          cat > _site/index.html << 'EOF'
-          <!DOCTYPE html>
-          <html lang="pt-BR">
-          <head>
-            <meta charset="UTF-8">
-            <title>EPG - Meus Canais</title>
-            <style>body{font-family:sans-serif;max-width:600px;margin:40px auto;padding:20px}</style>
-          </head>
-          <body>
-            <h1>📺 EPG - Meus Canais</h1>
-            <p>Guia de programação atualizado automaticamente a cada 2 dias.</p>
-            <h2>📥 Downloads</h2>
-            <ul>
-              <li><a href="./guide.json">guide.json</a> — Programação em JSON</li>
-              <li><a href="./guide.xml">guide.xml</a> — Programação em XMLTV</li>
-            </ul>
-          </body>
-          </html>
-          EOF
+          cp CNAME _site/CNAME
 
       - name: ⚙️ Configurar GitHub Pages
         uses: actions/configure-pages@v4

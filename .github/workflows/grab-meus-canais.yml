@@ -1,19 +1,17 @@
 name: 📺 Grab EPG - Meus Canais
 
 on:
-  # Permite rodar manualmente pelo painel do GitHub Actions
   workflow_dispatch:
-  # Roda automaticamente a cada 2 dias às 04:00 UTC (01:00 Brasília)
   schedule:
     - cron: '0 4 */2 * *'
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   grab:
     runs-on: ubuntu-latest
-    # Permissão para fazer commit e push no proprio repositório
     permissions:
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
       contents: write
 
     steps:

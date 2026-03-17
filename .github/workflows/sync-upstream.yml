@@ -1,18 +1,17 @@
 name: 🔄 Sincronizar com repositório original
 
 on:
-  # Permite rodar manualmente
   workflow_dispatch:
-  # Roda toda segunda-feira às 02:00 UTC para pegar atualizações do repositório original
   schedule:
     - cron: '0 2 * * 1'
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   sync:
     runs-on: ubuntu-latest
     permissions:
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
       contents: write
 
     steps:
@@ -29,11 +28,8 @@ jobs:
 
       - name: 🔀 Mesclar mudanças do upstream
         run: |
-          # Mescla as atualizações do repositório original
-          # Mantém os arquivos locais em caso de conflito (strategy ours)
           git merge upstream/master --no-edit -X ours || {
             echo "Merge com conflitos. Resolvendo manualmente..."
-            # Em caso de conflito, força manutenção dos nossos arquivos customizados
             git checkout HEAD -- meus_canais.channels.xml meus_canais2.channels.xml xml_para_json.py guide.xml guide.json 2>/dev/null || true
             git add -A
             git commit -m "chore: sincronizar com upstream (mantendo arquivos customizados)"
