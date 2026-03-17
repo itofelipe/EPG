@@ -1,20 +1,6 @@
 {
   "Adultswim.br": [
     {
-      "start": "20260316062300 +0000",
-      "stop": "20260316063400 +0000",
-      "title": "Smiling Friends : Pim and Charlie Save Mother Nature",
-      "desc": "Pim e Charlie recebem a grande tarefa de salvar a Mãe Natureza.",
-      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/20/23209446_6d5dc6b9f7d6984a5fcfad158069d390.jpg"
-    },
-    {
-      "start": "20260316063400 +0000",
-      "stop": "20260316065900 +0000",
-      "title": "Clone High : Cyrano: Uma Obra de Trocadilhos",
-      "desc": "Depois que Scudworth impõe reuniões obrigatórias com os pais dos alunos, Confúcio recorre aos amigos brigados para assumirem o lugar dos seus pais adotivos ausentes; Harriet ajuda Cleo a se \"desembelezar\" para agradar ao pai de Frida.",
-      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/27/22273682_a73ce40cb7615d8fdcc34fb347acb390.jpg"
-    },
-    {
       "start": "20260316065900 +0000",
       "stop": "20260316072100 +0000",
       "title": "Genndy Tartakovsky's Primal : Terror Sob a Lua de Sangue",
@@ -484,18 +470,18 @@
       "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/17/24/17244009_D48A125048C2B644.jpg"
     },
     {
-      "start": "20260317062300 +0000",
-      "stop": "20260317063400 +0000",
-      "title": "Smiling Friends : Odisseia do Camarão",
-      "desc": "Um camarão liga para a central da Smiling Friends ao ser deixado por sua namorada e Pim e Charlie têm ideias sobre como lidar com o problema.",
-      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/17/24/17244009_D48A125048C2B644.jpg"
-    },
-    {
       "start": "20260317063400 +0000",
       "stop": "20260317065900 +0000",
       "title": "Clone High : Ilha Clone: O Twist!",
       "desc": "Ao notarem que Scudworth está mais estranho do que de costume, os clones desvendam uma história de parques temáticos rivais, romance e vingança… tudo nas páginas do diário dele.",
       "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/66/21660065_6DC7ECB404048C84.jpg"
+    },
+    {
+      "start": "20260317065900 +0000",
+      "stop": "20260317072200 +0000",
+      "title": "Genndy Tartakovsky's Primal : Fúria dos Homens-Macaco",
+      "desc": "Um oásis de paz leva a um ataque brutal de uma tribo feroz de homens simiescos.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/82/21824775_8F4C899BBA43D73D.jpg"
     },
     {
       "start": "20260317065900 +0000",
@@ -974,11 +960,11 @@
       "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/97/22974859_bf314852b17776843d6d448c055ab19c.jpg"
     },
     {
-      "start": "20260318062900 +0000",
-      "stop": "20260318065400 +0000",
-      "title": "Clone High : O Lugar Mais Clone do Mundo:...",
-      "desc": "Joana, Lincoln e o restante da turma precisam trabalhar no verão no parque temático dos sonhos de Scudworth quando ele era criança; o sonho de Candide de riscar a Ilha Clone do mapa ameaça o futuro do Colégio Clone.",
-      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/97/22974859_bf314852b17776843d6d448c055ab19c.jpg"
+      "start": "20260318065400 +0000",
+      "stop": "20260318071600 +0000",
+      "title": "Primal : Cheiro de Presa",
+      "desc": "Spear se empenha em cuidar de Fang e escapar dos caçadores do mundo primordial.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/82/21828536_64B48D0511D85EDA.jpg"
     },
     {
       "start": "20260318065400 +0000",
@@ -1457,11 +1443,11 @@
       "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/29/22293222_4d08e9ead8fe28d358c4fab0f68ed893.jpg"
     },
     {
-      "start": "20260319063200 +0000",
-      "stop": "20260319065800 +0000",
-      "title": "Projeto Clonagem : Vamos Tentar de Novo",
-      "desc": "Abe, JFK, Joan e Cleo são libertados de suas prisões de gelo e conhecem um grupo de figuras históricas em Clone High; Frida Kahlo e Harriet Tubman são as clones mais populares da escola.",
-      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/29/22293222_4d08e9ead8fe28d358c4fab0f68ed893.jpg"
+      "start": "20260319065800 +0000",
+      "stop": "20260319072100 +0000",
+      "title": "Primal : Peste da Loucura",
+      "desc": "Um saurópode doente e incontrolável está de olho em duas novas presas.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/84/21840556_d83692836914150c65f99c17c152b68d.jpg"
     },
     {
       "start": "20260319065800 +0000",
@@ -1940,11 +1926,11 @@
       "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/29/22298165_99a5730c7e961297393d043f60b16bd4.jpg"
     },
     {
-      "start": "20260320063200 +0000",
-      "stop": "20260320065800 +0000",
-      "title": "Projeto Clonagem : Festa do Pijama",
-      "desc": "Joan tenta reprimir seus sentimentos por Abe; um convite de Harriet e Frida acaba em uma reveladora, e terapêutica, partida de \"Eu Nunca\"; JFK aprende tudo sobre a internet com Confúcio e Abe se vê preso com o trol virtual Topher Bus.",
-      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/29/22298165_99a5730c7e961297393d043f60b16bd4.jpg"
+      "start": "20260320065800 +0000",
+      "stop": "20260320072100 +0000",
+      "title": "Genndy Tartakovsky's Primal : Convenção dos Malditos",
+      "desc": "Uma tribo de mulheres misteriosas e primitivas busca ampliar o seu clã fazendo o uso de magia negra contra Spear e Fang.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/84/21845805_8a63814aa483f2bbec1fc8940d4c7c27.jpg"
     },
     {
       "start": "20260320065800 +0000",
@@ -2423,11 +2409,11 @@
       "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/30/22303593_77275366877bc88cd65f03c9e21c9c41.jpg"
     },
     {
-      "start": "20260321063200 +0000",
-      "stop": "20260321065800 +0000",
-      "title": "Projeto Clonagem : Tempos de Ansiedade no Colégio Clone",
-      "desc": "A crise de saúde mental criada por Candide causa estragos; Joan começa a duvidar de seu relacionamento com JFK; Abe pensa sobre seu futuro com Joan e Harriet se preocupa em acabar virando uma #maequebebevinho.",
-      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/30/22303593_77275366877bc88cd65f03c9e21c9c41.jpg"
+      "start": "20260321065800 +0000",
+      "stop": "20260321072100 +0000",
+      "title": "Genndy Tartakovsky's Primal : O Terror Noturno",
+      "desc": "Spear e Fang são perseguidos noite adentro por um terror invisível.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/85/21850410_156ea48d9d86e9ba9d741d6f018c379f.jpg"
     },
     {
       "start": "20260321065800 +0000",
@@ -2757,6 +2743,83 @@
       "title": "Batman: The Animated Series : Os Esquecidos",
       "desc": "Ao investigar o desaparecimento de pessoas sem teto, Bruce Wayne é sequestrado e sofre de amnésia.",
       "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/47/23478304_14b6f6fff3bbf686ec992d3a75ff4805.jpg"
+    },
+    {
+      "start": "20260322013000 +0000",
+      "stop": "20260322015400 +0000",
+      "title": "Bravest Warriors : Whispers in the Morning; You've...",
+      "desc": "Os Bravos Guerreiros tentam lutar para sair de um navio de guerra, mas são capturados pelo Capitão Miau, que pretende afogá-los em areia para gatos. Chris deve usar seus poderes de senhor das emoções para libertá-los.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/90/22909284_d275077ff3df09c0793e69ebfab6995f.jpg"
+    },
+    {
+      "start": "20260322015400 +0000",
+      "stop": "20260322021800 +0000",
+      "title": "Os Cavaleiros do Zodíaco : Thor Morre por Hilda",
+      "desc": "Shiryu salva Seiya do ataque de Thor e conta que eles precisam das sete safiras dos Guerreiros Deuses para libertar Hilda do poder do anel.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/10/22100845_4c89054461766a7c25ca5d68bccc3c7f.jpg"
+    },
+    {
+      "start": "20260322021800 +0000",
+      "stop": "20260322024400 +0000",
+      "title": "Lazarus : Morte sobre Duas Pernas",
+      "desc": "Durante uma investigação para determinar o futuro de Lazarus, surgem informações que levam Schneider do INSCOM a contratar um assassino.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/55/23556975_648d5327d0cd5ee7438c288dd9b441fc.jpg"
+    },
+    {
+      "start": "20260322024400 +0000",
+      "stop": "20260322031000 +0000",
+      "title": "Jujutsu Kaisen : Depois da Chuva",
+      "desc": "Sukuna diz a Yuji que ele vai trazê-lo de volta à vida sob duas condições; Suguru Geto e um espírito amaldiçoado discutem seus planos para Gojo.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/50/23505255_9481f4d53c209a4ce59505e189b0ac2d.jpg"
+    },
+    {
+      "start": "20260322031000 +0000",
+      "stop": "20260322033500 +0000",
+      "title": "JoJo's Bizarre Adventure: Stardust Crusaders : O Mundo do Dio",
+      "desc": "DIO usa seu Stand e consegue parar o tempo, mas percebe que os dedos de Jotaro estão se mexendo.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/55/23556809_e0b9ce513869a417a48bde7d97d3195a.jpg"
+    },
+    {
+      "start": "20260322033500 +0000",
+      "stop": "20260322040000 +0000",
+      "title": "JoJo's Bizarre Adventure: Stardust Crusaders : O Adeus da Longa Jornada, Amigos",
+      "desc": "DIO contempla sua vitória. Enfurecido, Jotaro enfrenta seu inimigo em uma batalha final.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/55/23556810_6533a8b379b55509d4594d6e4c488d60.jpg"
+    },
+    {
+      "start": "20260322040000 +0000",
+      "stop": "20260322042300 +0000",
+      "title": "Rooster Fighter : The Caged Bird",
+      "desc": "",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/59/23591230_a057cddaebac1467c44e50bb9ee792cb.jpg"
+    },
+    {
+      "start": "20260322042300 +0000",
+      "stop": "20260322044900 +0000",
+      "title": "Dragon Ball Z : Blackmail",
+      "desc": "Gohan, como o Grande Saiyaman, tenta resgatar um jovem pterodáctilo do cativeiro em um circo, mas Videl interfere, levando a uma briga com os pais vingativos do animal.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/55/23556811_b3fa4eeaa294e731ec8978e7bae6d8f7.jpg"
+    },
+    {
+      "start": "20260322044900 +0000",
+      "stop": "20260322051300 +0000",
+      "title": "Dragon Ball Z",
+      "desc": "As aventuras de um poderoso guerreiro chamado Goku, seu filho Gohan e seus aliados, que se esforçam para defender a Terra das ameaças. Eles são auxiliados por um dragão que concede os desejos de quem quer que reúna as sete Esferas do Dragão.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/18/48/18483271_A459EB91FE3EF4FE.jpg"
+    },
+    {
+      "start": "20260322051300 +0000",
+      "stop": "20260322053700 +0000",
+      "title": "Dragon Ball Z : The Newest Super Saiyan",
+      "desc": "Enquanto treina para o próximo torneio com seu irmão, Gohan descobre que Goten pode se transformar em super saiyajin; Goten explica a reação de sua mãe à sua primeira transformação.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/55/23556812_71aa0e84520db32bec859527ef06ace9.jpg"
+    },
+    {
+      "start": "20260322053700 +0000",
+      "stop": "20260322055900 +0000",
+      "title": "Common Side Effects : Lakeshore Limited",
+      "desc": "Marshall está tentando fugir de Nova York; Frances confidencia ao seu chefe, Rick, sobre o cogumelo; Rick a envia para a fazenda de Marshall para conseguir mais, mas a situação sai do controle.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/26/21266790_4BE54B071B3EA5CC.jpg"
     }
   ],
   "AXNMovies.pt": [
@@ -3800,14 +3863,14 @@
     },
     {
       "start": "20260317053900 +0000",
-      "stop": "20260317060100 +0000",
+      "stop": "20260317063900 +0000",
       "title": "Quem Dá Mais?",
       "desc": "Brandi começa com um dia ruim, mas faz todo o possível para se recompor em Fullerton. Enquanto isso, Ivy fica de olho em um armário, mas fica com um segundo, eliminando a concorrência.",
       "image": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s13e27-curtam-nosso-deposito_l_m.jpg"
     },
     {
       "start": "20260317053900 +0000",
-      "stop": "20260317063900 +0000",
+      "stop": "20260317060100 +0000",
       "title": "Quem Dá Mais?",
       "desc": "Brandi começa com um dia ruim, mas faz todo o possível para se recompor em Fullerton. Enquanto isso, Ivy fica de olho em um armário, mas fica com um segundo, eliminando a concorrência.",
       "image": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s13e27-curtam-nosso-deposito_l_m.jpg"
@@ -4549,14 +4612,14 @@
     },
     {
       "start": "20260320053300 +0000",
-      "stop": "20260320063300 +0000",
+      "stop": "20260320063100 +0000",
       "title": "Linha de Combate",
       "desc": "Protestos contra medida municipal transformam-se em vandalismo com ruas bloqueadas e barricadas em chamas. Dois cidadãos inocentes são injustamente detidos por um crime que não cometeram, agravando a tensão social.",
       "image": "https://cdn.mitvstatic.com/programs/br_linha-de-combate-s01e19_l_m.jpg"
     },
     {
       "start": "20260320053300 +0000",
-      "stop": "20260320063100 +0000",
+      "stop": "20260320063300 +0000",
       "title": "Linha de Combate",
       "desc": "Protestos contra medida municipal transformam-se em vandalismo com ruas bloqueadas e barricadas em chamas. Dois cidadãos inocentes são injustamente detidos por um crime que não cometeram, agravando a tensão social.",
       "image": "https://cdn.mitvstatic.com/programs/br_linha-de-combate-s01e19_l_m.jpg"
@@ -4892,14 +4955,14 @@
     },
     {
       "start": "20260321053200 +0000",
-      "stop": "20260321061700 +0000",
+      "stop": "20260321063200 +0000",
       "title": "Caçadores de Fugitivos",
       "desc": "Os Caçadores encontram uma pista sobre um criminoso condenado escondido em um resort à beira-mar a 30 quilômetros da fronteira com os EUA; os agentes organizam uma operação para capturar um ex-fuzileiro naval procurado por tráfico de drogas.",
       "image": "https://cdn.mitvstatic.com/programs/br_cacadores-de-fugitivos-s01e01-problemas-no-paraiso_l_m.jpg"
     },
     {
       "start": "20260321053200 +0000",
-      "stop": "20260321063200 +0000",
+      "stop": "20260321061700 +0000",
       "title": "Caçadores de Fugitivos",
       "desc": "Os Caçadores encontram uma pista sobre um criminoso condenado escondido em um resort à beira-mar a 30 quilômetros da fronteira com os EUA; os agentes organizam uma operação para capturar um ex-fuzileiro naval procurado por tráfico de drogas.",
       "image": "https://cdn.mitvstatic.com/programs/br_cacadores-de-fugitivos-s01e01-problemas-no-paraiso_l_m.jpg"
@@ -5186,14 +5249,14 @@
     },
     {
       "start": "20260322054500 +0000",
-      "stop": "20260322064500 +0000",
+      "stop": "20260322060700 +0000",
       "title": "Quem Dá Mais?",
       "desc": "No leilão Riverside, Brandi decide aparecer vestida para atrair todos os olhares e distrair a concorrência. Rene está disposto a apostar mais do que pode. Barry e Kenny enlouquecem quando descobrem o que tem no seu contêiner.",
       "image": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s13e21-vestida-para-ganhar_l_m.jpg"
     },
     {
       "start": "20260322054500 +0000",
-      "stop": "20260322060700 +0000",
+      "stop": "20260322064500 +0000",
       "title": "Quem Dá Mais?",
       "desc": "No leilão Riverside, Brandi decide aparecer vestida para atrair todos os olhares e distrair a concorrência. Rene está disposto a apostar mais do que pode. Barry e Kenny enlouquecem quando descobrem o que tem no seu contêiner.",
       "image": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s13e21-vestida-para-ganhar_l_m.jpg"
@@ -36366,14 +36429,14 @@
     },
     {
       "start": "20260318052400 +0000",
-      "stop": "20260318061200 +0000",
+      "stop": "20260318062400 +0000",
       "title": "Desaparecidos - Mistérios da Humanidade",
       "desc": "Em 1962, três condenados escaparam da prisão de Alcatraz. As autoridades acreditam que os homens se afogaram, mas um novo experimento científico sugere que eles chegaram ao continente.",
       "image": "https://cdn.mitvstatic.com/programs/br_desaparecidos-misterios-da-humanidade-s01e04-os-homens-que-venceram-alcatraz_l_m.jpg"
     },
     {
       "start": "20260318052400 +0000",
-      "stop": "20260318062400 +0000",
+      "stop": "20260318061200 +0000",
       "title": "Desaparecidos - Mistérios da Humanidade",
       "desc": "Em 1962, três condenados escaparam da prisão de Alcatraz. As autoridades acreditam que os homens se afogaram, mas um novo experimento científico sugere que eles chegaram ao continente.",
       "image": "https://cdn.mitvstatic.com/programs/br_desaparecidos-misterios-da-humanidade-s01e04-os-homens-que-venceram-alcatraz_l_m.jpg"
@@ -37234,14 +37297,14 @@
     },
     {
       "start": "20260322052400 +0000",
-      "stop": "20260322061200 +0000",
+      "stop": "20260322062400 +0000",
       "title": "Popular Science: Futuro",
       "desc": "Veja nesse episódio, uma frutinha milagrosa que adoça alimentos amargos; como acariciar alguém pela internet; robôs que ensinam música; estímulos cerebrais magnéticos que nos ajudam a combater os vícios mais resistentes.",
       "image": "https://cdn.mitvstatic.com/programs/br_popular-science-futuro_l_m.jpg"
     },
     {
       "start": "20260322052400 +0000",
-      "stop": "20260322062400 +0000",
+      "stop": "20260322061200 +0000",
       "title": "Popular Science: Futuro",
       "desc": "Veja nesse episódio, uma frutinha milagrosa que adoça alimentos amargos; como acariciar alguém pela internet; robôs que ensinam música; estímulos cerebrais magnéticos que nos ajudam a combater os vícios mais resistentes.",
       "image": "https://cdn.mitvstatic.com/programs/br_popular-science-futuro_l_m.jpg"
@@ -37880,14 +37943,14 @@
     },
     {
       "start": "20260317053800 +0000",
-      "stop": "20260317063800 +0000",
+      "stop": "20260317062800 +0000",
       "title": "Mexicânicos",
       "desc": "Martin e sua equipe devem restaurar ao estado original uma Chevrolet C10 de 68 para que Kika Edgar a entregue como presente de aniversário ao marido. Realizarão a tarefa inédita de converter um fusca alemão em carro elétrico.",
       "image": "https://cdn.mitvstatic.com/programs/br_mexicanicos-1_l_m.jpg"
     },
     {
       "start": "20260317053800 +0000",
-      "stop": "20260317062800 +0000",
+      "stop": "20260317063800 +0000",
       "title": "Mexicânicos",
       "desc": "Martin e sua equipe devem restaurar ao estado original uma Chevrolet C10 de 68 para que Kika Edgar a entregue como presente de aniversário ao marido. Realizarão a tarefa inédita de converter um fusca alemão em carro elétrico.",
       "image": "https://cdn.mitvstatic.com/programs/br_mexicanicos-1_l_m.jpg"
@@ -38720,14 +38783,14 @@
     },
     {
       "start": "20260321054000 +0000",
-      "stop": "20260321063000 +0000",
+      "stop": "20260321064000 +0000",
       "title": "Os Reis da Sucata",
       "desc": "Andy quer instalar um motor Hemi em um Jeep Wrangler e muitas coisas podem dar errado. Jeff quer ressuscitar um RX-7 1986 com um motor de Corvette LT1 e Tim reforma um barco.",
       "image": "https://cdn.mitvstatic.com/programs/br_os-reis-da-sucata-s04e12-sucata-ao-mar_l_m.jpg"
     },
     {
       "start": "20260321054000 +0000",
-      "stop": "20260321064000 +0000",
+      "stop": "20260321063000 +0000",
       "title": "Os Reis da Sucata",
       "desc": "Andy quer instalar um motor Hemi em um Jeep Wrangler e muitas coisas podem dar errado. Jeff quer ressuscitar um RX-7 1986 com um motor de Corvette LT1 e Tim reforma um barco.",
       "image": "https://cdn.mitvstatic.com/programs/br_os-reis-da-sucata-s04e12-sucata-ao-mar_l_m.jpg"
@@ -39140,14 +39203,14 @@
     },
     {
       "start": "20260323054000 +0000",
-      "stop": "20260323064000 +0000",
+      "stop": "20260323063000 +0000",
       "title": "Carros Irados",
       "desc": "A Kindig-It se prepara para uma jornada de trabalho de 72 horas. A equipe trabalha madrugada adentro para preparar 17 modelos, que serão avaliados por juízes exigentes.",
       "image": "https://cdn.mitvstatic.com/programs/br_carros-irados-s01e07-luzes-cameras-autorama_l_m.jpg"
     },
     {
       "start": "20260323054000 +0000",
-      "stop": "20260323063000 +0000",
+      "stop": "20260323064000 +0000",
       "title": "Carros Irados",
       "desc": "A Kindig-It se prepara para uma jornada de trabalho de 72 horas. A equipe trabalha madrugada adentro para preparar 17 modelos, que serão avaliados por juízes exigentes.",
       "image": "https://cdn.mitvstatic.com/programs/br_carros-irados-s01e07-luzes-cameras-autorama_l_m.jpg"
@@ -39779,14 +39842,14 @@
     },
     {
       "start": "20260320053000 +0000",
-      "stop": "20260320063000 +0000",
+      "stop": "20260320073000 +0000",
       "title": "Racing x Estudiantes (RC)",
       "desc": "Acompanhe as grandes partidas do torneio de elite do futebol argentino.",
       "image": "https://cdn.mitvstatic.com/programs/br_soccer-racing-x-estudiantes-rc_l_m.jpg"
     },
     {
       "start": "20260320053000 +0000",
-      "stop": "20260320073000 +0000",
+      "stop": "20260320063000 +0000",
       "title": "Racing x Estudiantes (RC)",
       "desc": "Acompanhe as grandes partidas do torneio de elite do futebol argentino.",
       "image": "https://cdn.mitvstatic.com/programs/br_soccer-racing-x-estudiantes-rc_l_m.jpg"
@@ -46731,14 +46794,14 @@
     },
     {
       "start": "20260319052000 +0000",
-      "stop": "20260319062000 +0000",
+      "stop": "20260319061000 +0000",
       "title": "Vai que Cola",
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
       "image": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-1_l_m.jpg"
     },
     {
       "start": "20260319052000 +0000",
-      "stop": "20260319061000 +0000",
+      "stop": "20260319062000 +0000",
       "title": "Vai que Cola",
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
       "image": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-1_l_m.jpg"
@@ -47200,14 +47263,14 @@
     },
     {
       "start": "20260322054000 +0000",
-      "stop": "20260322064000 +0000",
+      "stop": "20260322074000 +0000",
       "title": "Filme",
       "desc": "Acompanhe uma produção cinematográfica.",
       "image": "https://cdn.mitvstatic.com/programs/br_filme-1_l_m.jpg"
     },
     {
       "start": "20260322054000 +0000",
-      "stop": "20260322074000 +0000",
+      "stop": "20260322064000 +0000",
       "title": "Filme",
       "desc": "Acompanhe uma produção cinematográfica.",
       "image": "https://cdn.mitvstatic.com/programs/br_filme-1_l_m.jpg"
@@ -47643,14 +47706,14 @@
     },
     {
       "start": "20260317052500 +0000",
-      "stop": "20260317062500 +0000",
+      "stop": "20260317061000 +0000",
       "title": "Vai que Cola",
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
       "image": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-1_l_m.jpg"
     },
     {
       "start": "20260317052500 +0000",
-      "stop": "20260317061000 +0000",
+      "stop": "20260317062500 +0000",
       "title": "Vai que Cola",
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
       "image": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-1_l_m.jpg"
@@ -47818,14 +47881,14 @@
     },
     {
       "start": "20260318053500 +0000",
-      "stop": "20260318062000 +0000",
+      "stop": "20260318063500 +0000",
       "title": "Vai que Cola",
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
       "image": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-1_l_m.jpg"
     },
     {
       "start": "20260318053500 +0000",
-      "stop": "20260318063500 +0000",
+      "stop": "20260318062000 +0000",
       "title": "Vai que Cola",
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
       "image": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-1_l_m.jpg"
@@ -48175,14 +48238,14 @@
     },
     {
       "start": "20260320052500 +0000",
-      "stop": "20260320061000 +0000",
+      "stop": "20260320062500 +0000",
       "title": "Vai que Cola",
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
       "image": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-1_l_m.jpg"
     },
     {
       "start": "20260320052500 +0000",
-      "stop": "20260320062500 +0000",
+      "stop": "20260320061000 +0000",
       "title": "Vai que Cola",
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
       "image": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-1_l_m.jpg"
@@ -48343,14 +48406,14 @@
     },
     {
       "start": "20260321055500 +0000",
-      "stop": "20260321090000 +0000",
+      "stop": "20260321065500 +0000",
       "title": "Filme",
       "desc": "Acompanhe uma produção cinematográfica.",
       "image": "https://cdn.mitvstatic.com/programs/br_filme-1_l_m.jpg"
     },
     {
       "start": "20260321055500 +0000",
-      "stop": "20260321065500 +0000",
+      "stop": "20260321090000 +0000",
       "title": "Filme",
       "desc": "Acompanhe uma produção cinematográfica.",
       "image": "https://cdn.mitvstatic.com/programs/br_filme-1_l_m.jpg"
@@ -48469,14 +48532,14 @@
     },
     {
       "start": "20260322054000 +0000",
-      "stop": "20260322074000 +0000",
+      "stop": "20260322064000 +0000",
       "title": "Filme",
       "desc": "Acompanhe uma produção cinematográfica.",
       "image": "https://cdn.mitvstatic.com/programs/br_filme-1_l_m.jpg"
     },
     {
       "start": "20260322054000 +0000",
-      "stop": "20260322064000 +0000",
+      "stop": "20260322074000 +0000",
       "title": "Filme",
       "desc": "Acompanhe uma produção cinematográfica.",
       "image": "https://cdn.mitvstatic.com/programs/br_filme-1_l_m.jpg"
@@ -48581,14 +48644,14 @@
     },
     {
       "start": "20260323041500 +0000",
-      "stop": "20260323051500 +0000",
+      "stop": "20260323070000 +0000",
       "title": "Filme",
       "desc": "Acompanhe uma produção cinematográfica.",
       "image": "https://cdn.mitvstatic.com/programs/br_filme-1_l_m.jpg"
     },
     {
       "start": "20260323041500 +0000",
-      "stop": "20260323070000 +0000",
+      "stop": "20260323051500 +0000",
       "title": "Filme",
       "desc": "Acompanhe uma produção cinematográfica.",
       "image": "https://cdn.mitvstatic.com/programs/br_filme-1_l_m.jpg"
@@ -49738,14 +49801,14 @@
     },
     {
       "start": "20260318055000 +0000",
-      "stop": "20260318061300 +0000",
+      "stop": "20260318065000 +0000",
       "title": "Miraculous - As Aventuras de Ladybug",
       "desc": "Marinette decide desistir de seu amor por Adrien para evitar novos desastres e foca em se preparar para lutar com Monarch, mas os dias passam e nenhum akumatizado aparece. Ela se pergunta se o vilão desistiu.",
       "image": "https://cdn.mitvstatic.com/programs/br_miraculous-as-aventuras-de-ladybug-s05e02-multiplicac-o_l_m.jpg"
     },
     {
       "start": "20260318055000 +0000",
-      "stop": "20260318065000 +0000",
+      "stop": "20260318061300 +0000",
       "title": "Miraculous - As Aventuras de Ladybug",
       "desc": "Marinette decide desistir de seu amor por Adrien para evitar novos desastres e foca em se preparar para lutar com Monarch, mas os dias passam e nenhum akumatizado aparece. Ela se pergunta se o vilão desistiu.",
       "image": "https://cdn.mitvstatic.com/programs/br_miraculous-as-aventuras-de-ladybug-s05e02-multiplicac-o_l_m.jpg"
@@ -50809,14 +50872,14 @@
     },
     {
       "start": "20260320054600 +0000",
-      "stop": "20260320064600 +0000",
+      "stop": "20260320060900 +0000",
       "title": "Miraculous - As Aventuras de Ladybug",
       "desc": "A turma bola outro plano complicado para reunir Marinette e Adrien; Lila usa seu talento para a manipulação e tenta convencer Kagami de que Marinette é mentirosa.",
       "image": "https://cdn.mitvstatic.com/programs/br_miraculous-as-aventuras-de-ladybug-s05e16-protec-o_l_m.jpg"
     },
     {
       "start": "20260320054600 +0000",
-      "stop": "20260320060900 +0000",
+      "stop": "20260320064600 +0000",
       "title": "Miraculous - As Aventuras de Ladybug",
       "desc": "A turma bola outro plano complicado para reunir Marinette e Adrien; Lila usa seu talento para a manipulação e tenta convencer Kagami de que Marinette é mentirosa.",
       "image": "https://cdn.mitvstatic.com/programs/br_miraculous-as-aventuras-de-ladybug-s05e16-protec-o_l_m.jpg"
@@ -51810,14 +51873,14 @@
     },
     {
       "start": "20260322055100 +0000",
-      "stop": "20260322061400 +0000",
+      "stop": "20260322065100 +0000",
       "title": "Miraculous - As Aventuras de Ladybug",
       "desc": "André, um famoso sorveteiro de Paris, é akumatizado por Hawk Moth. Transformado em Glaciator, ele passa a transformar todas as pessoas em sorvete, mas elas começam a derreter.",
       "image": "https://cdn.mitvstatic.com/programs/br_miraculous-as-aventuras-de-ladybug-s02e10-sapotis_l_m.jpg"
     },
     {
       "start": "20260322055100 +0000",
-      "stop": "20260322065100 +0000",
+      "stop": "20260322061400 +0000",
       "title": "Miraculous - As Aventuras de Ladybug",
       "desc": "André, um famoso sorveteiro de Paris, é akumatizado por Hawk Moth. Transformado em Glaciator, ele passa a transformar todas as pessoas em sorvete, mas elas começam a derreter.",
       "image": "https://cdn.mitvstatic.com/programs/br_miraculous-as-aventuras-de-ladybug-s02e10-sapotis_l_m.jpg"
@@ -52363,14 +52426,14 @@
     },
     {
       "start": "20260323053900 +0000",
-      "stop": "20260323060200 +0000",
+      "stop": "20260323063900 +0000",
       "title": "Miraculous - As Aventuras de Ladybug",
       "desc": "O segurança de Adrien é transformado em Gorizilla por Hawk Moth. Agora dono de uma incrível força e um olfato muito sensível, ele persegue Adrien por toda a cidade de Paris.",
       "image": "https://cdn.mitvstatic.com/programs/br_miraculous-as-aventuras-de-ladybug-s02e12-capit-hardrock_l_m.jpg"
     },
     {
       "start": "20260323053900 +0000",
-      "stop": "20260323063900 +0000",
+      "stop": "20260323060200 +0000",
       "title": "Miraculous - As Aventuras de Ladybug",
       "desc": "O segurança de Adrien é transformado em Gorizilla por Hawk Moth. Agora dono de uma incrível força e um olfato muito sensível, ele persegue Adrien por toda a cidade de Paris.",
       "image": "https://cdn.mitvstatic.com/programs/br_miraculous-as-aventuras-de-ladybug-s02e12-capit-hardrock_l_m.jpg"
@@ -53296,14 +53359,14 @@
     },
     {
       "start": "20260318054200 +0000",
-      "stop": "20260318061100 +0000",
+      "stop": "20260318064200 +0000",
       "title": "Chegadas e Partidas",
       "desc": "Astrid Fontenelle acompanha o reencontro de duas irmãs unidas pelo amor paterno e acompanha a despedida de uma filha que guarda, em um amuleto, as memórias da irmã que se foi.",
       "image": "https://cdn.mitvstatic.com/programs/br_chegadas-e-partidas-s12e06_l_m.jpg"
     },
     {
       "start": "20260318054200 +0000",
-      "stop": "20260318064200 +0000",
+      "stop": "20260318061100 +0000",
       "title": "Chegadas e Partidas",
       "desc": "Astrid Fontenelle acompanha o reencontro de duas irmãs unidas pelo amor paterno e acompanha a despedida de uma filha que guarda, em um amuleto, as memórias da irmã que se foi.",
       "image": "https://cdn.mitvstatic.com/programs/br_chegadas-e-partidas-s12e06_l_m.jpg"
@@ -53954,14 +54017,14 @@
     },
     {
       "start": "20260321052300 +0000",
-      "stop": "20260321060700 +0000",
+      "stop": "20260321062300 +0000",
       "title": "Geladeiras em Ação",
       "desc": "Três cozinheiros amadores competem para fazer café da manhã, almoço e jantar apenas com os ingredientes de uma geladeira italiana montada pelo chef Claude Troisgros.",
       "image": "https://cdn.mitvstatic.com/programs/br_geladeiras-em-ac-o-s01e04-italiana_l_m.jpg"
     },
     {
       "start": "20260321052300 +0000",
-      "stop": "20260321062300 +0000",
+      "stop": "20260321060700 +0000",
       "title": "Geladeiras em Ação",
       "desc": "Três cozinheiros amadores competem para fazer café da manhã, almoço e jantar apenas com os ingredientes de uma geladeira italiana montada pelo chef Claude Troisgros.",
       "image": "https://cdn.mitvstatic.com/programs/br_geladeiras-em-ac-o-s01e04-italiana_l_m.jpg"
@@ -54178,14 +54241,14 @@
     },
     {
       "start": "20260322054800 +0000",
-      "stop": "20260322064800 +0000",
+      "stop": "20260322063100 +0000",
       "title": "Admiráveis Conselheiras",
       "desc": "Primeira mulher negra PhD em física no Brasil e primeira professora negra do ITA, a Doutora Sonia Guimarães mostra sua força para enfrentar o preconceito e quebrar barreiras.",
       "image": "https://cdn.mitvstatic.com/programs/br_admiraveis-conselheiras-s02e09-sonia-guimar-es_l_m.jpg"
     },
     {
       "start": "20260322054800 +0000",
-      "stop": "20260322063100 +0000",
+      "stop": "20260322064800 +0000",
       "title": "Admiráveis Conselheiras",
       "desc": "Primeira mulher negra PhD em física no Brasil e primeira professora negra do ITA, a Doutora Sonia Guimarães mostra sua força para enfrentar o preconceito e quebrar barreiras.",
       "image": "https://cdn.mitvstatic.com/programs/br_admiraveis-conselheiras-s02e09-sonia-guimar-es_l_m.jpg"
@@ -54873,14 +54936,14 @@
     },
     {
       "start": "20260318055000 +0000",
-      "stop": "20260318065000 +0000",
+      "stop": "20260318072500 +0000",
       "title": "A Morte do Demônio",
       "desc": "Mia é uma viciada em drogas que, para vencer seus demônios pessoais, vai com seu irmão David, a namorada do irmão, Natalie, e os amigos de infância Olivia e Eric até uma cabana rústica, que pertence à família. Assim que chegam, descobrem que a cabana foi invadida e que o porão parece uma espécie de altar, rodeado por animais mumificados, onde a descoberta de um Livro dos Mortos invoca forças demoníacas. A presença do mal os possui até que apenas um é deixado a lutar pela sobrevivência.",
       "image": "https://cdn.mitvstatic.com/programs/br_a-morte-do-demonio-2013-1_l_m.jpg"
     },
     {
       "start": "20260318055000 +0000",
-      "stop": "20260318072500 +0000",
+      "stop": "20260318065000 +0000",
       "title": "A Morte do Demônio",
       "desc": "Mia é uma viciada em drogas que, para vencer seus demônios pessoais, vai com seu irmão David, a namorada do irmão, Natalie, e os amigos de infância Olivia e Eric até uma cabana rústica, que pertence à família. Assim que chegam, descobrem que a cabana foi invadida e que o porão parece uma espécie de altar, rodeado por animais mumificados, onde a descoberta de um Livro dos Mortos invoca forças demoníacas. A presença do mal os possui até que apenas um é deixado a lutar pela sobrevivência.",
       "image": "https://cdn.mitvstatic.com/programs/br_a-morte-do-demonio-2013-1_l_m.jpg"
@@ -55195,14 +55258,14 @@
     },
     {
       "start": "20260321052500 +0000",
-      "stop": "20260321062500 +0000",
+      "stop": "20260321071500 +0000",
       "title": "Os Fantasmas Ainda se Divertem - Beetlejuice Beetlejuice",
       "desc": "Lydia Deetz já é adulta e mãe da adolescente Astrid, que repentinamente descobre a misteriosa maquete da cidade no sótão e abre, sem querer, o portal para a vida após a morte, mais uma vez virando a vida da família Deetz de ponta-cabeça.",
       "image": "https://cdn.mitvstatic.com/programs/br_os-fantasmas-ainda-se-divertem-beetlejuice-beetlejuice-2024_l_m.jpg"
     },
     {
       "start": "20260321052500 +0000",
-      "stop": "20260321071500 +0000",
+      "stop": "20260321062500 +0000",
       "title": "Os Fantasmas Ainda se Divertem - Beetlejuice Beetlejuice",
       "desc": "Lydia Deetz já é adulta e mãe da adolescente Astrid, que repentinamente descobre a misteriosa maquete da cidade no sótão e abre, sem querer, o portal para a vida após a morte, mais uma vez virando a vida da família Deetz de ponta-cabeça.",
       "image": "https://cdn.mitvstatic.com/programs/br_os-fantasmas-ainda-se-divertem-beetlejuice-beetlejuice-2024_l_m.jpg"
@@ -55293,14 +55356,14 @@
     },
     {
       "start": "20260322050200 +0000",
-      "stop": "20260322070200 +0000",
+      "stop": "20260322060200 +0000",
       "title": "O Vingador do Futuro",
       "desc": "Quaid, um operário entediado, procura uma empresa que oferece um serviço especial: um procedimento que transforma sonhos em lembranças verdadeiras. Como seu sonho era ser espião, Quaid passa pelo procedimento, mas as coisas não saem como planejadas.",
       "image": "https://cdn.mitvstatic.com/programs/br_o-vingador-do-futuro-2012-1_l_m.jpg"
     },
     {
       "start": "20260322050200 +0000",
-      "stop": "20260322060200 +0000",
+      "stop": "20260322070200 +0000",
       "title": "O Vingador do Futuro",
       "desc": "Quaid, um operário entediado, procura uma empresa que oferece um serviço especial: um procedimento que transforma sonhos em lembranças verdadeiras. Como seu sonho era ser espião, Quaid passa pelo procedimento, mas as coisas não saem como planejadas.",
       "image": "https://cdn.mitvstatic.com/programs/br_o-vingador-do-futuro-2012-1_l_m.jpg"
@@ -55589,14 +55652,14 @@
     },
     {
       "start": "20260317055600 +0000",
-      "stop": "20260317071800 +0000",
+      "stop": "20260317065600 +0000",
       "title": "James Acaster: Interrupção Permitida",
       "desc": "O comediante James Acaster explora sua relação de amor e ódio com a comédia stand-up cedendo o controle de seu show e aceitando uma dose saudável de interrupções do público.",
       "image": "https://cdn.mitvstatic.com/programs/br_james-acaster-interrupc-o-permitida_l_m.jpg"
     },
     {
       "start": "20260317055600 +0000",
-      "stop": "20260317065600 +0000",
+      "stop": "20260317071800 +0000",
       "title": "James Acaster: Interrupção Permitida",
       "desc": "O comediante James Acaster explora sua relação de amor e ódio com a comédia stand-up cedendo o controle de seu show e aceitando uma dose saudável de interrupções do público.",
       "image": "https://cdn.mitvstatic.com/programs/br_james-acaster-interrupc-o-permitida_l_m.jpg"
@@ -55687,14 +55750,14 @@
     },
     {
       "start": "20260318043000 +0000",
-      "stop": "20260318061500 +0000",
+      "stop": "20260318053000 +0000",
       "title": "Os Smurfs",
       "desc": "Gargamel tenta capturar os Smurfs para tê-los como amuletos. Assustados e liderados pelo Smurf Desastrado, os pequeninos entram em uma gruta proibida durante a lua cheia. Eles acabam sendo transportados por um portal para o Central Park, em Nova York. Lá, Desastrado, Ranzinza, Smurfette, Gênio, Papai Smurf e Valente encontram refúgio com um casal.",
       "image": "https://cdn.mitvstatic.com/programs/br_os-smurfs-2011_l_m.jpg"
     },
     {
       "start": "20260318043000 +0000",
-      "stop": "20260318053000 +0000",
+      "stop": "20260318061500 +0000",
       "title": "Os Smurfs",
       "desc": "Gargamel tenta capturar os Smurfs para tê-los como amuletos. Assustados e liderados pelo Smurf Desastrado, os pequeninos entram em uma gruta proibida durante a lua cheia. Eles acabam sendo transportados por um portal para o Central Park, em Nova York. Lá, Desastrado, Ranzinza, Smurfette, Gênio, Papai Smurf e Valente encontram refúgio com um casal.",
       "image": "https://cdn.mitvstatic.com/programs/br_os-smurfs-2011_l_m.jpg"
@@ -55897,14 +55960,14 @@
     },
     {
       "start": "20260320045000 +0000",
-      "stop": "20260320055000 +0000",
+      "stop": "20260320070000 +0000",
       "title": "Atração Perigosa",
       "desc": "Doug MacRay é o líder de um grupo de ladrões. Um dia, ao realizar um assalto, seu parceiro James faz Claire Keesey refém para facilitar a fuga do grupo, libertando-a logo em seguida. Sabendo que a jovem está traumatizada, Doug se aproxima dela e os dois se apaixonam. Doug tenta abandonar a vida de crimes, mas é forçado a continuar cometendo assaltos.",
       "image": "https://cdn.mitvstatic.com/programs/br_atrac-o-perigosa-2010-1_l_m.jpg"
     },
     {
       "start": "20260320045000 +0000",
-      "stop": "20260320070000 +0000",
+      "stop": "20260320055000 +0000",
       "title": "Atração Perigosa",
       "desc": "Doug MacRay é o líder de um grupo de ladrões. Um dia, ao realizar um assalto, seu parceiro James faz Claire Keesey refém para facilitar a fuga do grupo, libertando-a logo em seguida. Sabendo que a jovem está traumatizada, Doug se aproxima dela e os dois se apaixonam. Doug tenta abandonar a vida de crimes, mas é forçado a continuar cometendo assaltos.",
       "image": "https://cdn.mitvstatic.com/programs/br_atrac-o-perigosa-2010-1_l_m.jpg"
@@ -55995,14 +56058,14 @@
     },
     {
       "start": "20260321044000 +0000",
-      "stop": "20260321070000 +0000",
+      "stop": "20260321054000 +0000",
       "title": "Invocação do Mal 2",
       "desc": "Os famosos demonologistas Lorraine e Ed Warren viajam até o norte de Londres. Lá, eles ajudam uma mãe solteira que cria quatro filhos sozinha em uma casa atormentada por espíritos malignos.",
       "image": "https://cdn.mitvstatic.com/programs/br_invocac-o-do-mal-2-2016_l_m.jpg"
     },
     {
       "start": "20260321044000 +0000",
-      "stop": "20260321054000 +0000",
+      "stop": "20260321070000 +0000",
       "title": "Invocação do Mal 2",
       "desc": "Os famosos demonologistas Lorraine e Ed Warren viajam até o norte de Londres. Lá, eles ajudam uma mãe solteira que cria quatro filhos sozinha em uma casa atormentada por espíritos malignos.",
       "image": "https://cdn.mitvstatic.com/programs/br_invocac-o-do-mal-2-2016_l_m.jpg"
@@ -56086,14 +56149,14 @@
     },
     {
       "start": "20260322051200 +0000",
-      "stop": "20260322072600 +0000",
+      "stop": "20260322061200 +0000",
       "title": "O Caso Richard Jewell",
       "desc": "A história real de Richard Jewell, segurança que se tornou um dos principais suspeitos de bombardear as Olimpíadas de Atlanta, em 1996, após ajudar inocentes a fugirem do local e avisar da existência de um dos explosivos.",
       "image": "https://cdn.mitvstatic.com/programs/br_o-caso-richard-jewell-2019_l_m.jpg"
     },
     {
       "start": "20260322051200 +0000",
-      "stop": "20260322061200 +0000",
+      "stop": "20260322072600 +0000",
       "title": "O Caso Richard Jewell",
       "desc": "A história real de Richard Jewell, segurança que se tornou um dos principais suspeitos de bombardear as Olimpíadas de Atlanta, em 1996, após ajudar inocentes a fugirem do local e avisar da existência de um dos explosivos.",
       "image": "https://cdn.mitvstatic.com/programs/br_o-caso-richard-jewell-2019_l_m.jpg"
@@ -56466,14 +56529,14 @@
     },
     {
       "start": "20260317053600 +0000",
-      "stop": "20260317071600 +0000",
+      "stop": "20260317063600 +0000",
       "title": "Running With Beto",
       "desc": "Um olhar sobre a campanha de Beto O'Rourke, criada para tirar Ted Cruz do Senado americano.",
       "image": "https://cdn.mitvstatic.com/programs/br_running-with-beto-2019_l_m.jpg"
     },
     {
       "start": "20260317053600 +0000",
-      "stop": "20260317063600 +0000",
+      "stop": "20260317071600 +0000",
       "title": "Running With Beto",
       "desc": "Um olhar sobre a campanha de Beto O'Rourke, criada para tirar Ted Cruz do Senado americano.",
       "image": "https://cdn.mitvstatic.com/programs/br_running-with-beto-2019_l_m.jpg"
@@ -56606,14 +56669,14 @@
     },
     {
       "start": "20260318054600 +0000",
-      "stop": "20260318064600 +0000",
+      "stop": "20260318071600 +0000",
       "title": "Eu Sou a Evidência",
       "desc": "Estima-se que, todos os anos, centenas de milhares de kits de estupro não foram testados nas instalações de armazenamento da polícia estadunidense. Este documentário explora a maneira chocante como os casos de violência sexual foram processados historicamente nos Estados Unidos.",
       "image": "https://cdn.mitvstatic.com/programs/br_eu-sou-a-evidencia-2017_l_m.jpg"
     },
     {
       "start": "20260318054600 +0000",
-      "stop": "20260318071600 +0000",
+      "stop": "20260318064600 +0000",
       "title": "Eu Sou a Evidência",
       "desc": "Estima-se que, todos os anos, centenas de milhares de kits de estupro não foram testados nas instalações de armazenamento da polícia estadunidense. Este documentário explora a maneira chocante como os casos de violência sexual foram processados historicamente nos Estados Unidos.",
       "image": "https://cdn.mitvstatic.com/programs/br_eu-sou-a-evidencia-2017_l_m.jpg"
@@ -57819,14 +57882,14 @@
     },
     {
       "start": "20260320043600 +0000",
-      "stop": "20260320053600 +0000",
+      "stop": "20260320065700 +0000",
       "title": "Capitão Phillips",
       "desc": "Em 2009, piratas somalis invadem o navio cargueiro MV Maersk Alabama, dos Estados Unidos, e mantêm o capitão Richard Phillips e sua tripulação como reféns.",
       "image": "https://cdn.mitvstatic.com/programs/br_capit-o-phillips-2013_l_m.jpg"
     },
     {
       "start": "20260320043600 +0000",
-      "stop": "20260320065700 +0000",
+      "stop": "20260320053600 +0000",
       "title": "Capitão Phillips",
       "desc": "Em 2009, piratas somalis invadem o navio cargueiro MV Maersk Alabama, dos Estados Unidos, e mantêm o capitão Richard Phillips e sua tripulação como reféns.",
       "image": "https://cdn.mitvstatic.com/programs/br_capit-o-phillips-2013_l_m.jpg"
@@ -57917,14 +57980,14 @@
     },
     {
       "start": "20260321045100 +0000",
-      "stop": "20260321070300 +0000",
+      "stop": "20260321055100 +0000",
       "title": "Triplo X",
       "desc": "O ex-atleta de esportes extremos Xander \"XXX\" Cage, famoso por suas acrobacias que desafiam a morte, é convencido de que pode ter sucesso em ações que espiões convencionais falharam. Xander é recrutado pelo agente Gibbons para se tornar um tipo diferente de agente secreto. Agora, em uma perigosa missão, ele precisa usar todas as suas habilidades para combater um inimigo mortal.",
       "image": "https://cdn.mitvstatic.com/programs/br_triplo-x-2002_l_m.jpg"
     },
     {
       "start": "20260321045100 +0000",
-      "stop": "20260321055100 +0000",
+      "stop": "20260321070300 +0000",
       "title": "Triplo X",
       "desc": "O ex-atleta de esportes extremos Xander \"XXX\" Cage, famoso por suas acrobacias que desafiam a morte, é convencido de que pode ter sucesso em ações que espiões convencionais falharam. Xander é recrutado pelo agente Gibbons para se tornar um tipo diferente de agente secreto. Agora, em uma perigosa missão, ele precisa usar todas as suas habilidades para combater um inimigo mortal.",
       "image": "https://cdn.mitvstatic.com/programs/br_triplo-x-2002_l_m.jpg"
@@ -58001,14 +58064,14 @@
     },
     {
       "start": "20260322045500 +0000",
-      "stop": "20260322055500 +0000",
+      "stop": "20260322065400 +0000",
       "title": "Assassino sem Rastro",
       "desc": "Alex, um assassino profissional, se recusa a completar um trabalho para uma organização criminosa e acaba se tornando um alvo. Agentes do FBI e da inteligência mexicana são trazidos para investigar seu rastro de corpos, levando-os para mais perto de Alex. Com o sindicato do crime e o FBI em perseguição, apenas uma coisa pode impedi-lo: uma doença que lhe causa grave perda de memória e afeta todos os seus movimentos. Alex agora deve questionar todas as suas ações e em quem ele pode confiar.",
       "image": "https://cdn.mitvstatic.com/programs/br_assassino-sem-rastro-2022_l_m.jpg"
     },
     {
       "start": "20260322045500 +0000",
-      "stop": "20260322065400 +0000",
+      "stop": "20260322055500 +0000",
       "title": "Assassino sem Rastro",
       "desc": "Alex, um assassino profissional, se recusa a completar um trabalho para uma organização criminosa e acaba se tornando um alvo. Agentes do FBI e da inteligência mexicana são trazidos para investigar seu rastro de corpos, levando-os para mais perto de Alex. Com o sindicato do crime e o FBI em perseguição, apenas uma coisa pode impedi-lo: uma doença que lhe causa grave perda de memória e afeta todos os seus movimentos. Alex agora deve questionar todas as suas ações e em quem ele pode confiar.",
       "image": "https://cdn.mitvstatic.com/programs/br_assassino-sem-rastro-2022_l_m.jpg"
@@ -58092,14 +58155,14 @@
     },
     {
       "start": "20260323044300 +0000",
-      "stop": "20260323054300 +0000",
+      "stop": "20260323071000 +0000",
       "title": "Falcão Negro em Perigo",
       "desc": "Em outubro de 1993, durante a guerra civil da Somália, uma força de elite americana é enviada para capturar generais locais. Porém, após dois helicópteros serem derrubados, o que deveria ser uma operação simples se torna uma extensa batalha.",
       "image": "https://cdn.mitvstatic.com/programs/br_falc-o-negro-em-perigo-2001-1_l_m.jpg"
     },
     {
       "start": "20260323044300 +0000",
-      "stop": "20260323071000 +0000",
+      "stop": "20260323054300 +0000",
       "title": "Falcão Negro em Perigo",
       "desc": "Em outubro de 1993, durante a guerra civil da Somália, uma força de elite americana é enviada para capturar generais locais. Porém, após dois helicópteros serem derrubados, o que deveria ser uma operação simples se torna uma extensa batalha.",
       "image": "https://cdn.mitvstatic.com/programs/br_falc-o-negro-em-perigo-2001-1_l_m.jpg"
@@ -58871,14 +58934,14 @@
     },
     {
       "start": "20260318055000 +0000",
-      "stop": "20260318061700 +0000",
+      "stop": "20260318065000 +0000",
       "title": "Ventos do Mediterrâneo",
       "desc": "Os seis atletas conhecem Ibrahim Bilem, o capitão que os guiará na expedição pelo Mediterrâneo. A viagem começa com sessões de kitesurf e foil surfe.",
       "image": "https://cdn.mitvstatic.com/programs/br_ventos-do-mediterraneo-s01e01-o-inicio-da-aventura_l_m.jpg"
     },
     {
       "start": "20260318055000 +0000",
-      "stop": "20260318065000 +0000",
+      "stop": "20260318061700 +0000",
       "title": "Ventos do Mediterrâneo",
       "desc": "Os seis atletas conhecem Ibrahim Bilem, o capitão que os guiará na expedição pelo Mediterrâneo. A viagem começa com sessões de kitesurf e foil surfe.",
       "image": "https://cdn.mitvstatic.com/programs/br_ventos-do-mediterraneo-s01e01-o-inicio-da-aventura_l_m.jpg"
@@ -59781,14 +59844,14 @@
     },
     {
       "start": "20260321020000 +0000",
-      "stop": "20260321030000 +0000",
+      "stop": "20260321094900 +0000",
       "title": "Ameaçados",
       "desc": "Nos Estados Unidos, Sofia viaja em busca de um dos eventos mais incríveis da natureza, a agregação de tubarões Mangona.",
       "image": "https://cdn.mitvstatic.com/programs/br_ameacados-s01e11_l_m.jpg"
     },
     {
       "start": "20260321020000 +0000",
-      "stop": "20260321094900 +0000",
+      "stop": "20260321030000 +0000",
       "title": "Ameaçados",
       "desc": "Nos Estados Unidos, Sofia viaja em busca de um dos eventos mais incríveis da natureza, a agregação de tubarões Mangona.",
       "image": "https://cdn.mitvstatic.com/programs/br_ameacados-s01e11_l_m.jpg"
@@ -60082,14 +60145,14 @@
     },
     {
       "start": "20260322054900 +0000",
-      "stop": "20260322064900 +0000",
+      "stop": "20260322061900 +0000",
       "title": "Surfe Social Clube",
       "desc": "Áurea Rodrigues apresenta o Soul Surf, projeto que criou com seu filho para levar as crianças da periferia de Itanhaém para surfar. Com parcerias, o suporte vai além do surfe.",
       "image": "https://cdn.mitvstatic.com/programs/br_surfe-social-clube-s01e05-soul-surf-itanhaem-sp_l_m.jpg"
     },
     {
       "start": "20260322054900 +0000",
-      "stop": "20260322061900 +0000",
+      "stop": "20260322064900 +0000",
       "title": "Surfe Social Clube",
       "desc": "Áurea Rodrigues apresenta o Soul Surf, projeto que criou com seu filho para levar as crianças da periferia de Itanhaém para surfar. Com parcerias, o suporte vai além do surfe.",
       "image": "https://cdn.mitvstatic.com/programs/br_surfe-social-clube-s01e05-soul-surf-itanhaem-sp_l_m.jpg"
@@ -60425,14 +60488,14 @@
     },
     {
       "start": "20260323055300 +0000",
-      "stop": "20260323062000 +0000",
+      "stop": "20260323065300 +0000",
       "title": "Europa por Elas",
       "desc": "As meninas vão para Valdoviño, na Espanha. Além de sessões de surfe, elas também vivem muitas surpresas na cidade. Depois, seguem para o próximo destino: Gijón.",
       "image": "https://cdn.mitvstatic.com/programs/br_europa-por-elas-s07e05-a-chegada-na-espanha_l_m.jpg"
     },
     {
       "start": "20260323055300 +0000",
-      "stop": "20260323065300 +0000",
+      "stop": "20260323062000 +0000",
       "title": "Europa por Elas",
       "desc": "As meninas vão para Valdoviño, na Espanha. Além de sessões de surfe, elas também vivem muitas surpresas na cidade. Depois, seguem para o próximo destino: Gijón.",
       "image": "https://cdn.mitvstatic.com/programs/br_europa-por-elas-s07e05-a-chegada-na-espanha_l_m.jpg"
@@ -60805,14 +60868,14 @@
     },
     {
       "start": "20260317010000 +0000",
-      "stop": "20260317020000 +0000",
+      "stop": "20260317090000 +0000",
       "title": "Premiere 2",
       "desc": "Acompanhe a programação pay-per-view.",
       "image": "https://cdn.mitvstatic.com/programs/br_special-premiere-2_l_m.jpg"
     },
     {
       "start": "20260317010000 +0000",
-      "stop": "20260317090000 +0000",
+      "stop": "20260317020000 +0000",
       "title": "Premiere 2",
       "desc": "Acompanhe a programação pay-per-view.",
       "image": "https://cdn.mitvstatic.com/programs/br_special-premiere-2_l_m.jpg"
@@ -60833,14 +60896,14 @@
     },
     {
       "start": "20260318010000 +0000",
-      "stop": "20260318090000 +0000",
+      "stop": "20260318020000 +0000",
       "title": "Premiere 2",
       "desc": "Acompanhe a programação pay-per-view.",
       "image": "https://cdn.mitvstatic.com/programs/br_special-premiere-2_l_m.jpg"
     },
     {
       "start": "20260318010000 +0000",
-      "stop": "20260318020000 +0000",
+      "stop": "20260318090000 +0000",
       "title": "Premiere 2",
       "desc": "Acompanhe a programação pay-per-view.",
       "image": "https://cdn.mitvstatic.com/programs/br_special-premiere-2_l_m.jpg"
@@ -60945,14 +61008,14 @@
     },
     {
       "start": "20260322010000 +0000",
-      "stop": "20260322020000 +0000",
+      "stop": "20260322090000 +0000",
       "title": "Premiere 2",
       "desc": "Acompanhe a programação pay-per-view.",
       "image": "https://cdn.mitvstatic.com/programs/br_special-premiere-2_l_m.jpg"
     },
     {
       "start": "20260322010000 +0000",
-      "stop": "20260322090000 +0000",
+      "stop": "20260322020000 +0000",
       "title": "Premiere 2",
       "desc": "Acompanhe a programação pay-per-view.",
       "image": "https://cdn.mitvstatic.com/programs/br_special-premiere-2_l_m.jpg"
@@ -61425,14 +61488,14 @@
     },
     {
       "start": "20260323010000 +0000",
-      "stop": "20260323020000 +0000",
+      "stop": "20260323090000 +0000",
       "title": "Premiere 4",
       "desc": "Acompanhe a programação pay-per-view.",
       "image": "https://cdn.mitvstatic.com/programs/br_special-premiere-4_l_m.jpg"
     },
     {
       "start": "20260323010000 +0000",
-      "stop": "20260323090000 +0000",
+      "stop": "20260323020000 +0000",
       "title": "Premiere 4",
       "desc": "Acompanhe a programação pay-per-view.",
       "image": "https://cdn.mitvstatic.com/programs/br_special-premiere-4_l_m.jpg"
@@ -61518,14 +61581,14 @@
     },
     {
       "start": "20260318010000 +0000",
-      "stop": "20260318090000 +0000",
+      "stop": "20260318020000 +0000",
       "title": "Premiere 5",
       "desc": "Acompanhe a programação pay-per-view.",
       "image": "https://cdn.mitvstatic.com/programs/br_special-premiere-5_l_m.jpg"
     },
     {
       "start": "20260318010000 +0000",
-      "stop": "20260318020000 +0000",
+      "stop": "20260318090000 +0000",
       "title": "Premiere 5",
       "desc": "Acompanhe a programação pay-per-view.",
       "image": "https://cdn.mitvstatic.com/programs/br_special-premiere-5_l_m.jpg"
@@ -61574,14 +61637,14 @@
     },
     {
       "start": "20260320010000 +0000",
-      "stop": "20260320090000 +0000",
+      "stop": "20260320020000 +0000",
       "title": "Premiere 5",
       "desc": "Acompanhe a programação pay-per-view.",
       "image": "https://cdn.mitvstatic.com/programs/br_special-premiere-5_l_m.jpg"
     },
     {
       "start": "20260320010000 +0000",
-      "stop": "20260320020000 +0000",
+      "stop": "20260320090000 +0000",
       "title": "Premiere 5",
       "desc": "Acompanhe a programação pay-per-view.",
       "image": "https://cdn.mitvstatic.com/programs/br_special-premiere-5_l_m.jpg"
@@ -61630,14 +61693,14 @@
     },
     {
       "start": "20260322010000 +0000",
-      "stop": "20260322020000 +0000",
+      "stop": "20260322090000 +0000",
       "title": "Premiere 5",
       "desc": "Acompanhe a programação pay-per-view.",
       "image": "https://cdn.mitvstatic.com/programs/br_special-premiere-5_l_m.jpg"
     },
     {
       "start": "20260322010000 +0000",
-      "stop": "20260322090000 +0000",
+      "stop": "20260322020000 +0000",
       "title": "Premiere 5",
       "desc": "Acompanhe a programação pay-per-view.",
       "image": "https://cdn.mitvstatic.com/programs/br_special-premiere-5_l_m.jpg"
@@ -61723,14 +61786,14 @@
     },
     {
       "start": "20260317010000 +0000",
-      "stop": "20260317020000 +0000",
+      "stop": "20260317090000 +0000",
       "title": "Premiere 6",
       "desc": "Acompanhe a programação pay-per-view.",
       "image": "https://cdn.mitvstatic.com/programs/br_special-premiere-6_l_m.jpg"
     },
     {
       "start": "20260317010000 +0000",
-      "stop": "20260317090000 +0000",
+      "stop": "20260317020000 +0000",
       "title": "Premiere 6",
       "desc": "Acompanhe a programação pay-per-view.",
       "image": "https://cdn.mitvstatic.com/programs/br_special-premiere-6_l_m.jpg"
@@ -61779,14 +61842,14 @@
     },
     {
       "start": "20260319010000 +0000",
-      "stop": "20260319090000 +0000",
+      "stop": "20260319020000 +0000",
       "title": "Premiere 6",
       "desc": "Acompanhe a programação pay-per-view.",
       "image": "https://cdn.mitvstatic.com/programs/br_special-premiere-6_l_m.jpg"
     },
     {
       "start": "20260319010000 +0000",
-      "stop": "20260319020000 +0000",
+      "stop": "20260319090000 +0000",
       "title": "Premiere 6",
       "desc": "Acompanhe a programação pay-per-view.",
       "image": "https://cdn.mitvstatic.com/programs/br_special-premiere-6_l_m.jpg"
@@ -61807,14 +61870,14 @@
     },
     {
       "start": "20260320010000 +0000",
-      "stop": "20260320020000 +0000",
+      "stop": "20260320090000 +0000",
       "title": "Premiere 6",
       "desc": "Acompanhe a programação pay-per-view.",
       "image": "https://cdn.mitvstatic.com/programs/br_special-premiere-6_l_m.jpg"
     },
     {
       "start": "20260320010000 +0000",
-      "stop": "20260320090000 +0000",
+      "stop": "20260320020000 +0000",
       "title": "Premiere 6",
       "desc": "Acompanhe a programação pay-per-view.",
       "image": "https://cdn.mitvstatic.com/programs/br_special-premiere-6_l_m.jpg"
@@ -61835,14 +61898,14 @@
     },
     {
       "start": "20260321010000 +0000",
-      "stop": "20260321090000 +0000",
+      "stop": "20260321020000 +0000",
       "title": "Premiere 6",
       "desc": "Acompanhe a programação pay-per-view.",
       "image": "https://cdn.mitvstatic.com/programs/br_special-premiere-6_l_m.jpg"
     },
     {
       "start": "20260321010000 +0000",
-      "stop": "20260321020000 +0000",
+      "stop": "20260321090000 +0000",
       "title": "Premiere 6",
       "desc": "Acompanhe a programação pay-per-view.",
       "image": "https://cdn.mitvstatic.com/programs/br_special-premiere-6_l_m.jpg"
@@ -61870,14 +61933,14 @@
     },
     {
       "start": "20260322030000 +0000",
-      "stop": "20260322040000 +0000",
+      "stop": "20260322090000 +0000",
       "title": "Premiere 6",
       "desc": "Acompanhe a programação pay-per-view.",
       "image": "https://cdn.mitvstatic.com/programs/br_special-premiere-6_l_m.jpg"
     },
     {
       "start": "20260322030000 +0000",
-      "stop": "20260322090000 +0000",
+      "stop": "20260322040000 +0000",
       "title": "Premiere 6",
       "desc": "Acompanhe a programação pay-per-view.",
       "image": "https://cdn.mitvstatic.com/programs/br_special-premiere-6_l_m.jpg"
@@ -62040,14 +62103,14 @@
     },
     {
       "start": "20260320010000 +0000",
-      "stop": "20260320090000 +0000",
+      "stop": "20260320020000 +0000",
       "title": "Premiere 7",
       "desc": "Acompanhe a programação pay-per-view.",
       "image": "https://cdn.mitvstatic.com/programs/br_special-premiere-7_l_m.jpg"
     },
     {
       "start": "20260320010000 +0000",
-      "stop": "20260320020000 +0000",
+      "stop": "20260320090000 +0000",
       "title": "Premiere 7",
       "desc": "Acompanhe a programação pay-per-view.",
       "image": "https://cdn.mitvstatic.com/programs/br_special-premiere-7_l_m.jpg"
@@ -62103,14 +62166,14 @@
     },
     {
       "start": "20260322030000 +0000",
-      "stop": "20260322090000 +0000",
+      "stop": "20260322040000 +0000",
       "title": "Premiere 7",
       "desc": "Acompanhe a programação pay-per-view.",
       "image": "https://cdn.mitvstatic.com/programs/br_special-premiere-7_l_m.jpg"
     },
     {
       "start": "20260322030000 +0000",
-      "stop": "20260322040000 +0000",
+      "stop": "20260322090000 +0000",
       "title": "Premiere 7",
       "desc": "Acompanhe a programação pay-per-view.",
       "image": "https://cdn.mitvstatic.com/programs/br_special-premiere-7_l_m.jpg"
@@ -62189,14 +62252,14 @@
     },
     {
       "start": "20260317010000 +0000",
-      "stop": "20260317020000 +0000",
+      "stop": "20260317090000 +0000",
       "title": "Premiere 8",
       "desc": "Acompanhe a programação pay-per-view.",
       "image": "https://cdn.mitvstatic.com/programs/br_special-premiere-8_l_m.jpg"
     },
     {
       "start": "20260317010000 +0000",
-      "stop": "20260317090000 +0000",
+      "stop": "20260317020000 +0000",
       "title": "Premiere 8",
       "desc": "Acompanhe a programação pay-per-view.",
       "image": "https://cdn.mitvstatic.com/programs/br_special-premiere-8_l_m.jpg"
@@ -62217,14 +62280,14 @@
     },
     {
       "start": "20260318010000 +0000",
-      "stop": "20260318090000 +0000",
+      "stop": "20260318020000 +0000",
       "title": "Premiere 8",
       "desc": "Acompanhe a programação pay-per-view.",
       "image": "https://cdn.mitvstatic.com/programs/br_special-premiere-8_l_m.jpg"
     },
     {
       "start": "20260318010000 +0000",
-      "stop": "20260318020000 +0000",
+      "stop": "20260318090000 +0000",
       "title": "Premiere 8",
       "desc": "Acompanhe a programação pay-per-view.",
       "image": "https://cdn.mitvstatic.com/programs/br_special-premiere-8_l_m.jpg"
@@ -62301,14 +62364,14 @@
     },
     {
       "start": "20260321010000 +0000",
-      "stop": "20260321090000 +0000",
+      "stop": "20260321020000 +0000",
       "title": "Premiere 8",
       "desc": "Acompanhe a programação pay-per-view.",
       "image": "https://cdn.mitvstatic.com/programs/br_special-premiere-8_l_m.jpg"
     },
     {
       "start": "20260321010000 +0000",
-      "stop": "20260321020000 +0000",
+      "stop": "20260321090000 +0000",
       "title": "Premiere 8",
       "desc": "Acompanhe a programação pay-per-view.",
       "image": "https://cdn.mitvstatic.com/programs/br_special-premiere-8_l_m.jpg"
@@ -62329,14 +62392,14 @@
     },
     {
       "start": "20260322010000 +0000",
-      "stop": "20260322020000 +0000",
+      "stop": "20260322090000 +0000",
       "title": "Premiere 8",
       "desc": "Acompanhe a programação pay-per-view.",
       "image": "https://cdn.mitvstatic.com/programs/br_special-premiere-8_l_m.jpg"
     },
     {
       "start": "20260322010000 +0000",
-      "stop": "20260322090000 +0000",
+      "stop": "20260322020000 +0000",
       "title": "Premiere 8",
       "desc": "Acompanhe a programação pay-per-view.",
       "image": "https://cdn.mitvstatic.com/programs/br_special-premiere-8_l_m.jpg"
@@ -62357,14 +62420,14 @@
     },
     {
       "start": "20260323010000 +0000",
-      "stop": "20260323090000 +0000",
+      "stop": "20260323020000 +0000",
       "title": "Premiere 8",
       "desc": "Acompanhe a programação pay-per-view.",
       "image": "https://cdn.mitvstatic.com/programs/br_special-premiere-8_l_m.jpg"
     },
     {
       "start": "20260323010000 +0000",
-      "stop": "20260323020000 +0000",
+      "stop": "20260323090000 +0000",
       "title": "Premiere 8",
       "desc": "Acompanhe a programação pay-per-view.",
       "image": "https://cdn.mitvstatic.com/programs/br_special-premiere-8_l_m.jpg"
@@ -63432,14 +63495,14 @@
     },
     {
       "start": "20260317044000 +0000",
-      "stop": "20260317054000 +0000",
+      "stop": "20260317082000 +0000",
       "title": "Balanço Geral",
       "desc": "Reportagens exclusivas, denúncias e prestação de serviços de interesse da população.",
       "image": "https://cdn.mitvstatic.com/programs/br_balanco-geral-1_l_m.jpg"
     },
     {
       "start": "20260317044000 +0000",
-      "stop": "20260317082000 +0000",
+      "stop": "20260317054000 +0000",
       "title": "Balanço Geral",
       "desc": "Reportagens exclusivas, denúncias e prestação de serviços de interesse da população.",
       "image": "https://cdn.mitvstatic.com/programs/br_balanco-geral-1_l_m.jpg"
@@ -63649,14 +63712,14 @@
     },
     {
       "start": "20260318044000 +0000",
-      "stop": "20260318082000 +0000",
+      "stop": "20260318054000 +0000",
       "title": "Balanço Geral",
       "desc": "Reportagens exclusivas, denúncias e prestação de serviços de interesse da população.",
       "image": "https://cdn.mitvstatic.com/programs/br_balanco-geral-1_l_m.jpg"
     },
     {
       "start": "20260318044000 +0000",
-      "stop": "20260318054000 +0000",
+      "stop": "20260318082000 +0000",
       "title": "Balanço Geral",
       "desc": "Reportagens exclusivas, denúncias e prestação de serviços de interesse da população.",
       "image": "https://cdn.mitvstatic.com/programs/br_balanco-geral-1_l_m.jpg"
@@ -64083,14 +64146,14 @@
     },
     {
       "start": "20260320044000 +0000",
-      "stop": "20260320082000 +0000",
+      "stop": "20260320054000 +0000",
       "title": "Balanço Geral",
       "desc": "Reportagens exclusivas, denúncias e prestação de serviços de interesse da população.",
       "image": "https://cdn.mitvstatic.com/programs/br_balanco-geral-1_l_m.jpg"
     },
     {
       "start": "20260320044000 +0000",
-      "stop": "20260320054000 +0000",
+      "stop": "20260320082000 +0000",
       "title": "Balanço Geral",
       "desc": "Reportagens exclusivas, denúncias e prestação de serviços de interesse da população.",
       "image": "https://cdn.mitvstatic.com/programs/br_balanco-geral-1_l_m.jpg"
@@ -65464,14 +65527,14 @@
     },
     {
       "start": "20260320050000 +0000",
-      "stop": "20260320090000 +0000",
+      "stop": "20260320060000 +0000",
       "title": "Programação SporTV",
       "desc": "Acompanhe a programação do canal.",
       "image": "https://cdn.mitvstatic.com/programs/br_special-programac-o-sportv_l_m.jpg"
     },
     {
       "start": "20260320050000 +0000",
-      "stop": "20260320060000 +0000",
+      "stop": "20260320090000 +0000",
       "title": "Programação SporTV",
       "desc": "Acompanhe a programação do canal.",
       "image": "https://cdn.mitvstatic.com/programs/br_special-programac-o-sportv_l_m.jpg"
@@ -66327,14 +66390,14 @@
     },
     {
       "start": "20260323053000 +0000",
-      "stop": "20260323063000 +0000",
+      "stop": "20260323073000 +0000",
       "title": "Superliga Feminina de Vôlei",
       "desc": "Todas as emoções da principal competição de vôlei feminino entre equipes brasileiras.",
       "image": "https://cdn.mitvstatic.com/programs/br_volleyball-superliga-feminina-de-volei_l_m.jpg"
     },
     {
       "start": "20260323053000 +0000",
-      "stop": "20260323073000 +0000",
+      "stop": "20260323063000 +0000",
       "title": "Superliga Feminina de Vôlei",
       "desc": "Todas as emoções da principal competição de vôlei feminino entre equipes brasileiras.",
       "image": "https://cdn.mitvstatic.com/programs/br_volleyball-superliga-feminina-de-volei_l_m.jpg"
@@ -66539,14 +66602,14 @@
     },
     {
       "start": "20260317040500 +0000",
-      "stop": "20260317070500 +0000",
+      "stop": "20260317050500 +0000",
       "title": "Faixa Digital",
       "desc": "Os principais acontecimentos do mundo das artes marciais, com análises, retrospectivas e mais.",
       "image": "https://cdn.mitvstatic.com/programs/br_mixed-martial-arts-faixa-digital_l_m.jpg"
     },
     {
       "start": "20260317040500 +0000",
-      "stop": "20260317050500 +0000",
+      "stop": "20260317070500 +0000",
       "title": "Faixa Digital",
       "desc": "Os principais acontecimentos do mundo das artes marciais, com análises, retrospectivas e mais.",
       "image": "https://cdn.mitvstatic.com/programs/br_mixed-martial-arts-faixa-digital_l_m.jpg"
@@ -68342,14 +68405,14 @@
     },
     {
       "start": "20260318055900 +0000",
-      "stop": "20260318065900 +0000",
+      "stop": "20260318064300 +0000",
       "title": "Anjo Mau",
       "desc": "Júlio pede a Rodrigo que deixe de iludir Nice e ele fica sem saber o que fazer; Nice tira Júlio da sala; Rodrigo aconselha Nice a voltar a namorar Júlio.",
       "image": "https://cdn.mitvstatic.com/programs/br_anjo-mau-1_l_m.jpg"
     },
     {
       "start": "20260318055900 +0000",
-      "stop": "20260318064300 +0000",
+      "stop": "20260318065900 +0000",
       "title": "Anjo Mau",
       "desc": "Júlio pede a Rodrigo que deixe de iludir Nice e ele fica sem saber o que fazer; Nice tira Júlio da sala; Rodrigo aconselha Nice a voltar a namorar Júlio.",
       "image": "https://cdn.mitvstatic.com/programs/br_anjo-mau-1_l_m.jpg"
@@ -68972,14 +69035,14 @@
     },
     {
       "start": "20260321052000 +0000",
-      "stop": "20260321060900 +0000",
+      "stop": "20260321062000 +0000",
       "title": "Leyla - Sombras do Passado",
       "desc": "Leyla é abandonada após perder o pai, por culpa da madrasta Nur. Anos depois, retorna como chef disfarçada na casa de Nur e descobre que seu amor de infância é filho adotivo de sua inimiga. Entre amor e vingança, sombras do passado vêm à tona.",
       "image": "https://cdn.mitvstatic.com/programs/br_leyla-sombras-do-passado_l_m.jpg"
     },
     {
       "start": "20260321052000 +0000",
-      "stop": "20260321062000 +0000",
+      "stop": "20260321060900 +0000",
       "title": "Leyla - Sombras do Passado",
       "desc": "Leyla é abandonada após perder o pai, por culpa da madrasta Nur. Anos depois, retorna como chef disfarçada na casa de Nur e descobre que seu amor de infância é filho adotivo de sua inimiga. Entre amor e vingança, sombras do passado vêm à tona.",
       "image": "https://cdn.mitvstatic.com/programs/br_leyla-sombras-do-passado_l_m.jpg"
@@ -74377,6 +74440,20 @@
       "title": "Combate",
       "desc": "Acompanhe o melhor do mundo do MMA.",
       "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/16/85/16850534_EE734E28CC3241BA.jpg"
+    },
+    {
+      "start": "20260322050000 +0000",
+      "stop": "20260322100000 +0000",
+      "title": "Combate",
+      "desc": "Acompanhe o melhor do mundo do MMA.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/16/85/16850534_EE734E28CC3241BA.jpg"
+    },
+    {
+      "start": "20260322050000 +0000",
+      "stop": "20260322100000 +0000",
+      "title": "Combate",
+      "desc": "Acompanhe o melhor do mundo do MMA.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/16/85/16850534_EE734E28CC3241BA.jpg"
     }
   ],
   "DAZN1.pt": [
@@ -77265,14 +77342,14 @@
     },
     {
       "start": "20260317052400 +0000",
-      "stop": "20260317061200 +0000",
+      "stop": "20260317062400 +0000",
       "title": "Rumo ao Desconhecido",
       "desc": "Quatro anos após procurar o lendário coração do sultão Solimão, o Magnífico, Josh Gates visita as ruínas da cidade otomana de Turbek em busca de novos indícios de sua existência.",
       "image": "https://cdn.mitvstatic.com/programs/br_rumo-ao-desconhecido-s07e10-em-busca-do-corac-o-do-sult-o_l_m.jpg"
     },
     {
       "start": "20260317052400 +0000",
-      "stop": "20260317062400 +0000",
+      "stop": "20260317061200 +0000",
       "title": "Rumo ao Desconhecido",
       "desc": "Quatro anos após procurar o lendário coração do sultão Solimão, o Magnífico, Josh Gates visita as ruínas da cidade otomana de Turbek em busca de novos indícios de sua existência.",
       "image": "https://cdn.mitvstatic.com/programs/br_rumo-ao-desconhecido-s07e10-em-busca-do-corac-o-do-sult-o_l_m.jpg"
@@ -77895,14 +77972,14 @@
     },
     {
       "start": "20260320052400 +0000",
-      "stop": "20260320061200 +0000",
+      "stop": "20260320062400 +0000",
       "title": "Polônia - A Última Fronteira",
       "desc": "As montanhas Bieszczady são um lugar lindo, que oferece liberdade, como seus habitantes sabem muito bem. Lenhadores, queimadores de piche e a Guarda de Fronteira se preparam para a chegada de um inverno rigoroso.",
       "image": "https://cdn.mitvstatic.com/programs/br_polonia-a-ultima-fronteira-s02e01_l_m.jpg"
     },
     {
       "start": "20260320052400 +0000",
-      "stop": "20260320062400 +0000",
+      "stop": "20260320061200 +0000",
       "title": "Polônia - A Última Fronteira",
       "desc": "As montanhas Bieszczady são um lugar lindo, que oferece liberdade, como seus habitantes sabem muito bem. Lenhadores, queimadores de piche e a Guarda de Fronteira se preparam para a chegada de um inverno rigoroso.",
       "image": "https://cdn.mitvstatic.com/programs/br_polonia-a-ultima-fronteira-s02e01_l_m.jpg"
@@ -78098,14 +78175,14 @@
     },
     {
       "start": "20260321052400 +0000",
-      "stop": "20260321061200 +0000",
+      "stop": "20260321062400 +0000",
       "title": "Criadores de Sonhos",
       "desc": "Ron, John e a equipe usam tecnologia do século 21 para criar um estande de tiro vintage. O projeto inclui raios infravermelhos e equipamentos eletrônicos para recriar a antiga estrutura.",
       "image": "https://cdn.mitvstatic.com/programs/br_criadores-de-sonhos-s02e03-estande-de-tiro_l_m.jpg"
     },
     {
       "start": "20260321052400 +0000",
-      "stop": "20260321062400 +0000",
+      "stop": "20260321061200 +0000",
       "title": "Criadores de Sonhos",
       "desc": "Ron, John e a equipe usam tecnologia do século 21 para criar um estande de tiro vintage. O projeto inclui raios infravermelhos e equipamentos eletrônicos para recriar a antiga estrutura.",
       "image": "https://cdn.mitvstatic.com/programs/br_criadores-de-sonhos-s02e03-estande-de-tiro_l_m.jpg"
@@ -79080,14 +79157,14 @@
     },
     {
       "start": "20260317054800 +0000",
-      "stop": "20260317063600 +0000",
+      "stop": "20260317064800 +0000",
       "title": "Italianos Made in China",
       "desc": "Os seis jovens italianos passam o primeiro dia em Xangai. Alex descobre que sua família tem tradição em kung fu. Enquanto isso, Fran procura um pedaço da Itália na China.",
       "image": "https://cdn.mitvstatic.com/programs/br_italianos-made-in-china-s01e02_l_m.jpg"
     },
     {
       "start": "20260317054800 +0000",
-      "stop": "20260317064800 +0000",
+      "stop": "20260317063600 +0000",
       "title": "Italianos Made in China",
       "desc": "Os seis jovens italianos passam o primeiro dia em Xangai. Alex descobre que sua família tem tradição em kung fu. Enquanto isso, Fran procura um pedaço da Itália na China.",
       "image": "https://cdn.mitvstatic.com/programs/br_italianos-made-in-china-s01e02_l_m.jpg"
@@ -79444,14 +79521,14 @@
     },
     {
       "start": "20260318054800 +0000",
-      "stop": "20260318064800 +0000",
+      "stop": "20260318063600 +0000",
       "title": "Italianos Made in China",
       "desc": "Lucia trabalha como cabeleireira em um bairro chique de Xangai, onde pedem que ela ajude a fazer os penteados para um casamento chinês. Veja se ela vai conseguir conciliar suas duas culturas.",
       "image": "https://cdn.mitvstatic.com/programs/br_italianos-made-in-china-s01e03_l_m.jpg"
     },
     {
       "start": "20260318054800 +0000",
-      "stop": "20260318063600 +0000",
+      "stop": "20260318064800 +0000",
       "title": "Italianos Made in China",
       "desc": "Lucia trabalha como cabeleireira em um bairro chique de Xangai, onde pedem que ela ajude a fazer os penteados para um casamento chinês. Veja se ela vai conseguir conciliar suas duas culturas.",
       "image": "https://cdn.mitvstatic.com/programs/br_italianos-made-in-china-s01e03_l_m.jpg"
@@ -79808,14 +79885,14 @@
     },
     {
       "start": "20260319054800 +0000",
-      "stop": "20260319063600 +0000",
+      "stop": "20260319064800 +0000",
       "title": "Italianos Made in China",
       "desc": "Alexander convida todos a irem ao restaurante onde ele trabalha, para provar todos os pratos tradicionais da culinária chinesa, incluindo pé de galinha e cobra.",
       "image": "https://cdn.mitvstatic.com/programs/br_italianos-made-in-china-s01e04_l_m.jpg"
     },
     {
       "start": "20260319054800 +0000",
-      "stop": "20260319064800 +0000",
+      "stop": "20260319063600 +0000",
       "title": "Italianos Made in China",
       "desc": "Alexander convida todos a irem ao restaurante onde ele trabalha, para provar todos os pratos tradicionais da culinária chinesa, incluindo pé de galinha e cobra.",
       "image": "https://cdn.mitvstatic.com/programs/br_italianos-made-in-china-s01e04_l_m.jpg"
@@ -80900,14 +80977,14 @@
     },
     {
       "start": "20260322054800 +0000",
-      "stop": "20260322063600 +0000",
+      "stop": "20260322064800 +0000",
       "title": "Italianos Made in China",
       "desc": "Daniele, namorado de Lucia, chega em Wenzhou e viaja até o vilarejo rural onde nasceu.",
       "image": "https://cdn.mitvstatic.com/programs/br_italianos-made-in-china-s01e07_l_m.jpg"
     },
     {
       "start": "20260322054800 +0000",
-      "stop": "20260322064800 +0000",
+      "stop": "20260322063600 +0000",
       "title": "Italianos Made in China",
       "desc": "Daniele, namorado de Lucia, chega em Wenzhou e viaja até o vilarejo rural onde nasceu.",
       "image": "https://cdn.mitvstatic.com/programs/br_italianos-made-in-china-s01e07_l_m.jpg"
@@ -81636,13 +81713,6 @@
   ],
   "ESPN2.br": [
     {
-      "start": "20260316060000 +0000",
-      "stop": "20260316070000 +0000",
-      "title": "Bola da Vez : Hernán Crespo",
-      "desc": "Grandes personalidades do esporte nacional e internacional são colocadas no \"paredão\" e respondem às perguntas de uma bancada de entrevistadores formada por jornalistas, ex-atletas ou especialistas em geral.",
-      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/12/92/12928712_9D9DC4A02E196C53.jpg"
-    },
-    {
       "start": "20260316070000 +0000",
       "stop": "20260316090000 +0000",
       "title": "Aberto de Indian Wells de Tênis 2026 - Final : Final",
@@ -81827,7 +81897,7 @@
     {
       "start": "20260318000000 +0000",
       "stop": "20260318030000 +0000",
-      "title": "Final: Estados Unidos x A Definir - World Baseball Classic 2026 : Final: Estados Unidos x A Definir",
+      "title": "Final: Venezuela x Estados Unidos - World Baseball Classic 2026 : Final: Venezuela x Estados Unidos",
       "desc": "Sexta edição do World Baseball Classic, a \"Copa do Mundo de Beisebol\", com 20 seleções nacionais na disputa pelo troféu. O torneio é disputado em cinco cidades-sedes: Houston e Miami, nos Estados Unidos, San Juan, em Porto Rico, e Tóquio, no Japão.",
       "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/50/23507392_b278d1115fa9f256b312f193f6030f81.jpg"
     },
@@ -82021,11 +82091,11 @@
       "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/53/23538235_32787c83d0829a88d98f346bf8cdd1e1.jpg"
     },
     {
-      "start": "20260320060000 +0000",
-      "stop": "20260320070000 +0000",
-      "title": "NWSL: The Final Third : No Free Picnics",
-      "desc": "",
-      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/53/23538235_32787c83d0829a88d98f346bf8cdd1e1.jpg"
+      "start": "20260320070000 +0000",
+      "stop": "20260320090000 +0000",
+      "title": "ADRM Maringá x Santo André - Liga de Basquete Feminino : ADRM Maringá x Santo André",
+      "desc": "Todas as emoções da LBF, principal competição feminina de basquete entre clubes do Brasil.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/18/67/18671036_20F2E02EC4B4B5CD.jpg"
     },
     {
       "start": "20260320070000 +0000",
@@ -82058,7 +82128,7 @@
     {
       "start": "20260320120000 +0000",
       "stop": "20260320143000 +0000",
-      "title": "Final: Estados Unidos x A Definir - World Baseball Classic 2026 : Final: Estados Unidos x A Definir",
+      "title": "Final: Venezuela x Estados Unidos - World Baseball Classic 2026 : Final: Venezuela x Estados Unidos",
       "desc": "Sexta edição do World Baseball Classic, a \"Copa do Mundo de Beisebol\", com 20 seleções nacionais na disputa pelo troféu. O torneio é disputado em cinco cidades-sedes: Houston e Miami, nos Estados Unidos, San Juan, em Porto Rico, e Tóquio, no Japão.",
       "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/50/23507392_b278d1115fa9f256b312f193f6030f81.jpg"
     },
@@ -82180,16 +82250,44 @@
       "title": "Aberto de Miami de Tênis 2026 - Final : Final",
       "desc": "",
       "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/57/23578186_0577500930fc470e6082440c4b65c6d2.jpg"
+    },
+    {
+      "start": "20260322030000 +0000",
+      "stop": "20260322033000 +0000",
+      "title": "Destaques da Conmebol Libertadores",
+      "desc": "Acompanhe os destaques, os melhores lances, gols e um resumo completo de tudo o que rolou nas partidas da principal competição de futebol masculino entre clubes da América do Sul: a Conmebol Libertadores.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/84/11845867_3299B3F794C0B4DC.jpg"
+    },
+    {
+      "start": "20260322033000 +0000",
+      "stop": "20260322043000 +0000",
+      "title": "ESPN League",
+      "desc": "Notícias, análises e curiosidades sobre tudo o que rola com a bola: redonda, oval ou achatada.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/77/22775701_4cf7e9f91f6b3d785a20ae4178b7fc91.jpg"
+    },
+    {
+      "start": "20260322043000 +0000",
+      "stop": "20260322053000 +0000",
+      "title": "SportsCenter",
+      "desc": "Os principais fatos do mundo esportivo, com as imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abdicar do bom humor.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/20/21206374_7DB89C493F2BEB59.jpg"
+    },
+    {
+      "start": "20260322053000 +0000",
+      "stop": "20260322073000 +0000",
+      "title": "Orlando Magic x Los Angeles Lakers - NBA : Orlando Magic x Los Angeles Lakers",
+      "desc": "Trinta equipes dos Estados Unidos e Canadá se enfrentam na principal liga de basquete do mundo.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/57/23578205_178d365fcb0a6ffcee4ed55eba992ddf.jpg"
+    },
+    {
+      "start": "20260322053000 +0000",
+      "stop": "20260322073000 +0000",
+      "title": "Orlando Magic x Los Angeles Lakers - NBA : Orlando Magic x Los Angeles Lakers",
+      "desc": "Trinta equipes dos Estados Unidos e Canadá se enfrentam na principal liga de basquete do mundo.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/57/23578205_178d365fcb0a6ffcee4ed55eba992ddf.jpg"
     }
   ],
   "ESPN3.br": [
-    {
-      "start": "20260316060000 +0000",
-      "stop": "20260316070000 +0000",
-      "title": "SportsCenter Americano",
-      "desc": "O programa apresenta um resumo das últimas notícias e destaques dos esportes em todos os cantos do mundo.",
-      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/83/11836232_BA22A1DB9D07F4E8.jpg"
-    },
     {
       "start": "20260316070000 +0000",
       "stop": "20260316090000 +0000",
@@ -82296,11 +82394,11 @@
       "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/82/11822436_216389EF718C6158.jpg"
     },
     {
-      "start": "20260317060000 +0000",
-      "stop": "20260317070000 +0000",
-      "title": "SportsCenter com Scott Van Pelt",
-      "desc": "Programa apresenta notícias, destaques esportivos, convidados e entrevistas.",
-      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/82/11822436_216389EF718C6158.jpg"
+      "start": "20260317070000 +0000",
+      "stop": "20260317090000 +0000",
+      "title": "Aberto de Indian Wells de Tênis 2026 - Final : Final",
+      "desc": "Evento que reúne torneios de nível ATP Masters 1000, na competição masculina, e WTA 1000 na feminina. Disputado nas quadras duras do Indian Wells Tennis Garden, em Indian Wells, Califórnia, Estados Unidos.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/51/23515621_45142d657d25004769690beba474869c.jpg"
     },
     {
       "start": "20260317070000 +0000",
@@ -82548,11 +82646,11 @@
       "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/82/11822436_216389EF718C6158.jpg"
     },
     {
-      "start": "20260319060000 +0000",
-      "stop": "20260319070000 +0000",
-      "title": "SportsCenter com Scott Van Pelt",
-      "desc": "Programa apresenta notícias, destaques esportivos, convidados e entrevistas.",
-      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/82/11822436_216389EF718C6158.jpg"
+      "start": "20260319070000 +0000",
+      "stop": "20260319090000 +0000",
+      "title": "Aberto de Miami de Tênis 2026 - Final : Final",
+      "desc": "",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/57/23578186_0577500930fc470e6082440c4b65c6d2.jpg"
     },
     {
       "start": "20260319070000 +0000",
@@ -82765,11 +82863,11 @@
       "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/83/11836232_BA22A1DB9D07F4E8.jpg"
     },
     {
-      "start": "20260321060000 +0000",
-      "stop": "20260321070000 +0000",
-      "title": "SportsCenter Americano",
-      "desc": "O programa apresenta um resumo das últimas notícias e destaques dos esportes em todos os cantos do mundo.",
-      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/83/11836232_BA22A1DB9D07F4E8.jpg"
+      "start": "20260321070000 +0000",
+      "stop": "20260321090000 +0000",
+      "title": "Aberto de Miami de Tênis 2026 - Final : Final",
+      "desc": "",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/57/23578186_0577500930fc470e6082440c4b65c6d2.jpg"
     },
     {
       "start": "20260321070000 +0000",
@@ -82868,6 +82966,27 @@
       "title": "Basquete Universitário",
       "desc": "Futuros astros do basquete profissional se enfrentam no torneio organizado pela NCAA e disputado por equipes das universidades dos Estados Unidos.",
       "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/17/31/17311930_8BDCDC7C1670AA96.jpg"
+    },
+    {
+      "start": "20260322013000 +0000",
+      "stop": "20260322040000 +0000",
+      "title": "Basquete Universitário",
+      "desc": "Futuros astros do basquete profissional se enfrentam no torneio organizado pela NCAA e disputado por equipes das universidades dos Estados Unidos.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/17/31/17311930_8BDCDC7C1670AA96.jpg"
+    },
+    {
+      "start": "20260322040000 +0000",
+      "stop": "20260322050000 +0000",
+      "title": "SportsCenter Americano",
+      "desc": "O programa apresenta um resumo das últimas notícias e destaques dos esportes em todos os cantos do mundo.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/83/11836232_BA22A1DB9D07F4E8.jpg"
+    },
+    {
+      "start": "20260322050000 +0000",
+      "stop": "20260322060000 +0000",
+      "title": "SportsCenter Americano",
+      "desc": "O programa apresenta um resumo das últimas notícias e destaques dos esportes em todos os cantos do mundo.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/83/11836232_BA22A1DB9D07F4E8.jpg"
     }
   ],
   "ESPN4.br": [
@@ -83457,7 +83576,7 @@
       "stop": "20260320195000 +0000",
       "title": "SportsCenter Pós-Corrida : Moto GP",
       "desc": "",
-      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/57/23579912_b00dc38bf3e768ad4cce1935314be0bc.jpg"
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/59/23595772_78c25ac5ff05d0abaa84b0ea52c296f1.jpg"
     },
     {
       "start": "20260320195000 +0000",
@@ -83506,7 +83625,7 @@
       "stop": "20260321033000 +0000",
       "title": "Bournemouth x Manchester United - Campeonato Inglês : Bournemouth x Manchester United",
       "desc": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos.",
-      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/57/23578240_a970b14d9dc92bf028847c1ce90269ab.jpg"
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/59/23595701_32eafba1501f4d99da2dca6f93b31575.jpg"
     },
     {
       "start": "20260321033000 +0000",
@@ -83558,11 +83677,11 @@
       "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/84/11845867_3299B3F794C0B4DC.jpg"
     },
     {
-      "start": "20260321063000 +0000",
-      "stop": "20260321070000 +0000",
-      "title": "Destaques da Conmebol Libertadores",
-      "desc": "Acompanhe os destaques, os melhores lances, gols e um resumo completo de tudo o que rolou nas partidas da principal competição de futebol masculino entre clubes da América do Sul: a Conmebol Libertadores.",
-      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/84/11845867_3299B3F794C0B4DC.jpg"
+      "start": "20260321070000 +0000",
+      "stop": "20260321073000 +0000",
+      "title": "Inside Serie A",
+      "desc": "Uma previsão sobre os próximos jogos do Campeonato Italiano.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/12/29/12299887_D3969D313D705D0B.jpg"
     },
     {
       "start": "20260321070000 +0000",
@@ -83674,7 +83793,7 @@
       "stop": "20260321193000 +0000",
       "title": "SportsCenter Pós-Corrida : Moto GP",
       "desc": "",
-      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/57/23579912_b00dc38bf3e768ad4cce1935314be0bc.jpg"
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/59/23595772_78c25ac5ff05d0abaa84b0ea52c296f1.jpg"
     },
     {
       "start": "20260321193000 +0000",
@@ -83710,6 +83829,34 @@
       "title": "Orlando Magic x Los Angeles Lakers - NBA : Orlando Magic x Los Angeles Lakers",
       "desc": "Trinta equipes dos Estados Unidos e Canadá se enfrentam na principal liga de basquete do mundo.",
       "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/57/23578205_178d365fcb0a6ffcee4ed55eba992ddf.jpg"
+    },
+    {
+      "start": "20260322013000 +0000",
+      "stop": "20260322020000 +0000",
+      "title": "SportsCenter Abre o Jogo : NBA",
+      "desc": "Os últimos preparativos para Lakers x Suns e Nets x Hawks, pela temporada regular 2024-2025 da NBA.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/84/11845688_6D14BCEDC7304F4A.jpg"
+    },
+    {
+      "start": "20260322020000 +0000",
+      "stop": "20260322043000 +0000",
+      "title": "Phoenix Suns x Milwaukee Bucks - NBA : Phoenix Suns x Milwaukee Bucks",
+      "desc": "Trinta equipes dos Estados Unidos e Canadá se enfrentam na principal liga de basquete do mundo.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/57/23578246_64cfea0d8ba3decef6fcdade05f511eb.jpg"
+    },
+    {
+      "start": "20260322043000 +0000",
+      "stop": "20260322053000 +0000",
+      "title": "Linha de Passe: Mesa-Redonda",
+      "desc": "Comentaristas esportivos conceituados entram em campo para uma análise completa da rodada do futebol ao estilo \"mesa redonda\", com debates acalorados e comentários de qualidade, sempre a partir de um olhar crítico e da imparcialidade.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/19/32/19327514_AD9978671D9835D5.jpg"
+    },
+    {
+      "start": "20260322053000 +0000",
+      "stop": "20260322070000 +0000",
+      "title": "Moto GP - GP do Brasil - Sprint : GP do Brasil - Sprint",
+      "desc": "Acompanhe as emoções da principal categoria de motovelocidade do planeta.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/60/21604933_D7DDBC37A04DBE35.jpg"
     }
   ],
   "ESPN5.br": [
@@ -83798,11 +83945,11 @@
       "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/04/20047865_A45A1F1D68C1FFFA.jpg"
     },
     {
-      "start": "20260317043000 +0000",
-      "stop": "20260317070000 +0000",
-      "title": "Boxe Internacional - Najee Lopez x Manuel Gallegos : Najee Lopez x Manuel Gallegos",
-      "desc": "O porto-riquenho Najee \"Chino\" Lopez (15-0-0, com 12 nocautes) e o mexicano Manuel \"El Meno\" Gallegos (22-3-1, com 19 nocautes) se enfrentam na luta principal de evento de boxe realizado no Oscecola Heritage Park Event Center, em Kissimmee, EUA.",
-      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/20/04/20047865_A45A1F1D68C1FFFA.jpg"
+      "start": "20260317070000 +0000",
+      "stop": "20260317093000 +0000",
+      "title": "Segunda Semifinal: Venezuela x Itália - World Baseball Classic 2026 : Segunda Semifinal: Venezuela x Itália",
+      "desc": "Sexta edição do World Baseball Classic, a \"Copa do Mundo de Beisebol\", com 20 seleções nacionais na disputa pelo troféu. O torneio é disputado em cinco cidades-sedes: Houston e Miami, nos Estados Unidos, San Juan, em Porto Rico, e Tóquio, no Japão.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/59/23594174_5d629252ecb3d2570ce7775e645760ba.jpg"
     },
     {
       "start": "20260317070000 +0000",
@@ -83968,7 +84115,7 @@
     {
       "start": "20260318200000 +0000",
       "stop": "20260318223000 +0000",
-      "title": "Final: Estados Unidos x A Definir - World Baseball Classic 2026 : Final: Estados Unidos x A Definir",
+      "title": "Final: Venezuela x Estados Unidos - World Baseball Classic 2026 : Final: Venezuela x Estados Unidos",
       "desc": "Sexta edição do World Baseball Classic, a \"Copa do Mundo de Beisebol\", com 20 seleções nacionais na disputa pelo troféu. O torneio é disputado em cinco cidades-sedes: Houston e Miami, nos Estados Unidos, San Juan, em Porto Rico, e Tóquio, no Japão.",
       "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/50/23507392_b278d1115fa9f256b312f193f6030f81.jpg"
     },
@@ -84008,11 +84155,11 @@
       "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/58/23580013_a0c5ffe91d37ff315e8f555ac74fff89.jpg"
     },
     {
-      "start": "20260319050000 +0000",
-      "stop": "20260319070000 +0000",
-      "title": "Minas x União Corinthians - NBB : Minas x União Corinthians",
-      "desc": "Todas as emoções da principal competição de basquete masculino profissional entre clubes do Brasil.",
-      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/58/23580013_a0c5ffe91d37ff315e8f555ac74fff89.jpg"
+      "start": "20260319070000 +0000",
+      "stop": "20260319090000 +0000",
+      "title": "Basquete Universitário",
+      "desc": "Futuros astros do basquete profissional se enfrentam no torneio organizado pela NCAA e disputado por equipes das universidades dos Estados Unidos.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/17/31/17311930_8BDCDC7C1670AA96.jpg"
     },
     {
       "start": "20260319070000 +0000",
@@ -84236,14 +84383,7 @@
       "stop": "20260321063000 +0000",
       "title": "Bournemouth x Manchester United - Campeonato Inglês : Bournemouth x Manchester United",
       "desc": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos.",
-      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/57/23578240_a970b14d9dc92bf028847c1ce90269ab.jpg"
-    },
-    {
-      "start": "20260321063000 +0000",
-      "stop": "20260321070000 +0000",
-      "title": "NBA Action",
-      "desc": "Acompanhe as melhores jogadas da semana e últimas notícias sobre a maior liga de basquete do mundo.",
-      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/77/11775429_7FBD731282354881.jpg"
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/59/23595701_32eafba1501f4d99da2dca6f93b31575.jpg"
     },
     {
       "start": "20260321063000 +0000",
@@ -84255,7 +84395,14 @@
     {
       "start": "20260321070000 +0000",
       "stop": "20260321093000 +0000",
-      "title": "Final: Estados Unidos x A Definir - World Baseball Classic 2026 : Final: Estados Unidos x A Definir",
+      "title": "Final: Venezuela x Estados Unidos - World Baseball Classic 2026 : Final: Venezuela x Estados Unidos",
+      "desc": "Sexta edição do World Baseball Classic, a \"Copa do Mundo de Beisebol\", com 20 seleções nacionais na disputa pelo troféu. O torneio é disputado em cinco cidades-sedes: Houston e Miami, nos Estados Unidos, San Juan, em Porto Rico, e Tóquio, no Japão.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/50/23507392_b278d1115fa9f256b312f193f6030f81.jpg"
+    },
+    {
+      "start": "20260321070000 +0000",
+      "stop": "20260321093000 +0000",
+      "title": "Final: Venezuela x Estados Unidos - World Baseball Classic 2026 : Final: Venezuela x Estados Unidos",
       "desc": "Sexta edição do World Baseball Classic, a \"Copa do Mundo de Beisebol\", com 20 seleções nacionais na disputa pelo troféu. O torneio é disputado em cinco cidades-sedes: Houston e Miami, nos Estados Unidos, San Juan, em Porto Rico, e Tóquio, no Japão.",
       "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/50/23507392_b278d1115fa9f256b312f193f6030f81.jpg"
     },
@@ -84335,16 +84482,37 @@
       "title": "Manchester City x Tottenham Hotspur - Campeonato Inglês Feminino : Manchester City x Tottenham Hotspur",
       "desc": "Todas as emoções da principal competição de futebol feminino entre clubes da Inglaterra.",
       "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/57/23578227_ab3ff955e48f6c7406f9b5b2a174f331.jpg"
+    },
+    {
+      "start": "20260322021500 +0000",
+      "stop": "20260322023000 +0000",
+      "title": "Momento ESPN",
+      "desc": "",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/81/11818004_13304AC0322EB835.jpg"
+    },
+    {
+      "start": "20260322023000 +0000",
+      "stop": "20260322033000 +0000",
+      "title": "ESPN League",
+      "desc": "Notícias, análises e curiosidades sobre tudo o que rola com a bola: redonda, oval ou achatada.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/22/77/22775701_4cf7e9f91f6b3d785a20ae4178b7fc91.jpg"
+    },
+    {
+      "start": "20260322033000 +0000",
+      "stop": "20260322050000 +0000",
+      "title": "Moto GP - GP do Brasil - Sprint : GP do Brasil - Sprint",
+      "desc": "Acompanhe as emoções da principal categoria de motovelocidade do planeta.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/60/21604933_D7DDBC37A04DBE35.jpg"
+    },
+    {
+      "start": "20260322050000 +0000",
+      "stop": "20260322070000 +0000",
+      "title": "Sheffield United x Wrexham - Campeonato Inglês - Segunda Divisão : Sheffield United x Wrexham",
+      "desc": "Do Estádio de Bramall Lane, em Sheffield, Inglaterra.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/57/23578204_cfbf0863409b7b56662c1636dab5ac0b.jpg"
     }
   ],
   "ESPN6.br": [
-    {
-      "start": "20260316050000 +0000",
-      "stop": "20260316070000 +0000",
-      "title": "River Plate x Sarmiento - Campeonato Argentino : River Plate x Sarmiento",
-      "desc": "Acompanhe as grandes partidas do torneio de elite do futebol argentino.",
-      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/58/23586950_1f7c887a8a33ea4ea385af8f60d7032d.jpg"
-    },
     {
       "start": "20260316070000 +0000",
       "stop": "20260316090000 +0000",
@@ -84535,11 +84703,11 @@
       "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/52/23524692_c46129f5d82cbfbd3b4e9f65c26df9d7.jpg"
     },
     {
-      "start": "20260318050000 +0000",
-      "stop": "20260318070000 +0000",
-      "title": "França x Inglaterra - Six Nations : França x Inglaterra",
-      "desc": "Torneio de rugby union entre as seleções da Inglaterra, França, Irlanda, Itália, Escócia e Gales.",
-      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/52/23524692_c46129f5d82cbfbd3b4e9f65c26df9d7.jpg"
+      "start": "20260318070000 +0000",
+      "stop": "20260318090000 +0000",
+      "title": "Coventry City x Southampton - Campeonato Inglês - Segunda Divisão : Coventry City x Southampton",
+      "desc": "Da Coventry Building Society Arena, em Coventry, Inglaterra.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/58/23586952_0d4bda6d587a775859c2df56bba44132.jpg"
     },
     {
       "start": "20260318070000 +0000",
@@ -84663,7 +84831,7 @@
     {
       "start": "20260319140000 +0000",
       "stop": "20260319163000 +0000",
-      "title": "Final: Estados Unidos x A Definir - World Baseball Classic 2026 : Final: Estados Unidos x A Definir",
+      "title": "Final: Venezuela x Estados Unidos - World Baseball Classic 2026 : Final: Venezuela x Estados Unidos",
       "desc": "Sexta edição do World Baseball Classic, a \"Copa do Mundo de Beisebol\", com 20 seleções nacionais na disputa pelo troféu. O torneio é disputado em cinco cidades-sedes: Houston e Miami, nos Estados Unidos, San Juan, em Porto Rico, e Tóquio, no Japão.",
       "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/50/23507392_b278d1115fa9f256b312f193f6030f81.jpg"
     },
@@ -84880,7 +85048,7 @@
     {
       "start": "20260321190000 +0000",
       "stop": "20260321213000 +0000",
-      "title": "Final: Estados Unidos x A Definir - World Baseball Classic 2026 : Final: Estados Unidos x A Definir",
+      "title": "Final: Venezuela x Estados Unidos - World Baseball Classic 2026 : Final: Venezuela x Estados Unidos",
       "desc": "Sexta edição do World Baseball Classic, a \"Copa do Mundo de Beisebol\", com 20 seleções nacionais na disputa pelo troféu. O torneio é disputado em cinco cidades-sedes: Houston e Miami, nos Estados Unidos, San Juan, em Porto Rico, e Tóquio, no Japão.",
       "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/50/23507392_b278d1115fa9f256b312f193f6030f81.jpg"
     },
@@ -84904,6 +85072,34 @@
       "title": "Moto GP - GP do Brasil - Sprint : GP do Brasil - Sprint",
       "desc": "Acompanhe as emoções da principal categoria de motovelocidade do planeta.",
       "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/60/21604933_D7DDBC37A04DBE35.jpg"
+    },
+    {
+      "start": "20260322013000 +0000",
+      "stop": "20260322020000 +0000",
+      "title": "Destaques da Conmebol Libertadores",
+      "desc": "Acompanhe os destaques, os melhores lances, gols e um resumo completo de tudo o que rolou nas partidas da principal competição de futebol masculino entre clubes da América do Sul: a Conmebol Libertadores.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/11/84/11845867_3299B3F794C0B4DC.jpg"
+    },
+    {
+      "start": "20260322020000 +0000",
+      "stop": "20260322030000 +0000",
+      "title": "Resenha ESPN",
+      "desc": "Atletas da atualidade e do passado participam de bate-papo descontraído e cheio de boas histórias.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/46/21463801_A95A847DE38BD1D4.jpg"
+    },
+    {
+      "start": "20260322030000 +0000",
+      "stop": "20260322050000 +0000",
+      "title": "Flamengo x Osasco - NBB : Flamengo x Osasco",
+      "desc": "Todas as emoções da principal competição de basquete masculino profissional entre clubes do Brasil.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/57/23579607_96e7672b3dc2f58cc4708b03f6fe1652.jpg"
+    },
+    {
+      "start": "20260322050000 +0000",
+      "stop": "20260322060000 +0000",
+      "title": "NWSL: The Final Third : No Free Picnics",
+      "desc": "",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/53/23538235_32787c83d0829a88d98f346bf8cdd1e1.jpg"
     }
   ],
   "ESPN.br": [
@@ -85357,14 +85553,14 @@
     },
     {
       "start": "20260320053000 +0000",
-      "stop": "20260320073000 +0000",
+      "stop": "20260320063000 +0000",
       "title": "Besiktas x Kasimpasa",
       "desc": "Todas as emoções da Süper Lig, a principal competição de futebol masculino entre clubes da Turquia.",
       "image": "https://cdn.mitvstatic.com/programs/br_soccer-besiktas-x-kasimpasa_l_m.jpg"
     },
     {
       "start": "20260320053000 +0000",
-      "stop": "20260320063000 +0000",
+      "stop": "20260320073000 +0000",
       "title": "Besiktas x Kasimpasa",
       "desc": "Todas as emoções da Süper Lig, a principal competição de futebol masculino entre clubes da Turquia.",
       "image": "https://cdn.mitvstatic.com/programs/br_soccer-besiktas-x-kasimpasa_l_m.jpg"
@@ -86663,14 +86859,14 @@
     },
     {
       "start": "20260317054100 +0000",
-      "stop": "20260317064100 +0000",
+      "stop": "20260317062800 +0000",
       "title": "Comidas Exóticas",
       "desc": "Andrew vai para Madrid, uma cidade com uma identidade culinária dinâmica, que continua sendo moldada pelo passado. De omeletes de miúdos a um relógio feito com fígado de pato, a Espanha está repleta de sabores estimulantes.",
       "image": "https://cdn.mitvstatic.com/programs/br_comidas-exoticas-s08e01-madrid_l_m.jpg"
     },
     {
       "start": "20260317054100 +0000",
-      "stop": "20260317062800 +0000",
+      "stop": "20260317064100 +0000",
       "title": "Comidas Exóticas",
       "desc": "Andrew vai para Madrid, uma cidade com uma identidade culinária dinâmica, que continua sendo moldada pelo passado. De omeletes de miúdos a um relógio feito com fígado de pato, a Espanha está repleta de sabores estimulantes.",
       "image": "https://cdn.mitvstatic.com/programs/br_comidas-exoticas-s08e01-madrid_l_m.jpg"
@@ -87370,14 +87566,14 @@
     },
     {
       "start": "20260319054300 +0000",
-      "stop": "20260319062900 +0000",
+      "stop": "20260319064300 +0000",
       "title": "Comidas Exóticas",
       "desc": "Andrew Zimmern parte para Okinawa, no Japão, para provar pratos ancestrais. No cardápio, olhos de atum e orelhas de porco em conserva. De baiacus venenosos e carne crua de bode aos últimos ovos de serpente marinha do planeta, Andrew saboreia os pratos que levam fama de contribuir para a conhecida longevidade do povo de Okinawa.",
       "image": "https://cdn.mitvstatic.com/programs/br_comidas-exoticas-s08e05-okinawa_l_m.jpg"
     },
     {
       "start": "20260319054300 +0000",
-      "stop": "20260319064300 +0000",
+      "stop": "20260319062900 +0000",
       "title": "Comidas Exóticas",
       "desc": "Andrew Zimmern parte para Okinawa, no Japão, para provar pratos ancestrais. No cardápio, olhos de atum e orelhas de porco em conserva. De baiacus venenosos e carne crua de bode aos últimos ovos de serpente marinha do planeta, Andrew saboreia os pratos que levam fama de contribuir para a conhecida longevidade do povo de Okinawa.",
       "image": "https://cdn.mitvstatic.com/programs/br_comidas-exoticas-s08e05-okinawa_l_m.jpg"
@@ -88490,14 +88686,14 @@
     },
     {
       "start": "20260322054600 +0000",
-      "stop": "20260322063200 +0000",
+      "stop": "20260322064600 +0000",
       "title": "Comidas Exóticas",
       "desc": "Andrew vai ao Bronx, em Nova York, para revelar a cultura forte e especialíssima desse distrito. Lá ele prova sopa de lontra e guisado de coiote, conhece a loja de italiano especialista em charcutaria e prova receita de moela da vovó porto-riquenha.",
       "image": "https://cdn.mitvstatic.com/programs/br_comidas-exoticas-s08e04-o-bronx_l_m.jpg"
     },
     {
       "start": "20260322054600 +0000",
-      "stop": "20260322064600 +0000",
+      "stop": "20260322063200 +0000",
       "title": "Comidas Exóticas",
       "desc": "Andrew vai ao Bronx, em Nova York, para revelar a cultura forte e especialíssima desse distrito. Lá ele prova sopa de lontra e guisado de coiote, conhece a loja de italiano especialista em charcutaria e prova receita de moela da vovó porto-riquenha.",
       "image": "https://cdn.mitvstatic.com/programs/br_comidas-exoticas-s08e04-o-bronx_l_m.jpg"
@@ -89325,14 +89521,14 @@
     },
     {
       "start": "20260317044700 +0000",
-      "stop": "20260317054700 +0000",
+      "stop": "20260317073000 +0000",
       "title": "Harry Potter e a Câmara Secreta",
       "desc": "Após as sofríveis férias na casa dos tios, Harry Potter se prepara para voltar a Hogwarts e começar seu segundo ano na escola de bruxos. Na véspera do início das aulas, a estranha criatura Dobby aparece em seu quarto e o avisa de que voltar é um erro e algo muito ruim pode acontecer se Harry insistir em continuar os estudos de bruxaria. O garoto, no entanto, está disposto a arriscar e se livrar do lar problemático.",
       "image": "https://cdn.mitvstatic.com/programs/br_harry-potter-e-a-camara-secreta-2002-1_l_m.jpg"
     },
     {
       "start": "20260317044700 +0000",
-      "stop": "20260317073000 +0000",
+      "stop": "20260317054700 +0000",
       "title": "Harry Potter e a Câmara Secreta",
       "desc": "Após as sofríveis férias na casa dos tios, Harry Potter se prepara para voltar a Hogwarts e começar seu segundo ano na escola de bruxos. Na véspera do início das aulas, a estranha criatura Dobby aparece em seu quarto e o avisa de que voltar é um erro e algo muito ruim pode acontecer se Harry insistir em continuar os estudos de bruxaria. O garoto, no entanto, está disposto a arriscar e se livrar do lar problemático.",
       "image": "https://cdn.mitvstatic.com/programs/br_harry-potter-e-a-camara-secreta-2002-1_l_m.jpg"
@@ -89430,14 +89626,14 @@
     },
     {
       "start": "20260318030300 +0000",
-      "stop": "20260318073700 +0000",
+      "stop": "20260318040300 +0000",
       "title": "Harry Potter e as Relíquias da Morte - Parte 2",
       "desc": "A batalha entre as forças do bem e do mal da magia alcançam o mundo dos trouxas. O risco nunca foi tão grande, e ninguém está seguro. Harry Potter precisa fazer um sacrifício final conforme o confronto com Lord Voldemort se aproxima.",
       "image": "https://cdn.mitvstatic.com/programs/br_harry-potter-e-as-reliquias-da-morte-parte-2-2011-1_l_m.jpg"
     },
     {
       "start": "20260318030300 +0000",
-      "stop": "20260318040300 +0000",
+      "stop": "20260318073700 +0000",
       "title": "Harry Potter e as Relíquias da Morte - Parte 2",
       "desc": "A batalha entre as forças do bem e do mal da magia alcançam o mundo dos trouxas. O risco nunca foi tão grande, e ninguém está seguro. Harry Potter precisa fazer um sacrifício final conforme o confronto com Lord Voldemort se aproxima.",
       "image": "https://cdn.mitvstatic.com/programs/br_harry-potter-e-as-reliquias-da-morte-parte-2-2011-1_l_m.jpg"
@@ -89619,14 +89815,14 @@
     },
     {
       "start": "20260320030900 +0000",
-      "stop": "20260320073300 +0000",
+      "stop": "20260320040900 +0000",
       "title": "Mulher-Maravilha",
       "desc": "Treinada desde cedo para ser uma guerreira imbatível, Diana Prince nunca saiu da paradisíaca ilha em que é reconhecida como princesa das Amazonas. Quando o piloto Steve Trevor sofre um acidente e cai em uma praia do local, ela descobre que uma guerra sem precedentes está se espalhando pelo mundo e decide deixar seu lar certa de que pode parar o conflito. Lutando para acabar com a guerra, Diana percebe o alcance de seus poderes e sua verdadeira missão na Terra.",
       "image": "https://cdn.mitvstatic.com/programs/br_mulher-maravilha-2017_l_m.jpg"
     },
     {
       "start": "20260320030900 +0000",
-      "stop": "20260320040900 +0000",
+      "stop": "20260320073300 +0000",
       "title": "Mulher-Maravilha",
       "desc": "Treinada desde cedo para ser uma guerreira imbatível, Diana Prince nunca saiu da paradisíaca ilha em que é reconhecida como princesa das Amazonas. Quando o piloto Steve Trevor sofre um acidente e cai em uma praia do local, ela descobre que uma guerra sem precedentes está se espalhando pelo mundo e decide deixar seu lar certa de que pode parar o conflito. Lutando para acabar com a guerra, Diana percebe o alcance de seus poderes e sua verdadeira missão na Terra.",
       "image": "https://cdn.mitvstatic.com/programs/br_mulher-maravilha-2017_l_m.jpg"
@@ -89780,14 +89976,14 @@
     },
     {
       "start": "20260322022400 +0000",
-      "stop": "20260322032400 +0000",
+      "stop": "20260322071800 +0000",
       "title": "Pokémon - Detetive Pikachu",
       "desc": "Um jovem une forças com o detetive Pikachu para desvendar o mistério por trás do desaparecimento de seu pai. Perseguindo pistas pelas ruas de Ryme City, a dupla dinâmica logo descobre uma trama desonesta que representa uma ameaça ao universo Pokémon.",
       "image": "https://cdn.mitvstatic.com/programs/br_pokemon-detetive-pikachu-2019_l_m.jpg"
     },
     {
       "start": "20260322022400 +0000",
-      "stop": "20260322071800 +0000",
+      "stop": "20260322032400 +0000",
       "title": "Pokémon - Detetive Pikachu",
       "desc": "Um jovem une forças com o detetive Pikachu para desvendar o mistério por trás do desaparecimento de seu pai. Perseguindo pistas pelas ruas de Ryme City, a dupla dinâmica logo descobre uma trama desonesta que representa uma ameaça ao universo Pokémon.",
       "image": "https://cdn.mitvstatic.com/programs/br_pokemon-detetive-pikachu-2019_l_m.jpg"
@@ -90384,14 +90580,14 @@
     },
     {
       "start": "20260320054500 +0000",
-      "stop": "20260320072500 +0000",
+      "stop": "20260320064500 +0000",
       "title": "Um Tio Quase Perfeito",
       "desc": "Tio Tony é um adorável trambiqueiro que vive de bicos como estátua viva, cartomante, pastor e sempre conta com a cobertura da mãe, Cecilia. Quando eles são despejados de onde moram, procuram a irmã de Tony, Angela, com quem não falam há anos. Ela tem três filhos que mal conhecem a avó e o tio. Como Angela tem uma viagem de trabalho marcada e a babá não aparece, ela acaba aceitando o irmão e mãe em casa por uma temporada para ficar com as crianças.",
       "image": "https://cdn.mitvstatic.com/programs/br_um-tio-quase-perfeito-2017_l_m.jpg"
     },
     {
       "start": "20260320054500 +0000",
-      "stop": "20260320064500 +0000",
+      "stop": "20260320072500 +0000",
       "title": "Um Tio Quase Perfeito",
       "desc": "Tio Tony é um adorável trambiqueiro que vive de bicos como estátua viva, cartomante, pastor e sempre conta com a cobertura da mãe, Cecilia. Quando eles são despejados de onde moram, procuram a irmã de Tony, Angela, com quem não falam há anos. Ela tem três filhos que mal conhecem a avó e o tio. Como Angela tem uma viagem de trabalho marcada e a babá não aparece, ela acaba aceitando o irmão e mãe em casa por uma temporada para ficar com as crianças.",
       "image": "https://cdn.mitvstatic.com/programs/br_um-tio-quase-perfeito-2017_l_m.jpg"
@@ -90489,14 +90685,14 @@
     },
     {
       "start": "20260321043500 +0000",
-      "stop": "20260321053500 +0000",
+      "stop": "20260321064500 +0000",
       "title": "A Lenda do Cavaleiro Verde",
       "desc": "Gawain embarca em uma missão ousada para enfrentar o Cavaleiro Verde, um ser misterioso que apareceu em Camelot com um desafio enigmático. Arriscando sua cabeça, ele encontra fantasmas, gigantes, ladrões e enganadores em uma aventura épica.",
       "image": "https://cdn.mitvstatic.com/programs/br_a-lenda-do-cavaleiro-verde-2021_l_m.jpg"
     },
     {
       "start": "20260321043500 +0000",
-      "stop": "20260321064500 +0000",
+      "stop": "20260321053500 +0000",
       "title": "A Lenda do Cavaleiro Verde",
       "desc": "Gawain embarca em uma missão ousada para enfrentar o Cavaleiro Verde, um ser misterioso que apareceu em Camelot com um desafio enigmático. Arriscando sua cabeça, ele encontra fantasmas, gigantes, ladrões e enganadores em uma aventura épica.",
       "image": "https://cdn.mitvstatic.com/programs/br_a-lenda-do-cavaleiro-verde-2021_l_m.jpg"
@@ -91788,14 +91984,14 @@
     },
     {
       "start": "20260318054500 +0000",
-      "stop": "20260318072000 +0000",
+      "stop": "20260318064500 +0000",
       "title": "Não É Mais um Besteirol Americano",
       "desc": "O filme não mostra misericórdia conforme espeta as convenções e clichês do gênero que você odeia amar. Conheça Janey Briggs, uma aspirante a artista que é motivo de riso de seus colegas por usar óculos, um rabo de cavalo e um macacão manchado, e Jake Wyler, o astro do futebol americano que faz uma aposta insensata para transformar Janey na rainha do baile, em uma brincadeira picante com uma variedade de tiradas em personagens e filmes clássicos adolescentes.",
       "image": "https://cdn.mitvstatic.com/programs/br_n-o-e-mais-um-besteirol-americano-2001-1_l_m.jpg"
     },
     {
       "start": "20260318054500 +0000",
-      "stop": "20260318064500 +0000",
+      "stop": "20260318072000 +0000",
       "title": "Não É Mais um Besteirol Americano",
       "desc": "O filme não mostra misericórdia conforme espeta as convenções e clichês do gênero que você odeia amar. Conheça Janey Briggs, uma aspirante a artista que é motivo de riso de seus colegas por usar óculos, um rabo de cavalo e um macacão manchado, e Jake Wyler, o astro do futebol americano que faz uma aposta insensata para transformar Janey na rainha do baile, em uma brincadeira picante com uma variedade de tiradas em personagens e filmes clássicos adolescentes.",
       "image": "https://cdn.mitvstatic.com/programs/br_n-o-e-mais-um-besteirol-americano-2001-1_l_m.jpg"
@@ -92117,14 +92313,14 @@
     },
     {
       "start": "20260321055500 +0000",
-      "stop": "20260321065500 +0000",
+      "stop": "20260321075400 +0000",
       "title": "De Volta ao Mar",
       "desc": "Depois de uma década em Londres, Rona volta para sua terra natal nas Ilhas Órcades da Escócia. Sóbria, mas solitária, ela tenta suprimir a memória dos eventos que a levaram a essa jornada de recuperação.",
       "image": "https://cdn.mitvstatic.com/programs/br_de-volta-ao-mar-2024_l_m.jpg"
     },
     {
       "start": "20260321055500 +0000",
-      "stop": "20260321075400 +0000",
+      "stop": "20260321065500 +0000",
       "title": "De Volta ao Mar",
       "desc": "Depois de uma década em Londres, Rona volta para sua terra natal nas Ilhas Órcades da Escócia. Sóbria, mas solitária, ela tenta suprimir a memória dos eventos que a levaram a essa jornada de recuperação.",
       "image": "https://cdn.mitvstatic.com/programs/br_de-volta-ao-mar-2024_l_m.jpg"
@@ -92812,14 +93008,14 @@
     },
     {
       "start": "20260318053500 +0000",
-      "stop": "20260318063500 +0000",
+      "stop": "20260318062000 +0000",
       "title": "O Ouro Perdido da Segunda Guerra Mundial",
       "desc": "As escavações são interrompidas por uma armadilha. Um especialista compartilha uma pista chave e a tecnologia revela uma caverna oculta.",
       "image": "https://cdn.mitvstatic.com/programs/br_o-ouro-perdido-da-segunda-guerra-mundial-s01e02-um-x-marca-o-lugar_l_m.jpg"
     },
     {
       "start": "20260318053500 +0000",
-      "stop": "20260318062000 +0000",
+      "stop": "20260318063500 +0000",
       "title": "O Ouro Perdido da Segunda Guerra Mundial",
       "desc": "As escavações são interrompidas por uma armadilha. Um especialista compartilha uma pista chave e a tecnologia revela uma caverna oculta.",
       "image": "https://cdn.mitvstatic.com/programs/br_o-ouro-perdido-da-segunda-guerra-mundial-s01e02-um-x-marca-o-lugar_l_m.jpg"
@@ -93386,14 +93582,14 @@
     },
     {
       "start": "20260321053000 +0000",
-      "stop": "20260321062500 +0000",
+      "stop": "20260321063000 +0000",
       "title": "Engenheiros de Hitler - Construindo o Terceiro Reich",
       "desc": "Werner Heisenberg é um dos cientistas mais controversos do Terceiro Reich. Seu trabalho para construir uma bomba atômica fez dele um alvo importante dos Aliados. No entanto, suas motivações permanecem obscuras.",
       "image": "https://cdn.mitvstatic.com/programs/br_engenheiros-de-hitler-construindo-o-terceiro-reich-s01e03-werner-heisenberg_l_m.jpg"
     },
     {
       "start": "20260321053000 +0000",
-      "stop": "20260321063000 +0000",
+      "stop": "20260321062500 +0000",
       "title": "Engenheiros de Hitler - Construindo o Terceiro Reich",
       "desc": "Werner Heisenberg é um dos cientistas mais controversos do Terceiro Reich. Seu trabalho para construir uma bomba atômica fez dele um alvo importante dos Aliados. No entanto, suas motivações permanecem obscuras.",
       "image": "https://cdn.mitvstatic.com/programs/br_engenheiros-de-hitler-construindo-o-terceiro-reich-s01e03-werner-heisenberg_l_m.jpg"
@@ -93722,14 +93918,14 @@
     },
     {
       "start": "20260323051500 +0000",
-      "stop": "20260323061000 +0000",
+      "stop": "20260323061500 +0000",
       "title": "O Efeito Nostradamus",
       "desc": "Pesquisadores descobrem objetos contendo profecias de uma mensagem profunda sobre o fim violento da humanidade nas pirâmides do Egito e seus arredores.",
       "image": "https://cdn.mitvstatic.com/programs/br_o-efeito-nostradamus-s01e10-os-hieroglifos-do-juizo-final_l_m.jpg"
     },
     {
       "start": "20260323051500 +0000",
-      "stop": "20260323061500 +0000",
+      "stop": "20260323061000 +0000",
       "title": "O Efeito Nostradamus",
       "desc": "Pesquisadores descobrem objetos contendo profecias de uma mensagem profunda sobre o fim violento da humanidade nas pirâmides do Egito e seus arredores.",
       "image": "https://cdn.mitvstatic.com/programs/br_o-efeito-nostradamus-s01e10-os-hieroglifos-do-juizo-final_l_m.jpg"
@@ -94872,14 +95068,14 @@
     },
     {
       "start": "20260320055000 +0000",
-      "stop": "20260320063500 +0000",
+      "stop": "20260320065000 +0000",
       "title": "Alienígenas do Passado",
       "desc": "Conheça sobre a arte rupestre mais antiga e misteriosa do planeta. Giorgio Tsoukalos observa os mais incríveis hieróglifos, petróglifos e geoglifos; aqueles que, segundo ele afirma, narram uma história universal - a visita de extraterrestres.",
       "image": "https://cdn.mitvstatic.com/programs/br_alienigenas-do-passado-s18e13-in-loco-decifrando-glifos-extraterrestres_l_m.jpg"
     },
     {
       "start": "20260320055000 +0000",
-      "stop": "20260320065000 +0000",
+      "stop": "20260320063500 +0000",
       "title": "Alienígenas do Passado",
       "desc": "Conheça sobre a arte rupestre mais antiga e misteriosa do planeta. Giorgio Tsoukalos observa os mais incríveis hieróglifos, petróglifos e geoglifos; aqueles que, segundo ele afirma, narram uma história universal - a visita de extraterrestres.",
       "image": "https://cdn.mitvstatic.com/programs/br_alienigenas-do-passado-s18e13-in-loco-decifrando-glifos-extraterrestres_l_m.jpg"
@@ -95980,14 +96176,14 @@
     },
     {
       "start": "20260317052500 +0000",
-      "stop": "20260317062500 +0000",
+      "stop": "20260317061000 +0000",
       "title": "Vai que Cola",
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
       "image": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-1_l_m.jpg"
     },
     {
       "start": "20260317052500 +0000",
-      "stop": "20260317061000 +0000",
+      "stop": "20260317062500 +0000",
       "title": "Vai que Cola",
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
       "image": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-1_l_m.jpg"
@@ -96512,14 +96708,14 @@
     },
     {
       "start": "20260320052500 +0000",
-      "stop": "20260320061000 +0000",
+      "stop": "20260320062500 +0000",
       "title": "Vai que Cola",
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
       "image": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-1_l_m.jpg"
     },
     {
       "start": "20260320052500 +0000",
-      "stop": "20260320062500 +0000",
+      "stop": "20260320061000 +0000",
       "title": "Vai que Cola",
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
       "image": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-1_l_m.jpg"
@@ -96694,14 +96890,14 @@
     },
     {
       "start": "20260321055500 +0000",
-      "stop": "20260321065500 +0000",
+      "stop": "20260321065000 +0000",
       "title": "Vai que Cola",
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
       "image": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-1_l_m.jpg"
     },
     {
       "start": "20260321055500 +0000",
-      "stop": "20260321065000 +0000",
+      "stop": "20260321065500 +0000",
       "title": "Vai que Cola",
       "desc": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
       "image": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-1_l_m.jpg"
@@ -96939,14 +97135,14 @@
     },
     {
       "start": "20260323043500 +0000",
-      "stop": "20260323070000 +0000",
+      "stop": "20260323053500 +0000",
       "title": "Filme",
       "desc": "Acompanhe uma produção cinematográfica.",
       "image": "https://cdn.mitvstatic.com/programs/br_filme-1_l_m.jpg"
     },
     {
       "start": "20260323043500 +0000",
-      "stop": "20260323053500 +0000",
+      "stop": "20260323070000 +0000",
       "title": "Filme",
       "desc": "Acompanhe uma produção cinematográfica.",
       "image": "https://cdn.mitvstatic.com/programs/br_filme-1_l_m.jpg"
@@ -98481,14 +98677,14 @@
     },
     {
       "start": "20260322055800 +0000",
-      "stop": "20260322064500 +0000",
+      "stop": "20260322065800 +0000",
       "title": "Abdelmassih - Do Milagre ao Crime",
       "desc": "Um furo de reportagem encoraja cada vez mais vítimas a denunciarem Roger Abdelmassih por crimes sexuais e a mostrarem seus rostos publicamente. Os dois lados se enfrentam cara a cara na justiça em uma batalha que toma rumos surpreendentes.",
       "image": "https://cdn.mitvstatic.com/programs/br_abdelmassih-do-milagre-ao-crime-s01e03-de-frente-com-o-inimigo_l_m.jpg"
     },
     {
       "start": "20260322055800 +0000",
-      "stop": "20260322065800 +0000",
+      "stop": "20260322064500 +0000",
       "title": "Abdelmassih - Do Milagre ao Crime",
       "desc": "Um furo de reportagem encoraja cada vez mais vítimas a denunciarem Roger Abdelmassih por crimes sexuais e a mostrarem seus rostos publicamente. Os dois lados se enfrentam cara a cara na justiça em uma batalha que toma rumos surpreendentes.",
       "image": "https://cdn.mitvstatic.com/programs/br_abdelmassih-do-milagre-ao-crime-s01e03-de-frente-com-o-inimigo_l_m.jpg"
@@ -99071,14 +99267,14 @@
     },
     {
       "start": "20260317054000 +0000",
-      "stop": "20260317071000 +0000",
+      "stop": "20260317064000 +0000",
       "title": "Justiça Entre Quatro Paredes",
       "desc": "Uma mulher de 30 anos é ferida pelo profissional responsável por seu tratamento de fertilização in vitro e seu mundo desmorona. Devastada, ela decide arquitetar um plano para prendê-lo no porão e fazer justiça com as próprias mãos, mesmo que isso signifique colocar sua própria vida em perigo.",
       "image": "https://cdn.mitvstatic.com/programs/br_justica-entre-quatro-paredes-2024_l_m.jpg"
     },
     {
       "start": "20260317054000 +0000",
-      "stop": "20260317064000 +0000",
+      "stop": "20260317071000 +0000",
       "title": "Justiça Entre Quatro Paredes",
       "desc": "Uma mulher de 30 anos é ferida pelo profissional responsável por seu tratamento de fertilização in vitro e seu mundo desmorona. Devastada, ela decide arquitetar um plano para prendê-lo no porão e fazer justiça com as próprias mãos, mesmo que isso signifique colocar sua própria vida em perigo.",
       "image": "https://cdn.mitvstatic.com/programs/br_justica-entre-quatro-paredes-2024_l_m.jpg"
@@ -100333,14 +100529,14 @@
     },
     {
       "start": "20260320052000 +0000",
-      "stop": "20260320070500 +0000",
+      "stop": "20260320062000 +0000",
       "title": "Amado",
       "desc": "Amado é um policial militar honesto que vê crescer a corrupção entre os seus colegas. Visto como herói por uns e fora da lei por outros, acaba isolado e decide resolver tudo por conta própria, prendendo, julgando e executando os criminosos.",
       "image": "https://cdn.mitvstatic.com/programs/br_amado-2022_l_m.jpg"
     },
     {
       "start": "20260320052000 +0000",
-      "stop": "20260320062000 +0000",
+      "stop": "20260320070500 +0000",
       "title": "Amado",
       "desc": "Amado é um policial militar honesto que vê crescer a corrupção entre os seus colegas. Visto como herói por uns e fora da lei por outros, acaba isolado e decide resolver tudo por conta própria, prendendo, julgando e executando os criminosos.",
       "image": "https://cdn.mitvstatic.com/programs/br_amado-2022_l_m.jpg"
@@ -100508,14 +100704,14 @@
     },
     {
       "start": "20260322042500 +0000",
-      "stop": "20260322071000 +0000",
+      "stop": "20260322052500 +0000",
       "title": "O Regresso",
       "desc": "Após ser atacado por um urso, o caçador Hugh Glass é abandonado na floresta por seu companheiro John Fitzgerald. Apesar de muito ferido, Glass consegue sobreviver e vai em busca de vingança.",
       "image": "https://cdn.mitvstatic.com/programs/br_o-regresso-2015_l_m.jpg"
     },
     {
       "start": "20260322042500 +0000",
-      "stop": "20260322052500 +0000",
+      "stop": "20260322071000 +0000",
       "title": "O Regresso",
       "desc": "Após ser atacado por um urso, o caçador Hugh Glass é abandonado na floresta por seu companheiro John Fitzgerald. Apesar de muito ferido, Glass consegue sobreviver e vai em busca de vingança.",
       "image": "https://cdn.mitvstatic.com/programs/br_o-regresso-2015_l_m.jpg"
@@ -101336,14 +101532,14 @@
     },
     {
       "start": "20260318053700 +0000",
-      "stop": "20260318063700 +0000",
+      "stop": "20260318060400 +0000",
       "title": "Chapolin",
       "desc": "O primo de Florinda chega ao escritório para capturar marcianos e camundongos. Ela pede ajuda ao Chapolin Colorado, causa confusão e acaba demitida.",
       "image": "https://cdn.mitvstatic.com/programs/br_chapolin-s01e188-o-presente-de-casamento_l_m.jpg"
     },
     {
       "start": "20260318053700 +0000",
-      "stop": "20260318060400 +0000",
+      "stop": "20260318063700 +0000",
       "title": "Chapolin",
       "desc": "O primo de Florinda chega ao escritório para capturar marcianos e camundongos. Ela pede ajuda ao Chapolin Colorado, causa confusão e acaba demitida.",
       "image": "https://cdn.mitvstatic.com/programs/br_chapolin-s01e188-o-presente-de-casamento_l_m.jpg"
@@ -101945,14 +102141,14 @@
     },
     {
       "start": "20260320010000 +0000",
-      "stop": "20260320090000 +0000",
+      "stop": "20260320020000 +0000",
       "title": "Vai que Cola",
       "desc": "Jéssica ajuda uma amiga a cuidar de seu bebê, mas de mão em mão, a criança passa pelos cuidados de improváveis casais até encontrar a própria mãe.",
       "image": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-s12e19-seis-solteir-es-e-um-bebe_l_m.jpg"
     },
     {
       "start": "20260320010000 +0000",
-      "stop": "20260320020000 +0000",
+      "stop": "20260320090000 +0000",
       "title": "Vai que Cola",
       "desc": "Jéssica ajuda uma amiga a cuidar de seu bebê, mas de mão em mão, a criança passa pelos cuidados de improváveis casais até encontrar a própria mãe.",
       "image": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-s12e19-seis-solteir-es-e-um-bebe_l_m.jpg"
@@ -104572,14 +104768,14 @@
     },
     {
       "start": "20260322054000 +0000",
-      "stop": "20260322062500 +0000",
+      "stop": "20260322064000 +0000",
       "title": "Cidades Desvendadas com Albert Lin",
       "desc": "Albert Lin parte em uma jornada até os confins da Terra. Ele desvenda as camadas do tempo e revela antigas cidades perdidas usando tecnologia.",
       "image": "https://cdn.mitvstatic.com/programs/br_cidades-desvendadas-com-albert-lin_l_m.jpg"
     },
     {
       "start": "20260322054000 +0000",
-      "stop": "20260322064000 +0000",
+      "stop": "20260322062500 +0000",
       "title": "Cidades Desvendadas com Albert Lin",
       "desc": "Albert Lin parte em uma jornada até os confins da Terra. Ele desvenda as camadas do tempo e revela antigas cidades perdidas usando tecnologia.",
       "image": "https://cdn.mitvstatic.com/programs/br_cidades-desvendadas-com-albert-lin_l_m.jpg"
@@ -112825,14 +113021,14 @@
     },
     {
       "start": "20260317050000 +0000",
-      "stop": "20260317090000 +0000",
+      "stop": "20260317060000 +0000",
       "title": "SBT Notícias",
       "desc": "Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia.",
       "image": "https://cdn.mitvstatic.com/programs/br_sbt-noticias_l_m.jpg"
     },
     {
       "start": "20260317050000 +0000",
-      "stop": "20260317060000 +0000",
+      "stop": "20260317090000 +0000",
       "title": "SBT Notícias",
       "desc": "Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia.",
       "image": "https://cdn.mitvstatic.com/programs/br_sbt-noticias_l_m.jpg"
@@ -113301,14 +113497,14 @@
     },
     {
       "start": "20260321050000 +0000",
-      "stop": "20260321090000 +0000",
+      "stop": "20260321060000 +0000",
       "title": "SBT Notícias",
       "desc": "Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia.",
       "image": "https://cdn.mitvstatic.com/programs/br_sbt-noticias_l_m.jpg"
     },
     {
       "start": "20260321050000 +0000",
-      "stop": "20260321060000 +0000",
+      "stop": "20260321090000 +0000",
       "title": "SBT Notícias",
       "desc": "Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia.",
       "image": "https://cdn.mitvstatic.com/programs/br_sbt-noticias_l_m.jpg"
@@ -114185,14 +114381,14 @@
     },
     {
       "start": "20260319054900 +0000",
-      "stop": "20260319061900 +0000",
+      "stop": "20260319064900 +0000",
       "title": "Everybody Hates Chris",
       "desc": "Quando a escola é fechada devido a um dia de neve, Chris é o único que aparece, então precisa passar o dia com o diretor Edwards até que ele consiga localizar os pais de Chris.",
       "image": "https://cdn.mitvstatic.com/programs/br_everybody-hates-chris-s02e13-everybody-hates-snow-day_l_m.jpg"
     },
     {
       "start": "20260319054900 +0000",
-      "stop": "20260319064900 +0000",
+      "stop": "20260319061900 +0000",
       "title": "Everybody Hates Chris",
       "desc": "Quando a escola é fechada devido a um dia de neve, Chris é o único que aparece, então precisa passar o dia com o diretor Edwards até que ele consiga localizar os pais de Chris.",
       "image": "https://cdn.mitvstatic.com/programs/br_everybody-hates-chris-s02e13-everybody-hates-snow-day_l_m.jpg"
@@ -114892,14 +115088,14 @@
     },
     {
       "start": "20260323051900 +0000",
-      "stop": "20260323061900 +0000",
+      "stop": "20260323060900 +0000",
       "title": "Grey's Anatomy",
       "desc": "Simone e Lucas tentam equilibrar seu relacionamento enquanto competem para ajudar em um transplante de rim; Teddy oferece a Amelia uma nova oportunidade; a entrevista de Ben não sai como planejado; o segredo de Meredith causa tensão com Richard.",
       "image": "https://cdn.mitvstatic.com/programs/br_grey-s-anatomy-s21e03-i-can-see-clearly-now_l_m.jpg"
     },
     {
       "start": "20260323051900 +0000",
-      "stop": "20260323060900 +0000",
+      "stop": "20260323061900 +0000",
       "title": "Grey's Anatomy",
       "desc": "Simone e Lucas tentam equilibrar seu relacionamento enquanto competem para ajudar em um transplante de rim; Teddy oferece a Amelia uma nova oportunidade; a entrevista de Ben não sai como planejado; o segredo de Meredith causa tensão com Richard.",
       "image": "https://cdn.mitvstatic.com/programs/br_grey-s-anatomy-s21e03-i-can-see-clearly-now_l_m.jpg"
@@ -115517,14 +115713,14 @@
     },
     {
       "start": "20260318053700 +0000",
-      "stop": "20260318062100 +0000",
+      "stop": "20260318063700 +0000",
       "title": "CSI Investigação Criminal",
       "desc": "Após uma vítima de estupro identificar seu estuprador, Grissom e sua equipe lutam para encontrar evidência física para condenar o agressor.",
       "image": "https://cdn.mitvstatic.com/programs/br_csi-investigac-o-criminal-s04e23-linhagens-de-sangue_l_m.jpg"
     },
     {
       "start": "20260318053700 +0000",
-      "stop": "20260318063700 +0000",
+      "stop": "20260318062100 +0000",
       "title": "CSI Investigação Criminal",
       "desc": "Após uma vítima de estupro identificar seu estuprador, Grissom e sua equipe lutam para encontrar evidência física para condenar o agressor.",
       "image": "https://cdn.mitvstatic.com/programs/br_csi-investigac-o-criminal-s04e23-linhagens-de-sangue_l_m.jpg"
@@ -115720,14 +115916,14 @@
     },
     {
       "start": "20260319053900 +0000",
-      "stop": "20260319062600 +0000",
+      "stop": "20260319063900 +0000",
       "title": "CSI Investigação Criminal",
       "desc": "Em Las Vegas, a equipe CSI investiga quatro fatalidades em uma noite: um tiroteio em uma boate, uma stripper encontrada morta em uma suíte de hotel, um homem que foi achado eletrocutado na banheira e um corpo vestido com fantasia de alienígena.",
       "image": "https://cdn.mitvstatic.com/programs/br_csi-investigac-o-criminal-s05e01-viva-las-vegas_l_m.jpg"
     },
     {
       "start": "20260319053900 +0000",
-      "stop": "20260319063900 +0000",
+      "stop": "20260319062600 +0000",
       "title": "CSI Investigação Criminal",
       "desc": "Em Las Vegas, a equipe CSI investiga quatro fatalidades em uma noite: um tiroteio em uma boate, uma stripper encontrada morta em uma suíte de hotel, um homem que foi achado eletrocutado na banheira e um corpo vestido com fantasia de alienígena.",
       "image": "https://cdn.mitvstatic.com/programs/br_csi-investigac-o-criminal-s05e01-viva-las-vegas_l_m.jpg"
@@ -116469,14 +116665,14 @@
     },
     {
       "start": "20260323054700 +0000",
-      "stop": "20260323064700 +0000",
+      "stop": "20260323063100 +0000",
       "title": "CSI: Miami",
       "desc": "O assassino em série Bob Starling, provoca os investigadores em um jogo de gato e rato. Entretanto, lentamente os investigadores descobrirão seus planos covardes.",
       "image": "https://cdn.mitvstatic.com/programs/br_csi-miami-s09e01-fallen_l_m.jpg"
     },
     {
       "start": "20260323054700 +0000",
-      "stop": "20260323063100 +0000",
+      "stop": "20260323064700 +0000",
       "title": "CSI: Miami",
       "desc": "O assassino em série Bob Starling, provoca os investigadores em um jogo de gato e rato. Entretanto, lentamente os investigadores descobrirão seus planos covardes.",
       "image": "https://cdn.mitvstatic.com/programs/br_csi-miami-s09e01-fallen_l_m.jpg"
@@ -122125,14 +122321,14 @@
       "start": "20260318230000 +0000",
       "stop": "20260319010000 +0000",
       "title": "UEFA Champions League 2025-26 - Liverpool x Galatasaray - Oitavos-de-Final - 2ª Mão",
-      "desc": "Os melhores jogos da UEFA Champions League para veres aqui, na DAZN.",
+      "desc": "",
       "image": "https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http://vip.pam.local.internal/PAM.Images/Store/a131b04dcae447faaa57d26165a1d6e2&profile=ott_1_452x340&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI"
     },
     {
       "start": "20260318230000 +0000",
       "stop": "20260319010000 +0000",
       "title": "UEFA Champions League 2025-26 - Liverpool x Galatasaray - Oitavos-de-Final - 2ª Mão",
-      "desc": "",
+      "desc": "Os melhores jogos da UEFA Champions League para veres aqui, na DAZN.",
       "image": "https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http://vip.pam.local.internal/PAM.Images/Store/a131b04dcae447faaa57d26165a1d6e2&profile=ott_1_452x340&client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI"
     },
     {
@@ -122946,14 +123142,14 @@
     },
     {
       "start": "20260317051000 +0000",
-      "stop": "20260317064500 +0000",
+      "stop": "20260317061000 +0000",
       "title": "Um Lugar",
       "desc": "Edee encontra-se incapaz de permanecer conectada ao mundo que conhece e recua para a magnífica mas implacável natureza de Rockies. Depois de um caçador local salvá-la no precipício da morte, ela tenta encontrar uma forma de viver novamente.",
       "image": "https://cdn.mitvstatic.com/programs/br_um-lugar-2021_l_m.jpg"
     },
     {
       "start": "20260317051000 +0000",
-      "stop": "20260317061000 +0000",
+      "stop": "20260317064500 +0000",
       "title": "Um Lugar",
       "desc": "Edee encontra-se incapaz de permanecer conectada ao mundo que conhece e recua para a magnífica mas implacável natureza de Rockies. Depois de um caçador local salvá-la no precipício da morte, ela tenta encontrar uma forma de viver novamente.",
       "image": "https://cdn.mitvstatic.com/programs/br_um-lugar-2021_l_m.jpg"
@@ -123051,14 +123247,14 @@
     },
     {
       "start": "20260318052500 +0000",
-      "stop": "20260318062500 +0000",
+      "stop": "20260318072000 +0000",
       "title": "Sobrenatural - A Porta Vermelha",
       "desc": "Josh Lambert segue para o leste para deixar seu filho Dalton na faculdade. No entanto, os demônios reprimidos do passado voltam repentinamente para assombrar os dois.",
       "image": "https://cdn.mitvstatic.com/programs/br_sobrenatural-a-porta-vermelha-2023_l_m.jpg"
     },
     {
       "start": "20260318052500 +0000",
-      "stop": "20260318072000 +0000",
+      "stop": "20260318062500 +0000",
       "title": "Sobrenatural - A Porta Vermelha",
       "desc": "Josh Lambert segue para o leste para deixar seu filho Dalton na faculdade. No entanto, os demônios reprimidos do passado voltam repentinamente para assombrar os dois.",
       "image": "https://cdn.mitvstatic.com/programs/br_sobrenatural-a-porta-vermelha-2023_l_m.jpg"
@@ -123240,14 +123436,14 @@
     },
     {
       "start": "20260320051000 +0000",
-      "stop": "20260320070500 +0000",
+      "stop": "20260320061000 +0000",
       "title": "Sobrenatural - A Porta Vermelha",
       "desc": "Josh Lambert segue para o leste para deixar seu filho Dalton na faculdade. No entanto, os demônios reprimidos do passado voltam repentinamente para assombrar os dois.",
       "image": "https://cdn.mitvstatic.com/programs/br_sobrenatural-a-porta-vermelha-2023_l_m.jpg"
     },
     {
       "start": "20260320051000 +0000",
-      "stop": "20260320061000 +0000",
+      "stop": "20260320070500 +0000",
       "title": "Sobrenatural - A Porta Vermelha",
       "desc": "Josh Lambert segue para o leste para deixar seu filho Dalton na faculdade. No entanto, os demônios reprimidos do passado voltam repentinamente para assombrar os dois.",
       "image": "https://cdn.mitvstatic.com/programs/br_sobrenatural-a-porta-vermelha-2023_l_m.jpg"
@@ -125344,14 +125540,14 @@
     },
     {
       "start": "20260317054800 +0000",
-      "stop": "20260317064800 +0000",
+      "stop": "20260317061100 +0000",
       "title": "Eu Sou Betty, a Feia",
       "desc": "Freddy entra na discoteca e vê Aura Maria dançando com um rapaz; Armando entra na discoteca e pede para falar com Betty.",
       "image": "https://cdn.mitvstatic.com/programs/br_eu-sou-betty-a-feia-s01e279_l_m.jpg"
     },
     {
       "start": "20260317054800 +0000",
-      "stop": "20260317061100 +0000",
+      "stop": "20260317064800 +0000",
       "title": "Eu Sou Betty, a Feia",
       "desc": "Freddy entra na discoteca e vê Aura Maria dançando com um rapaz; Armando entra na discoteca e pede para falar com Betty.",
       "image": "https://cdn.mitvstatic.com/programs/br_eu-sou-betty-a-feia-s01e279_l_m.jpg"
@@ -125988,14 +126184,14 @@
     },
     {
       "start": "20260320055000 +0000",
-      "stop": "20260320061300 +0000",
+      "stop": "20260320065000 +0000",
       "title": "Eu Sou Betty, a Feia",
       "desc": "Armando e Mário propõem a venda da franquia da Ecomoda na América do Sul e América Central; Betty propõe uma mudança de estratégia.",
       "image": "https://cdn.mitvstatic.com/programs/br_eu-sou-betty-a-feia-s01e285_l_m.jpg"
     },
     {
       "start": "20260320055000 +0000",
-      "stop": "20260320065000 +0000",
+      "stop": "20260320061300 +0000",
       "title": "Eu Sou Betty, a Feia",
       "desc": "Armando e Mário propõem a venda da franquia da Ecomoda na América do Sul e América Central; Betty propõe uma mudança de estratégia.",
       "image": "https://cdn.mitvstatic.com/programs/br_eu-sou-betty-a-feia-s01e285_l_m.jpg"
@@ -126436,14 +126632,14 @@
     },
     {
       "start": "20260322055500 +0000",
-      "stop": "20260322065500 +0000",
+      "stop": "20260322064100 +0000",
       "title": "Yargi - Segredos de Família",
       "desc": "Çi?dem confessa tudo; Pars decide encerrar o caso de Ilgaz; Yekta registra uma queixa contra ele.",
       "image": "https://cdn.mitvstatic.com/programs/br_yargi-segredos-de-familia-s02e26_l_m.jpg"
     },
     {
       "start": "20260322055500 +0000",
-      "stop": "20260322064100 +0000",
+      "stop": "20260322065500 +0000",
       "title": "Yargi - Segredos de Família",
       "desc": "Çi?dem confessa tudo; Pars decide encerrar o caso de Ilgaz; Yekta registra uma queixa contra ele.",
       "image": "https://cdn.mitvstatic.com/programs/br_yargi-segredos-de-familia-s02e26_l_m.jpg"
@@ -126653,14 +126849,14 @@
     },
     {
       "start": "20260323052500 +0000",
-      "stop": "20260323061800 +0000",
+      "stop": "20260323062500 +0000",
       "title": "Sonhos de Liberdade",
       "desc": "A cumplicidade entre Begoña e Andrés incomoda Maria, e o lançamento de um novo perfume causa problemas na família.",
       "image": "https://cdn.mitvstatic.com/programs/br_sonhos-de-liberdade-s01e12_l_m.jpg"
     },
     {
       "start": "20260323052500 +0000",
-      "stop": "20260323062500 +0000",
+      "stop": "20260323061800 +0000",
       "title": "Sonhos de Liberdade",
       "desc": "A cumplicidade entre Begoña e Andrés incomoda Maria, e o lançamento de um novo perfume causa problemas na família.",
       "image": "https://cdn.mitvstatic.com/programs/br_sonhos-de-liberdade-s01e12_l_m.jpg"
@@ -127152,14 +127348,14 @@
     },
     {
       "start": "20260319052000 +0000",
-      "stop": "20260319062000 +0000",
+      "stop": "20260319070000 +0000",
       "title": "Jogos Mortais V",
       "desc": "Mark Hoffman é, aparentemente, a última pessoa viva disposta a seguir o legado deixado por Jigsaw. Porém, quando seu segredo é ameaçado, usando uma série de armadilhas, cada vez mais bizarras e terríveis, ele precisa iniciar uma caçada para eliminar todos os envolvidos.",
       "image": "https://cdn.mitvstatic.com/programs/br_jogos-mortais-v-2008_l_m.jpg"
     },
     {
       "start": "20260319052000 +0000",
-      "stop": "20260319070000 +0000",
+      "stop": "20260319062000 +0000",
       "title": "Jogos Mortais V",
       "desc": "Mark Hoffman é, aparentemente, a última pessoa viva disposta a seguir o legado deixado por Jigsaw. Porém, quando seu segredo é ameaçado, usando uma série de armadilhas, cada vez mais bizarras e terríveis, ele precisa iniciar uma caçada para eliminar todos os envolvidos.",
       "image": "https://cdn.mitvstatic.com/programs/br_jogos-mortais-v-2008_l_m.jpg"
@@ -127243,14 +127439,14 @@
     },
     {
       "start": "20260320042000 +0000",
-      "stop": "20260320062000 +0000",
+      "stop": "20260320052000 +0000",
       "title": "O Ilusionista",
       "desc": "O ilusionista Eisenheim compete pelo amor da jovem Sophie com o Príncipe Leopoldo, herdeiro do trono do Império Austro-Húngaro, sem saber que está entrando em um jogo perigoso.",
       "image": "https://cdn.mitvstatic.com/programs/br_o-ilusionista-2006_l_m.jpg"
     },
     {
       "start": "20260320042000 +0000",
-      "stop": "20260320052000 +0000",
+      "stop": "20260320062000 +0000",
       "title": "O Ilusionista",
       "desc": "O ilusionista Eisenheim compete pelo amor da jovem Sophie com o Príncipe Leopoldo, herdeiro do trono do Império Austro-Húngaro, sem saber que está entrando em um jogo perigoso.",
       "image": "https://cdn.mitvstatic.com/programs/br_o-ilusionista-2006_l_m.jpg"
@@ -127432,14 +127628,14 @@
     },
     {
       "start": "20260322051000 +0000",
-      "stop": "20260322061000 +0000",
+      "stop": "20260322071000 +0000",
       "title": "Alemão 2",
       "desc": "A comunidade do Alemão no Rio de Janeiro é conhecida pela sua alta taxa de criminalidade. Mais uma vez, uma equipe enfrenta o tráfico de drogas para tentar realizar as missões necessárias dentro do complexo.",
       "image": "https://cdn.mitvstatic.com/programs/br_alem-o-2-2021_l_m.jpg"
     },
     {
       "start": "20260322051000 +0000",
-      "stop": "20260322071000 +0000",
+      "stop": "20260322061000 +0000",
       "title": "Alemão 2",
       "desc": "A comunidade do Alemão no Rio de Janeiro é conhecida pela sua alta taxa de criminalidade. Mais uma vez, uma equipe enfrenta o tráfico de drogas para tentar realizar as missões necessárias dentro do complexo.",
       "image": "https://cdn.mitvstatic.com/programs/br_alem-o-2-2021_l_m.jpg"
@@ -127523,14 +127719,14 @@
     },
     {
       "start": "20260323055000 +0000",
-      "stop": "20260323073000 +0000",
+      "stop": "20260323065000 +0000",
       "title": "Adrenalina",
       "desc": "Chev Chelios, um matador de aluguel, acorda pela manhã com um telefonema lhe informando que foi envenenado e tem somente uma hora de vida, exceto se mantiver um alto nível de adrenalina em seu corpo. Correndo contra o tempo, ele faz de tudo para manter seus batimentos acelerados e decide partir atrás de vingança.",
       "image": "https://cdn.mitvstatic.com/programs/br_adrenalina-2006_l_m.jpg"
     },
     {
       "start": "20260323055000 +0000",
-      "stop": "20260323065000 +0000",
+      "stop": "20260323073000 +0000",
       "title": "Adrenalina",
       "desc": "Chev Chelios, um matador de aluguel, acorda pela manhã com um telefonema lhe informando que foi envenenado e tem somente uma hora de vida, exceto se mantiver um alto nível de adrenalina em seu corpo. Correndo contra o tempo, ele faz de tudo para manter seus batimentos acelerados e decide partir atrás de vingança.",
       "image": "https://cdn.mitvstatic.com/programs/br_adrenalina-2006_l_m.jpg"
@@ -127707,14 +127903,14 @@
     },
     {
       "start": "20260317045500 +0000",
-      "stop": "20260317055500 +0000",
+      "stop": "20260317071000 +0000",
       "title": "Medusa",
       "desc": "Uma gangue de jovens mulheres tenta controlar tudo ao seu redor, incluindo outras mulheres, perambulando pelas ruas e espancando aquelas que consideram muito pecaminosas.",
       "image": "https://cdn.mitvstatic.com/programs/br_medusa-2021_l_m.jpg"
     },
     {
       "start": "20260317045500 +0000",
-      "stop": "20260317071000 +0000",
+      "stop": "20260317055500 +0000",
       "title": "Medusa",
       "desc": "Uma gangue de jovens mulheres tenta controlar tudo ao seu redor, incluindo outras mulheres, perambulando pelas ruas e espancando aquelas que consideram muito pecaminosas.",
       "image": "https://cdn.mitvstatic.com/programs/br_medusa-2021_l_m.jpg"
@@ -127896,14 +128092,14 @@
     },
     {
       "start": "20260319052000 +0000",
-      "stop": "20260319070000 +0000",
+      "stop": "20260319062000 +0000",
       "title": "Avenida Beira-Mar",
       "desc": "Durante o inverno, a praia de Piratininga está deserta. Rebeca, de 13 anos, acaba de se mudar para lá e está de castigo. Ela só vê a rua por cima do muro. Um dia, Rebeca conhece Mika, uma menina trans, e o mundo se abre para ela.",
       "image": "https://cdn.mitvstatic.com/programs/br_avenida-beira-mar-2024_l_m.jpg"
     },
     {
       "start": "20260319052000 +0000",
-      "stop": "20260319062000 +0000",
+      "stop": "20260319070000 +0000",
       "title": "Avenida Beira-Mar",
       "desc": "Durante o inverno, a praia de Piratininga está deserta. Rebeca, de 13 anos, acaba de se mudar para lá e está de castigo. Ela só vê a rua por cima do muro. Um dia, Rebeca conhece Mika, uma menina trans, e o mundo se abre para ela.",
       "image": "https://cdn.mitvstatic.com/programs/br_avenida-beira-mar-2024_l_m.jpg"
@@ -127987,14 +128183,14 @@
     },
     {
       "start": "20260320052000 +0000",
-      "stop": "20260320062000 +0000",
+      "stop": "20260320065000 +0000",
       "title": "Dragões da Violência",
       "desc": "Jessica Drummond é uma poderosa rainha do gado que se orgulha de possuir 40 armas à sua disposição e, por isso, mantém uma pequena cidade do Velho Oeste sob um reinado de horror. Seu irmão, um jovem encrenqueiro, está sempre arranjando confusão.",
       "image": "https://cdn.mitvstatic.com/programs/br_drag-es-da-violencia-1957_l_m.jpg"
     },
     {
       "start": "20260320052000 +0000",
-      "stop": "20260320065000 +0000",
+      "stop": "20260320062000 +0000",
       "title": "Dragões da Violência",
       "desc": "Jessica Drummond é uma poderosa rainha do gado que se orgulha de possuir 40 armas à sua disposição e, por isso, mantém uma pequena cidade do Velho Oeste sob um reinado de horror. Seu irmão, um jovem encrenqueiro, está sempre arranjando confusão.",
       "image": "https://cdn.mitvstatic.com/programs/br_drag-es-da-violencia-1957_l_m.jpg"
@@ -128169,14 +128365,14 @@
     },
     {
       "start": "20260322051500 +0000",
-      "stop": "20260322071000 +0000",
+      "stop": "20260322061500 +0000",
       "title": "Jardim dos Desejos",
       "desc": "Um horticultor meticuloso se dedica a cuidar dos terrenos de uma bela propriedade de uma rica viúva. Quando ele precisa assumir a problemática sobrinha-neta dela como aprendiz, sua vida vira de cabeça para baixo e segredos de seu passado emergem.",
       "image": "https://cdn.mitvstatic.com/programs/br_jardim-dos-desejos-2022_l_m.jpg"
     },
     {
       "start": "20260322051500 +0000",
-      "stop": "20260322061500 +0000",
+      "stop": "20260322071000 +0000",
       "title": "Jardim dos Desejos",
       "desc": "Um horticultor meticuloso se dedica a cuidar dos terrenos de uma bela propriedade de uma rica viúva. Quando ele precisa assumir a problemática sobrinha-neta dela como aprendiz, sua vida vira de cabeça para baixo e segredos de seu passado emergem.",
       "image": "https://cdn.mitvstatic.com/programs/br_jardim-dos-desejos-2022_l_m.jpg"
@@ -128458,14 +128654,14 @@
     },
     {
       "start": "20260317042000 +0000",
-      "stop": "20260317052000 +0000",
+      "stop": "20260317061500 +0000",
       "title": "A Escolha Perfeita",
       "desc": "Obrigada a ir para a faculdade contra a vontade, a rebelde Beca não se interessa em participar de atividades extracurriculares, até surgir a oportunidade de ingressar no grupo musical Barden Bella e competir no Campeonato Regional de Música.",
       "image": "https://cdn.mitvstatic.com/programs/br_a-escolha-perfeita-2012-1_l_m.jpg"
     },
     {
       "start": "20260317042000 +0000",
-      "stop": "20260317061500 +0000",
+      "stop": "20260317052000 +0000",
       "title": "A Escolha Perfeita",
       "desc": "Obrigada a ir para a faculdade contra a vontade, a rebelde Beca não se interessa em participar de atividades extracurriculares, até surgir a oportunidade de ingressar no grupo musical Barden Bella e competir no Campeonato Regional de Música.",
       "image": "https://cdn.mitvstatic.com/programs/br_a-escolha-perfeita-2012-1_l_m.jpg"
@@ -128563,14 +128759,14 @@
     },
     {
       "start": "20260318044500 +0000",
-      "stop": "20260318054500 +0000",
+      "stop": "20260318062500 +0000",
       "title": "Viagem 2 - A Ilha Misteriosa",
       "desc": "Sean Anderson descobre uma misteriosa mensagem de rádio, que parece ter sido enviada por seu avô, desaparecido há dois anos. Ele não gosta de seu padrasto Hank Parsons, mas recebe sua ajuda para decifrar os códigos do texto, e juntos eles descobrem o paradeiro do idoso aventureiro em uma ilha misteriosa. Para chegar lá, a dupla contrata o piloto de helicóptero Gabato e sua filha Kailani, mas muitos perigos aguardam os viajantes na ilha.",
       "image": "https://cdn.mitvstatic.com/programs/br_viagem-2-a-ilha-misteriosa-2012-2_l_m.jpg"
     },
     {
       "start": "20260318044500 +0000",
-      "stop": "20260318062500 +0000",
+      "stop": "20260318054500 +0000",
       "title": "Viagem 2 - A Ilha Misteriosa",
       "desc": "Sean Anderson descobre uma misteriosa mensagem de rádio, que parece ter sido enviada por seu avô, desaparecido há dois anos. Ele não gosta de seu padrasto Hank Parsons, mas recebe sua ajuda para decifrar os códigos do texto, e juntos eles descobrem o paradeiro do idoso aventureiro em uma ilha misteriosa. Para chegar lá, a dupla contrata o piloto de helicóptero Gabato e sua filha Kailani, mas muitos perigos aguardam os viajantes na ilha.",
       "image": "https://cdn.mitvstatic.com/programs/br_viagem-2-a-ilha-misteriosa-2012-2_l_m.jpg"
@@ -128976,14 +129172,14 @@
     },
     {
       "start": "20260322044500 +0000",
-      "stop": "20260322063500 +0000",
+      "stop": "20260322054500 +0000",
       "title": "Policial em Apuros 2",
       "desc": "Ben Barber deseja tornar-se um detetive, assim como James Payton, seu futuro cunhado. Relutantemente, James leva Ben para Miami em busca de pistas sobre um cartel de drogas. Durante a investigação, eles encontram evidências que implicam um respeitado empresário. Cabe a James e Ben provarem que o executivo carismático, Antonio Papa, é um violento senhor do crime que comanda o tráfico de drogas no Sul da Flórida.",
       "image": "https://cdn.mitvstatic.com/programs/br_policial-em-apuros-2-2016_l_m.jpg"
     },
     {
       "start": "20260322044500 +0000",
-      "stop": "20260322054500 +0000",
+      "stop": "20260322063500 +0000",
       "title": "Policial em Apuros 2",
       "desc": "Ben Barber deseja tornar-se um detetive, assim como James Payton, seu futuro cunhado. Relutantemente, James leva Ben para Miami em busca de pistas sobre um cartel de drogas. Durante a investigação, eles encontram evidências que implicam um respeitado empresário. Cabe a James e Ben provarem que o executivo carismático, Antonio Papa, é um violento senhor do crime que comanda o tráfico de drogas no Sul da Flórida.",
       "image": "https://cdn.mitvstatic.com/programs/br_policial-em-apuros-2-2016_l_m.jpg"
@@ -129398,14 +129594,14 @@
     },
     {
       "start": "20260318053000 +0000",
-      "stop": "20260318063000 +0000",
+      "stop": "20260318074500 +0000",
       "title": "Cinquenta Tons de Cinza",
       "desc": "A estudante de literatura Anastasia Steele, de 21 anos, entrevista o jovem bilionário Christian Grey, como um favor à sua colega de quarto Kate Kavanagh. Ela vê nele um homem atraente e brilhante, e ele fica igualmente fascinado por ela.",
       "image": "https://cdn.mitvstatic.com/programs/br_cinquenta-tons-de-cinza-2015-1_l_m.jpg"
     },
     {
       "start": "20260318053000 +0000",
-      "stop": "20260318074500 +0000",
+      "stop": "20260318063000 +0000",
       "title": "Cinquenta Tons de Cinza",
       "desc": "A estudante de literatura Anastasia Steele, de 21 anos, entrevista o jovem bilionário Christian Grey, como um favor à sua colega de quarto Kate Kavanagh. Ela vê nele um homem atraente e brilhante, e ele fica igualmente fascinado por ela.",
       "image": "https://cdn.mitvstatic.com/programs/br_cinquenta-tons-de-cinza-2015-1_l_m.jpg"
@@ -129489,14 +129685,14 @@
     },
     {
       "start": "20260319045500 +0000",
-      "stop": "20260319055500 +0000",
+      "stop": "20260319064000 +0000",
       "title": "Os Mercenários 4",
       "desc": "A equipe enfrenta um traficante de armas que comanda um enorme exército privado. Munidos com todas as armas inimagináveis, os Mercenários são a última linha de defesa do mundo.",
       "image": "https://cdn.mitvstatic.com/programs/br_os-mercenarios-4-2023_l_m.jpg"
     },
     {
       "start": "20260319045500 +0000",
-      "stop": "20260319064000 +0000",
+      "stop": "20260319055500 +0000",
       "title": "Os Mercenários 4",
       "desc": "A equipe enfrenta um traficante de armas que comanda um enorme exército privado. Munidos com todas as armas inimagináveis, os Mercenários são a última linha de defesa do mundo.",
       "image": "https://cdn.mitvstatic.com/programs/br_os-mercenarios-4-2023_l_m.jpg"
@@ -129587,14 +129783,14 @@
     },
     {
       "start": "20260320050500 +0000",
-      "stop": "20260320060500 +0000",
+      "stop": "20260320065000 +0000",
       "title": "A Protetora",
       "desc": "Ali começa a trabalhar como zeladora em um abastado prédio de Nova York após um longo tempo servindo ao exército. Porém, uma simpática família é feita de refém, e ela precisa usar suas habilidades para salvá-los.",
       "image": "https://cdn.mitvstatic.com/programs/br_a-protetora-2020_l_m.jpg"
     },
     {
       "start": "20260320050500 +0000",
-      "stop": "20260320065000 +0000",
+      "stop": "20260320060500 +0000",
       "title": "A Protetora",
       "desc": "Ali começa a trabalhar como zeladora em um abastado prédio de Nova York após um longo tempo servindo ao exército. Porém, uma simpática família é feita de refém, e ela precisa usar suas habilidades para salvá-los.",
       "image": "https://cdn.mitvstatic.com/programs/br_a-protetora-2020_l_m.jpg"
@@ -129692,14 +129888,14 @@
     },
     {
       "start": "20260321043500 +0000",
-      "stop": "20260321063500 +0000",
+      "stop": "20260321053500 +0000",
       "title": "Halloween Ends",
       "desc": "Depois de seu último encontro com Michael Myers, Laurie Strode finalmente decide se libertar e abraçar a vida. No entanto, um assassinato local desencadeia uma onda de violência e terror, forçando-a a enfrentar o mal que ela não pode controlar.",
       "image": "https://cdn.mitvstatic.com/programs/br_halloween-ends-2022_l_m.jpg"
     },
     {
       "start": "20260321043500 +0000",
-      "stop": "20260321053500 +0000",
+      "stop": "20260321063500 +0000",
       "title": "Halloween Ends",
       "desc": "Depois de seu último encontro com Michael Myers, Laurie Strode finalmente decide se libertar e abraçar a vida. No entanto, um assassinato local desencadeia uma onda de violência e terror, forçando-a a enfrentar o mal que ela não pode controlar.",
       "image": "https://cdn.mitvstatic.com/programs/br_halloween-ends-2022_l_m.jpg"
@@ -129895,14 +130091,14 @@
     },
     {
       "start": "20260323042000 +0000",
-      "stop": "20260323063000 +0000",
+      "stop": "20260323052000 +0000",
       "title": "Operação Hunt",
       "desc": "Dois espiões, antes colegas, agora inimigos, se enfrentam para descobrir identidade de um infiltrado dentro de sua organização em meio a uma conspiração para assassinar presidente.",
       "image": "https://cdn.mitvstatic.com/programs/br_operac-o-hunt-2022_l_m.jpg"
     },
     {
       "start": "20260323042000 +0000",
-      "stop": "20260323052000 +0000",
+      "stop": "20260323063000 +0000",
       "title": "Operação Hunt",
       "desc": "Dois espiões, antes colegas, agora inimigos, se enfrentam para descobrir identidade de um infiltrado dentro de sua organização em meio a uma conspiração para assassinar presidente.",
       "image": "https://cdn.mitvstatic.com/programs/br_operac-o-hunt-2022_l_m.jpg"
@@ -130289,14 +130485,14 @@
     },
     {
       "start": "20260319043000 +0000",
-      "stop": "20260319065500 +0000",
+      "stop": "20260319053000 +0000",
       "title": "Ainda Estou Aqui",
       "desc": "No início da década de 1970, o Brasil enfrenta o endurecimento da ditadura militar. No Rio de Janeiro, a família Paiva, formada pelo casal Rubens e Eunice e seus cinco filhos, vive à beira da praia em uma casa de portas abertas para os amigos. Um dia, Rubens é levado por militares à paisana e desaparece. Sua esposa é então obrigada a se reinventar e traçar um novo futuro para si e seus filhos enquanto tenta descobrir a verdade sobre o destino do marido, uma busca que se estenderia por décadas.",
       "image": "https://cdn.mitvstatic.com/programs/br_ainda-estou-aqui-2024_l_m.jpg"
     },
     {
       "start": "20260319043000 +0000",
-      "stop": "20260319053000 +0000",
+      "stop": "20260319065500 +0000",
       "title": "Ainda Estou Aqui",
       "desc": "No início da década de 1970, o Brasil enfrenta o endurecimento da ditadura militar. No Rio de Janeiro, a família Paiva, formada pelo casal Rubens e Eunice e seus cinco filhos, vive à beira da praia em uma casa de portas abertas para os amigos. Um dia, Rubens é levado por militares à paisana e desaparece. Sua esposa é então obrigada a se reinventar e traçar um novo futuro para si e seus filhos enquanto tenta descobrir a verdade sobre o destino do marido, uma busca que se estenderia por décadas.",
       "image": "https://cdn.mitvstatic.com/programs/br_ainda-estou-aqui-2024_l_m.jpg"
@@ -130394,14 +130590,14 @@
     },
     {
       "start": "20260320054000 +0000",
-      "stop": "20260320064000 +0000",
+      "stop": "20260320072500 +0000",
       "title": "A Sogra Perfeita",
       "desc": "Neide se separou do marido recentemente e deseja aproveitar ao máximo a vida de solteira. Atrapalhada pelo filho mais novo, ela decide juntar o rapaz com uma de suas funcionárias a todo custo.",
       "image": "https://cdn.mitvstatic.com/programs/br_a-sogra-perfeita-2021_l_m.jpg"
     },
     {
       "start": "20260320054000 +0000",
-      "stop": "20260320072500 +0000",
+      "stop": "20260320064000 +0000",
       "title": "A Sogra Perfeita",
       "desc": "Neide se separou do marido recentemente e deseja aproveitar ao máximo a vida de solteira. Atrapalhada pelo filho mais novo, ela decide juntar o rapaz com uma de suas funcionárias a todo custo.",
       "image": "https://cdn.mitvstatic.com/programs/br_a-sogra-perfeita-2021_l_m.jpg"
@@ -130527,14 +130723,14 @@
     },
     {
       "start": "20260322010000 +0000",
-      "stop": "20260322020000 +0000",
+      "stop": "20260322090000 +0000",
       "title": "Matadores de Aliens do Espaço Sideral",
       "desc": "Erick, o masscote do time de basquete local, e seu melhor amigo Tobias, que mora em um furgão de monitoramento, descobrem uma infecção alienígena que está assolando a pequena cidade de Costa Esmeralda. Eles se juntam a Gabi, uma líder de torcida que está à procura de seu irmão mais novo, Miguel, desaparecido há semanas. Munidos de todas as armas possíveis, eles agora precisam combater uma criatura vinda do espaço sideral que está à procura da criança.",
       "image": "https://cdn.mitvstatic.com/programs/br_matadores-de-aliens-do-espaco-sideral-2025_l_m.jpg"
     },
     {
       "start": "20260322010000 +0000",
-      "stop": "20260322090000 +0000",
+      "stop": "20260322020000 +0000",
       "title": "Matadores de Aliens do Espaço Sideral",
       "desc": "Erick, o masscote do time de basquete local, e seu melhor amigo Tobias, que mora em um furgão de monitoramento, descobrem uma infecção alienígena que está assolando a pequena cidade de Costa Esmeralda. Eles se juntam a Gabi, uma líder de torcida que está à procura de seu irmão mais novo, Miguel, desaparecido há semanas. Munidos de todas as armas possíveis, eles agora precisam combater uma criatura vinda do espaço sideral que está à procura da criança.",
       "image": "https://cdn.mitvstatic.com/programs/br_matadores-de-aliens-do-espaco-sideral-2025_l_m.jpg"
@@ -130753,14 +130949,14 @@
     },
     {
       "start": "20260317045500 +0000",
-      "stop": "20260317070500 +0000",
+      "stop": "20260317055500 +0000",
       "title": "Uma Família Feliz",
       "desc": "Eva acabou de dar à luz ao seu terceiro filho e se depara com a angústia de uma depressão pós-parto em meio a uma vida supostamente perfeita. O ar tranquilo de sua família é invadido por acontecimentos estranhos quando suas filhas gêmeas aparecem machucadas. Eva é acusada pela comunidade. Isolada e questionada por seu próprio marido, ela precisa superar sua fragilidade para provar sua inocência e reestruturar sua família.",
       "image": "https://cdn.mitvstatic.com/programs/br_uma-familia-feliz-2023_l_m.jpg"
     },
     {
       "start": "20260317045500 +0000",
-      "stop": "20260317055500 +0000",
+      "stop": "20260317070500 +0000",
       "title": "Uma Família Feliz",
       "desc": "Eva acabou de dar à luz ao seu terceiro filho e se depara com a angústia de uma depressão pós-parto em meio a uma vida supostamente perfeita. O ar tranquilo de sua família é invadido por acontecimentos estranhos quando suas filhas gêmeas aparecem machucadas. Eva é acusada pela comunidade. Isolada e questionada por seu próprio marido, ela precisa superar sua fragilidade para provar sua inocência e reestruturar sua família.",
       "image": "https://cdn.mitvstatic.com/programs/br_uma-familia-feliz-2023_l_m.jpg"
@@ -130844,14 +131040,14 @@
     },
     {
       "start": "20260318043000 +0000",
-      "stop": "20260318053000 +0000",
+      "stop": "20260318061500 +0000",
       "title": "Garota Mimada",
       "desc": "Poppy, uma garota de 16 anos, tem tudo o que seus ilimitados cartões de crédito podem comprar e um comportamento mimado para combinar. Após uma brincadeira de mau gosto, seu pai, frustrado, a manda para um colégio interno na Inglaterra. Lá, Poppy enfrenta uma diretora rigorosa e uma classe cheia de meninas que não tolera egoísmo.",
       "image": "https://cdn.mitvstatic.com/programs/br_garota-mimada-2008_l_m.jpg"
     },
     {
       "start": "20260318043000 +0000",
-      "stop": "20260318061500 +0000",
+      "stop": "20260318053000 +0000",
       "title": "Garota Mimada",
       "desc": "Poppy, uma garota de 16 anos, tem tudo o que seus ilimitados cartões de crédito podem comprar e um comportamento mimado para combinar. Após uma brincadeira de mau gosto, seu pai, frustrado, a manda para um colégio interno na Inglaterra. Lá, Poppy enfrenta uma diretora rigorosa e uma classe cheia de meninas que não tolera egoísmo.",
       "image": "https://cdn.mitvstatic.com/programs/br_garota-mimada-2008_l_m.jpg"
@@ -131236,14 +131432,14 @@
     },
     {
       "start": "20260322050000 +0000",
-      "stop": "20260322070500 +0000",
+      "stop": "20260322060000 +0000",
       "title": "Marte Um",
       "desc": "Uma família negra da periferia de Contagem, Minas Gerais, busca seguir seus sonhos em um país que acaba de eleger como presidente um homem de extrema-direita, que representa o contrário de tudo que eles são.",
       "image": "https://cdn.mitvstatic.com/programs/br_marte-um-2022_l_m.jpg"
     },
     {
       "start": "20260322050000 +0000",
-      "stop": "20260322060000 +0000",
+      "stop": "20260322070500 +0000",
       "title": "Marte Um",
       "desc": "Uma família negra da periferia de Contagem, Minas Gerais, busca seguir seus sonhos em um país que acaba de eleger como presidente um homem de extrema-direita, que representa o contrário de tudo que eles são.",
       "image": "https://cdn.mitvstatic.com/programs/br_marte-um-2022_l_m.jpg"
@@ -132155,14 +132351,14 @@
     },
     {
       "start": "20260319055300 +0000",
-      "stop": "20260319065300 +0000",
+      "stop": "20260319064000 +0000",
       "title": "Uma Mulher de Peso",
       "desc": "A família se esforça para permanecer unida após o derrame de Babs. Whitney se oferece para ajudar em sua recuperação, mas quando recebe uma proposta, precisa escolher entre a família e a carreira.",
       "image": "https://cdn.mitvstatic.com/programs/br_uma-mulher-de-peso-s04e13-uma-mulher-de-peso-pormenores_l_m.jpg"
     },
     {
       "start": "20260319055300 +0000",
-      "stop": "20260319064000 +0000",
+      "stop": "20260319065300 +0000",
       "title": "Uma Mulher de Peso",
       "desc": "A família se esforça para permanecer unida após o derrame de Babs. Whitney se oferece para ajudar em sua recuperação, mas quando recebe uma proposta, precisa escolher entre a família e a carreira.",
       "image": "https://cdn.mitvstatic.com/programs/br_uma-mulher-de-peso-s04e13-uma-mulher-de-peso-pormenores_l_m.jpg"
@@ -132386,14 +132582,14 @@
     },
     {
       "start": "20260320055100 +0000",
-      "stop": "20260320072400 +0000",
+      "stop": "20260320065100 +0000",
       "title": "Uma Mulher de Peso",
       "desc": "Whitney está pronta para uma turnê como dançarina de apoio, mas um amor secreto a faz repensar seus planos. Ashley prepara uma grande surpresa. Buddy e Heather se desentendem. Todd pretende trair sua eterna parceira de dança.",
       "image": "https://cdn.mitvstatic.com/programs/br_uma-mulher-de-peso-s05e01-a-surpresa_l_m.jpg"
     },
     {
       "start": "20260320055100 +0000",
-      "stop": "20260320065100 +0000",
+      "stop": "20260320072400 +0000",
       "title": "Uma Mulher de Peso",
       "desc": "Whitney está pronta para uma turnê como dançarina de apoio, mas um amor secreto a faz repensar seus planos. Ashley prepara uma grande surpresa. Buddy e Heather se desentendem. Todd pretende trair sua eterna parceira de dança.",
       "image": "https://cdn.mitvstatic.com/programs/br_uma-mulher-de-peso-s05e01-a-surpresa_l_m.jpg"
@@ -133585,14 +133781,14 @@
     },
     {
       "start": "20260317051700 +0000",
-      "stop": "20260317061700 +0000",
+      "stop": "20260317071800 +0000",
       "title": "Constantine",
       "desc": "Contos sobrenaturais baseados nas histórias em quadrinhos \"Hellblazer\". O solitário Constantine tenta garantir seu lugar no paraíso enviando demônios de volta ao inferno, mas seu destino está ligado ao de Angela, uma policial que investiga o suposto suicídio de sua irmã gêmea.",
       "image": "https://cdn.mitvstatic.com/programs/br_constantine-2005_l_m.jpg"
     },
     {
       "start": "20260317051700 +0000",
-      "stop": "20260317071800 +0000",
+      "stop": "20260317061700 +0000",
       "title": "Constantine",
       "desc": "Contos sobrenaturais baseados nas histórias em quadrinhos \"Hellblazer\". O solitário Constantine tenta garantir seu lugar no paraíso enviando demônios de volta ao inferno, mas seu destino está ligado ao de Angela, uma policial que investiga o suposto suicídio de sua irmã gêmea.",
       "image": "https://cdn.mitvstatic.com/programs/br_constantine-2005_l_m.jpg"
@@ -134376,14 +134572,14 @@
     },
     {
       "start": "20260321051800 +0000",
-      "stop": "20260321071800 +0000",
+      "stop": "20260321061800 +0000",
       "title": "Projeto Gemini",
       "desc": "Henry Brogan é um assassino de elite que se torna o alvo de um agente misterioso que aparentemente pode prever todos os seus movimentos. Ele logo descobre que o homem que está tentando matá-lo é uma versão mais jovem, rápida e clonada de si.",
       "image": "https://cdn.mitvstatic.com/programs/br_projeto-gemini-2019_l_m.jpg"
     },
     {
       "start": "20260321051800 +0000",
-      "stop": "20260321061800 +0000",
+      "stop": "20260321071800 +0000",
       "title": "Projeto Gemini",
       "desc": "Henry Brogan é um assassino de elite que se torna o alvo de um agente misterioso que aparentemente pode prever todos os seus movimentos. Ele logo descobre que o homem que está tentando matá-lo é uma versão mais jovem, rápida e clonada de si.",
       "image": "https://cdn.mitvstatic.com/programs/br_projeto-gemini-2019_l_m.jpg"
@@ -134551,14 +134747,14 @@
     },
     {
       "start": "20260322054700 +0000",
-      "stop": "20260322064700 +0000",
+      "stop": "20260322071500 +0000",
       "title": "Voe com a Águia",
       "desc": "Um jovem viaja até a cabana de sua falecida mãe para completar uma elaborada lista de tarefas e ganhar a sua herança.",
       "image": "https://cdn.mitvstatic.com/programs/br_voe-com-a-aguia-2021_l_m.jpg"
     },
     {
       "start": "20260322054700 +0000",
-      "stop": "20260322071500 +0000",
+      "stop": "20260322064700 +0000",
       "title": "Voe com a Águia",
       "desc": "Um jovem viaja até a cabana de sua falecida mãe para completar uma elaborada lista de tarefas e ganhar a sua herança.",
       "image": "https://cdn.mitvstatic.com/programs/br_voe-com-a-aguia-2021_l_m.jpg"
@@ -134726,14 +134922,14 @@
     },
     {
       "start": "20260323055700 +0000",
-      "stop": "20260323065700 +0000",
+      "stop": "20260323080100 +0000",
       "title": "Um Senhor Estagiário",
       "desc": "Começar um novo emprego pode ser um grande desafio, especialmente para alguém aposentado. Tentando voltar ao mercado de trabalho, o viúvo Ben Whittaker, de 70 anos, aproveita a oportunidade para se tornar um estagiário sênior em um site de moda. Ben logo se torna popular entre seus colegas de trabalho mais jovens, incluindo Jules Ostin, a chefe e fundadora da empresa. O charme, a sabedoria e o senso de humor de Whittaker o ajudam a desenvolver um vínculo especial e uma bela amizade com Jules.",
       "image": "https://cdn.mitvstatic.com/programs/br_um-senhor-estagiario-2015_l_m.jpg"
     },
     {
       "start": "20260323055700 +0000",
-      "stop": "20260323080100 +0000",
+      "stop": "20260323065700 +0000",
       "title": "Um Senhor Estagiário",
       "desc": "Começar um novo emprego pode ser um grande desafio, especialmente para alguém aposentado. Tentando voltar ao mercado de trabalho, o viúvo Ben Whittaker, de 70 anos, aproveita a oportunidade para se tornar um estagiário sênior em um site de moda. Ben logo se torna popular entre seus colegas de trabalho mais jovens, incluindo Jules Ostin, a chefe e fundadora da empresa. O charme, a sabedoria e o senso de humor de Whittaker o ajudam a desenvolver um vínculo especial e uma bela amizade com Jules.",
       "image": "https://cdn.mitvstatic.com/programs/br_um-senhor-estagiario-2015_l_m.jpg"
@@ -134915,13 +135111,6 @@
     }
   ],
   "TNTNovelas.br": [
-    {
-      "start": "20260316055900 +0000",
-      "stop": "20260316065100 +0000",
-      "title": "Sonhos de Liberdade",
-      "desc": "Após descobrir que não está grávida, Begoña não sabe como contar a Jesús, que recebe uma notícia preocupante sobre a filha.",
-      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/50/23509891_a3e4aa70559bca84775b576afd23ce2c.jpg"
-    },
     {
       "start": "20260316065100 +0000",
       "stop": "20260316074500 +0000",
@@ -135357,18 +135546,18 @@
       "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/16/21160500_1318CF3227FE5AA7.jpg"
     },
     {
-      "start": "20260318061500 +0000",
-      "stop": "20260318063700 +0000",
-      "title": "Eu Sou Betty, a Feia",
-      "desc": "Patricia chega na Ecomoda; Betty e Armando se confrontam no tribunal.",
-      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/16/21160500_1318CF3227FE5AA7.jpg"
-    },
-    {
       "start": "20260318063700 +0000",
       "stop": "20260318065900 +0000",
       "title": "Eu Sou Betty, a Feia",
       "desc": "Armando pede a Betty que o deixe ter um escritório na Ecomoda para trabalhar na recuperação.",
       "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/16/21160432_E8C413076E639E3B.jpg"
+    },
+    {
+      "start": "20260318065900 +0000",
+      "stop": "20260318075100 +0000",
+      "title": "Sonhos de Liberdade",
+      "desc": "A cumplicidade entre Begoña e Andrés incomoda Maria, e o lançamento de um novo perfume causa problemas na família.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/53/23536152_f220268d1786b31585fcab8b1225119f.jpg"
     },
     {
       "start": "20260318065900 +0000",
@@ -135567,11 +135756,11 @@
       "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/16/21163271_04C323A89E4CECA2.jpg"
     },
     {
-      "start": "20260319063300 +0000",
-      "stop": "20260319065600 +0000",
+      "start": "20260319065600 +0000",
+      "stop": "20260319071800 +0000",
       "title": "Eu Sou Betty, a Feia",
-      "desc": "Armando diz a Mario que perdeu a esperança em Betty; Betty sai sozinha com Marcela.",
-      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/16/21163271_04C323A89E4CECA2.jpg"
+      "desc": "Betty decide repreender e punir o quartel e Patrícia, mas não demiti-las.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/16/21163178_8B1C051BB1401546.jpg"
     },
     {
       "start": "20260319065600 +0000",
@@ -135784,11 +135973,11 @@
       "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/16/21166672_E5EDB0F6000A33BF.jpg"
     },
     {
-      "start": "20260320061300 +0000",
-      "stop": "20260320063700 +0000",
-      "title": "Eu Sou Betty, a Feia",
-      "desc": "A diretoria aceita a proposta da Betty; Patricia se torna a secretária de Marcela.",
-      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/16/21166672_E5EDB0F6000A33BF.jpg"
+      "start": "20260320063700 +0000",
+      "stop": "20260320072900 +0000",
+      "title": "Sonhos de Liberdade",
+      "desc": "Begoña confessa a Andrés a verdade sobre sua tia. Depois, no jantar de Don Damián, Jesús provoca uma cena constrangedora.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/54/23545917_bed5a961607da50f127be1088d845684.jpg"
     },
     {
       "start": "20260320063700 +0000",
@@ -136181,6 +136370,41 @@
       "title": "Minha Menina",
       "desc": "Candan toma algumas decisões precipitadas após descobrir a doença de Öykü; a visita de Asu à nova casa de Demir e Öykü deixa Demir desconfiado.",
       "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/21/08/21089042_BA83063FCBA512B5.jpg"
+    },
+    {
+      "start": "20260322013000 +0000",
+      "stop": "20260322021700 +0000",
+      "title": "O Canto do Pássaro",
+      "desc": "Seyran e Sinan acompanham Suna e Abidin a um centro comercial para preparar o casamento deles, enquanto Ferit e sua atual parceira, Diyar, os veem.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/53/23536026_26a0f207b225a71dc558bbe5402cfd92.jpg"
+    },
+    {
+      "start": "20260322021700 +0000",
+      "stop": "20260322033500 +0000",
+      "title": "O Canto do Pássaro",
+      "desc": "Seyran e Sinan vão ao casamento de Suna e Abidin em Istambul, onde encontram Ferit. Isso desperta memórias e emoções do passado.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/54/23540943_a24edc625555a06a9de058d85d92b9af.jpg"
+    },
+    {
+      "start": "20260322033500 +0000",
+      "stop": "20260322042200 +0000",
+      "title": "O Canto do Pássaro",
+      "desc": "No casamento de Suna, Kazim incomoda Ferit, que vai embora e fica bêbado em uma boate; Seyran fica nervosa, fazendo com que Sinan desconfie.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/54/23545602_aed6868e3ac1556c082257c632ba7760.jpg"
+    },
+    {
+      "start": "20260322042200 +0000",
+      "stop": "20260322050900 +0000",
+      "title": "O Canto do Pássaro",
+      "desc": "Sevki exige dinheiro de Suna em troca de seu silêncio. Entretanto, os sentimentos de Seyran tensionam sua relação com Sinan.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/55/23552567_0ee1182df66c01c3b169bb3864d65f10.jpg"
+    },
+    {
+      "start": "20260322050900 +0000",
+      "stop": "20260322055500 +0000",
+      "title": "O Canto do Pássaro",
+      "desc": "Suna empenha uma relíquia de família para pagar Sevki; Ferit tenta se reconciliar com Diyar; Betül enfrenta complicações na gravidez.",
+      "image": "http://media.gvp.telefonica.com/storageArea0/IMAGES/00/23/55/23554218_2530b9fae3c4ddf04bc73416ff54d64f.jpg"
     }
   ],
   "TNTSeries.br": [
@@ -136417,14 +136641,14 @@
     },
     {
       "start": "20260317055400 +0000",
-      "stop": "20260317063800 +0000",
+      "stop": "20260317065400 +0000",
       "title": "The Mentalist",
       "desc": "Um estagiário proeminente é morto; Patrick quer saber se novas informações foram descobertas sobre o caso do Red John.",
       "image": "https://cdn.mitvstatic.com/programs/br_the-mentalist-s02e02-the-scarlet-letter_l_m.jpg"
     },
     {
       "start": "20260317055400 +0000",
-      "stop": "20260317065400 +0000",
+      "stop": "20260317063800 +0000",
       "title": "The Mentalist",
       "desc": "Um estagiário proeminente é morto; Patrick quer saber se novas informações foram descobertas sobre o caso do Red John.",
       "image": "https://cdn.mitvstatic.com/programs/br_the-mentalist-s02e02-the-scarlet-letter_l_m.jpg"
@@ -137845,14 +138069,14 @@
     },
     {
       "start": "20260323054400 +0000",
-      "stop": "20260323064400 +0000",
+      "stop": "20260323062700 +0000",
       "title": "The Mentalist",
       "desc": "A equipe do CBI investiga um caso de 25 anos atrás que parece envolver Red John e o grupo Visualize; Lisbon reflete sobre o futuro.",
       "image": "https://cdn.mitvstatic.com/programs/br_the-mentalist-s05e13-the-red-barn_l_m.jpg"
     },
     {
       "start": "20260323054400 +0000",
-      "stop": "20260323062700 +0000",
+      "stop": "20260323064400 +0000",
       "title": "The Mentalist",
       "desc": "A equipe do CBI investiga um caso de 25 anos atrás que parece envolver Red John e o grupo Visualize; Lisbon reflete sobre o futuro.",
       "image": "https://cdn.mitvstatic.com/programs/br_the-mentalist-s05e13-the-red-barn_l_m.jpg"
@@ -142583,14 +142807,14 @@
     },
     {
       "start": "20260317030000 +0000",
-      "stop": "20260317040000 +0000",
+      "stop": "20260317090000 +0000",
       "title": "Comissão",
       "desc": "O programa transmite as discussões e votações do plenário.",
       "image": "https://cdn.mitvstatic.com/programs/br_comiss-o_l_m.jpg"
     },
     {
       "start": "20260317030000 +0000",
-      "stop": "20260317090000 +0000",
+      "stop": "20260317040000 +0000",
       "title": "Comissão",
       "desc": "O programa transmite as discussões e votações do plenário.",
       "image": "https://cdn.mitvstatic.com/programs/br_comiss-o_l_m.jpg"
@@ -143031,14 +143255,14 @@
     },
     {
       "start": "20260320030000 +0000",
-      "stop": "20260320040000 +0000",
+      "stop": "20260320103000 +0000",
       "title": "Comissão",
       "desc": "O programa transmite as discussões e votações do plenário.",
       "image": "https://cdn.mitvstatic.com/programs/br_comiss-o_l_m.jpg"
     },
     {
       "start": "20260320030000 +0000",
-      "stop": "20260320103000 +0000",
+      "stop": "20260320040000 +0000",
       "title": "Comissão",
       "desc": "O programa transmite as discussões e votações do plenário.",
       "image": "https://cdn.mitvstatic.com/programs/br_comiss-o_l_m.jpg"
@@ -143199,14 +143423,14 @@
     },
     {
       "start": "20260321050000 +0000",
-      "stop": "20260321060000 +0000",
+      "stop": "20260321103000 +0000",
       "title": "Comissão",
       "desc": "O programa transmite as discussões e votações do plenário.",
       "image": "https://cdn.mitvstatic.com/programs/br_comiss-o_l_m.jpg"
     },
     {
       "start": "20260321050000 +0000",
-      "stop": "20260321103000 +0000",
+      "stop": "20260321060000 +0000",
       "title": "Comissão",
       "desc": "O programa transmite as discussões e votações do plenário.",
       "image": "https://cdn.mitvstatic.com/programs/br_comiss-o_l_m.jpg"
@@ -143605,14 +143829,14 @@
     },
     {
       "start": "20260323023000 +0000",
-      "stop": "20260323033000 +0000",
+      "stop": "20260323103000 +0000",
       "title": "Qual a Questão?",
       "desc": "Discussões sobre grandes temas da agenda nacional que mexem com o dia a dia dos brasileiros, como educação, economia, meio ambiente, empregos, tecnologia e saúde. Com participação de especialistas e representantes da sociedade civil.",
       "image": "https://cdn.mitvstatic.com/programs/br_qual-a-quest-o_l_m.jpg"
     },
     {
       "start": "20260323023000 +0000",
-      "stop": "20260323103000 +0000",
+      "stop": "20260323033000 +0000",
       "title": "Qual a Questão?",
       "desc": "Discussões sobre grandes temas da agenda nacional que mexem com o dia a dia dos brasileiros, como educação, economia, meio ambiente, empregos, tecnologia e saúde. Com participação de especialistas e representantes da sociedade civil.",
       "image": "https://cdn.mitvstatic.com/programs/br_qual-a-quest-o_l_m.jpg"
@@ -145809,14 +146033,14 @@
     },
     {
       "start": "20260318053000 +0000",
-      "stop": "20260318063000 +0000",
+      "stop": "20260318062000 +0000",
       "title": "Chicago Med",
       "desc": "Goodwin anuncia um novo chefe para o departamento de emergência e sua escolha não agrada a todos; o doutor Charles cuida de assuntos familiares.",
       "image": "https://cdn.mitvstatic.com/programs/br_chicago-med-s06e02_l_m.jpg"
     },
     {
       "start": "20260318053000 +0000",
-      "stop": "20260318062000 +0000",
+      "stop": "20260318063000 +0000",
       "title": "Chicago Med",
       "desc": "Goodwin anuncia um novo chefe para o departamento de emergência e sua escolha não agrada a todos; o doutor Charles cuida de assuntos familiares.",
       "image": "https://cdn.mitvstatic.com/programs/br_chicago-med-s06e02_l_m.jpg"
@@ -146012,14 +146236,14 @@
     },
     {
       "start": "20260319053000 +0000",
-      "stop": "20260319063000 +0000",
+      "stop": "20260319062000 +0000",
       "title": "Chicago Med",
       "desc": "O doutor Marcel e o doutor Manning colocam tudo em risco para ajudar uma mulher doente; o doutor Choi lida com um paciente que exige perfeição absoluta de si mesmo.",
       "image": "https://cdn.mitvstatic.com/programs/br_chicago-med-s06e04_l_m.jpg"
     },
     {
       "start": "20260319053000 +0000",
-      "stop": "20260319062000 +0000",
+      "stop": "20260319063000 +0000",
       "title": "Chicago Med",
       "desc": "O doutor Marcel e o doutor Manning colocam tudo em risco para ajudar uma mulher doente; o doutor Choi lida com um paciente que exige perfeição absoluta de si mesmo.",
       "image": "https://cdn.mitvstatic.com/programs/br_chicago-med-s06e04_l_m.jpg"
@@ -146418,14 +146642,14 @@
     },
     {
       "start": "20260321053000 +0000",
-      "stop": "20260321063000 +0000",
+      "stop": "20260321062000 +0000",
       "title": "Chicago Med",
       "desc": "Ethan contrata um colega da Marinha; Maggie precisa fazer uma escolha que mudará a vida de Auggie.",
       "image": "https://cdn.mitvstatic.com/programs/br_chicago-med-s06e08_l_m.jpg"
     },
     {
       "start": "20260321053000 +0000",
-      "stop": "20260321062000 +0000",
+      "stop": "20260321063000 +0000",
       "title": "Chicago Med",
       "desc": "Ethan contrata um colega da Marinha; Maggie precisa fazer uma escolha que mudará a vida de Auggie.",
       "image": "https://cdn.mitvstatic.com/programs/br_chicago-med-s06e08_l_m.jpg"
@@ -146621,14 +146845,14 @@
     },
     {
       "start": "20260322053000 +0000",
-      "stop": "20260322063000 +0000",
+      "stop": "20260322062000 +0000",
       "title": "Chicago P.D.",
       "desc": "Uma jovem latina é brutalmente assassinada, e a Inteligência acha que ela estava trabalhando como mula de drogas. A investigação os leva a descobrir que talvez haja outro motivo para sua morte.",
       "image": "https://cdn.mitvstatic.com/programs/br_chicago-p-d-s05e03_l_m.jpg"
     },
     {
       "start": "20260322053000 +0000",
-      "stop": "20260322062000 +0000",
+      "stop": "20260322063000 +0000",
       "title": "Chicago P.D.",
       "desc": "Uma jovem latina é brutalmente assassinada, e a Inteligência acha que ela estava trabalhando como mula de drogas. A investigação os leva a descobrir que talvez haja outro motivo para sua morte.",
       "image": "https://cdn.mitvstatic.com/programs/br_chicago-p-d-s05e03_l_m.jpg"
@@ -146810,14 +147034,14 @@
     },
     {
       "start": "20260323051000 +0000",
-      "stop": "20260323060500 +0000",
+      "stop": "20260323061000 +0000",
       "title": "Law & Order",
       "desc": "Uma misteriosa ligação telefônica para a capitã Benson leva os detetives à cena de um assassinato.",
       "image": "https://cdn.mitvstatic.com/programs/br_law-order-s24e19-brincando-com-o-fogo_l_m.jpg"
     },
     {
       "start": "20260323051000 +0000",
-      "stop": "20260323061000 +0000",
+      "stop": "20260323060500 +0000",
       "title": "Law & Order",
       "desc": "Uma misteriosa ligação telefônica para a capitã Benson leva os detetives à cena de um assassinato.",
       "image": "https://cdn.mitvstatic.com/programs/br_law-order-s24e19-brincando-com-o-fogo_l_m.jpg"
@@ -148732,14 +148956,14 @@
     },
     {
       "start": "20260318054800 +0000",
-      "stop": "20260318064800 +0000",
+      "stop": "20260318060800 +0000",
       "title": "The Big Bang Theory",
       "desc": "Howard cogita se deve ou não abrir uma carta escrita por seu pai; Penny e Leonard oferecem uma festa para adultos.",
       "image": "https://cdn.mitvstatic.com/programs/br_the-big-bang-theory-s06e19-the-closet-reconfiguration_l_m.jpg"
     },
     {
       "start": "20260318054800 +0000",
-      "stop": "20260318060800 +0000",
+      "stop": "20260318064800 +0000",
       "title": "The Big Bang Theory",
       "desc": "Howard cogita se deve ou não abrir uma carta escrita por seu pai; Penny e Leonard oferecem uma festa para adultos.",
       "image": "https://cdn.mitvstatic.com/programs/br_the-big-bang-theory-s06e19-the-closet-reconfiguration_l_m.jpg"
@@ -149103,14 +149327,14 @@
     },
     {
       "start": "20260319055100 +0000",
-      "stop": "20260319061200 +0000",
+      "stop": "20260319065100 +0000",
       "title": "The Big Bang Theory",
       "desc": "A amizade de Leonard e Sheldon é posta à prova; Leonard volta mais cedo da viagem e se esconde na casa de Penny; Sheldon acha que Penny está traindo Leonard; a relação de Wolowitz com a mãe está ameaçando sua masculinidade.",
       "image": "https://cdn.mitvstatic.com/programs/br_the-big-bang-theory-s07e02-the-deception-verification_l_m.jpg"
     },
     {
       "start": "20260319055100 +0000",
-      "stop": "20260319065100 +0000",
+      "stop": "20260319061200 +0000",
       "title": "The Big Bang Theory",
       "desc": "A amizade de Leonard e Sheldon é posta à prova; Leonard volta mais cedo da viagem e se esconde na casa de Penny; Sheldon acha que Penny está traindo Leonard; a relação de Wolowitz com a mãe está ameaçando sua masculinidade.",
       "image": "https://cdn.mitvstatic.com/programs/br_the-big-bang-theory-s07e02-the-deception-verification_l_m.jpg"
