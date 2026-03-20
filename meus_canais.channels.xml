@@ -30,7 +30,7 @@
     <channel site="vivoplay.com.br" lang="pt" xmltv_id="ESPN4.br" site_id="lch144">ESPN 4</channel>
     <channel site="vivoplay.com.br" lang="pt" xmltv_id="ESPN5.br" site_id="lch855">ESPN 5</channel>
     <channel site="vivoplay.com.br" lang="pt" xmltv_id="ESPN6.br" site_id="lch3545">ESPN 6</channel>
-    <channel site="epgshare01.online" lang="en" xmltv_id="FIFA+.br" site_id="PLEX1#plex.tv.FIFA+.plex">FIFA+</channel>
+    <channel site="plex.tv" site_id="66634bd2ca7b22f4c3a2d731" lang="pt" xmltv_id="FIFA+.br">FIFA+</channel>
     <channel site="mi.tv" lang="pt" xmltv_id="FoodNetwork.br" site_id="br#food-network">Food Network</channel>
     <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#fox-sports-2-hd">FOX Sports 2 HD</channel>
     <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#futura-hd">Futura HD</channel>
