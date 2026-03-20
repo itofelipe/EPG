@@ -55,14 +55,14 @@
     <channel site="mi.tv" lang="pt" xmltv_id="Megapix.br" site_id="br#megapix">Megapix</channel>
     <channel site="mi.tv" lang="pt" xmltv_id="Multishow.br" site_id="br#multishow">Multishow</channel>
     <channel site="mi.tv" lang="pt" xmltv_id="NationalGeographic.br" site_id="br#national-geographic">National Geographic</channel>
-    <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#premiere-clubes-hd">Premiere Clubes HD</channel>
-    <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#premiere-2">Premiere 2</channel>
-    <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#premiere-3">Premiere 3</channel>
-    <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#premiere-4">Premiere 4</channel>
-    <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#premiere-5-brazil">Premiere 5 Brazil</channel>
-    <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#premiere-6">Premiere 6</channel>
-    <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#premiere-7">Premiere 7</channel>
-    <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#premiere-8">Premiere 8</channel>
+    <channel site="vivoplay.com.br" lang="pt" xmltv_id="br#premiere-clubes-hd" site_id="lch123">Premiere</channel>
+    <channel site="vivoplay.com.br" lang="pt" xmltv_id="br#premiere-2" site_id="lch142">Premiere 2</channel>
+    <channel site="vivoplay.com.br" lang="pt" xmltv_id="br#premiere-3" site_id="lch937">Premiere 3</channel>
+    <channel site="vivoplay.com.br" lang="pt" xmltv_id="br#premiere-4" site_id="lch1995">Premiere 4</channel>
+    <channel site="vivoplay.com.br" lang="pt" xmltv_id="br#premiere-5-brazil" site_id="lch1996">Premiere 5</channel>
+    <channel site="vivoplay.com.br" lang="pt" xmltv_id="br#premiere-6" site_id="lch2440">Premiere 6</channel>
+    <channel site="vivoplay.com.br" lang="pt" xmltv_id="br#premiere-7" site_id="lch2441">Premiere 7</channel>
+    <channel site="vivoplay.com.br" lang="pt" xmltv_id="br#premiere-8" site_id="lch2439">Premiere 8</channel>
     <channel site="mi.tv" lang="pt" xmltv_id="Record.br" site_id="br#record">Record TV</channel>
     <channel site="mi.tv" lang="pt" xmltv_id="" site_id="br#record-news-hd">Record News HD</channel>
     <channel site="mi.tv" lang="pt" xmltv_id="RedeTV.br" site_id="br#rede-tv">RedeTV!</channel>
