@@ -2,6 +2,7 @@ const cheerio = require('cheerio')
 const dayjs = require('dayjs')
 const utc = require('dayjs/plugin/utc')
 const customParseFormat = require('dayjs/plugin/customParseFormat')
+const https = require('https')
 
 dayjs.extend(utc)
 dayjs.extend(customParseFormat)
@@ -18,7 +19,7 @@ const headers = {
 module.exports = {
   site: 'mi.tv',
   days: 2,
-  request: { headers },
+  request: { headers, httpsAgent: new https.Agent({ rejectUnauthorized: false }) },
   url({ date, channel }) {
     const [country, id] = channel.site_id.split('#')
     return `https://mi.tv/${country}/async/channel/${id}/${date.format('YYYY-MM-DD')}/0`
@@ -65,7 +66,7 @@ module.exports = {
 
     const axios = require('axios')
     const data = await axios
-      .get(`https://mi.tv/${country}/sitemap`)
+      .get(`https://mi.tv/${country}/sitemap`, { httpsAgent: new https.Agent({ rejectUnauthorized: false }) })
       .then(r => r.data)
       .catch(console.log)
 
